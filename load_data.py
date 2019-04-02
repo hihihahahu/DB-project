@@ -39,14 +39,14 @@ with open("CrimeStat.csv","r") as f:
     next(f)
     cur.copy_from(f, "CrimeStat", sep = ",")
     
-crime_stat_by_pop = pandas.read_csv('Index__Violent__Property__and_Firearm_Rates_By_County__Beginning_1990.csv')
-crime_stat_by_pop.shape
-crime_stat_by_pop.fillna(0, inplace = True)
-crime_stat_by_pop.drop_duplicates(keep = False, inplace = True)
-crime_stat_by_pop.drop(['Index Rate', 'Violent Rate', 'Property Rate', 'Firearm Rate'], axis = 1, inplace = True)
-crime_stat_by_pop.to_csv('CrimeStat2.csv', index=False, float_format = '%.0f')
+population = pandas.read_csv('Index__Violent__Property__and_Firearm_Rates_By_County__Beginning_1990.csv')
+population.shape
+population.fillna(0, inplace = True)
+population.drop_duplicates(keep = False, inplace = True)
+population.drop(['Index Rate', 'Index Count', 'Violent Rate','Violent Count', 'Property Rate', 'Property Count', 'Firearm Rate', 'Firearm Count'], axis = 1, inplace = True)
+population.to_csv('Population.csv', index=False, float_format = '%.0f')
 
-with open("CrimeStat2.csv", "r") as f:
+with open("Population.csv", "r") as f:
     next(f)
-    cur.copy_from(f, "CrimeByPopulation", sep = ",")
+    cur.copy_from(f, "Population", sep = ",")
     

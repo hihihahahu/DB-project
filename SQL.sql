@@ -28,7 +28,6 @@ CREATE TABLE CrimeStat(
         Bulglary INTEGER,
         Larceny INTEGER,
         MotorTheft INTEGER,
-        Firearm INTEGER,
 		Region VARCHAR(255),
         PRIMARY KEY(County, Agency, Year)
 );
