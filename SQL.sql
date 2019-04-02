@@ -14,9 +14,6 @@ CREATE TABLE UnemploymentStat(
 	PRIMARY KEY(County, Year, Month)
 );
 
-
-
-
 CREATE TABLE CrimeStat(
         County VARCHAR(255),
 		Agency VARCHAR(255),
@@ -31,6 +28,7 @@ CREATE TABLE CrimeStat(
         Bulglary INTEGER,
         Larceny INTEGER,
         MotorTheft INTEGER,
+        Firearm INTEGER,
 		Region VARCHAR(255),
         PRIMARY KEY(County, Agency, Year)
 );
@@ -39,14 +37,6 @@ CREATE TABLE CrimeByPopulation(
 		County VARCHAR(255),
 		Year INTEGER,
 		Population INTEGER,
-		IndexCount INTEGER,
-		--IndexRate FLOAT, --will be accessed via view
-		ViolentCount INTEGER,
-		--ViolentRate FLOAT, --will be accessed via view
-		PropertyCount INTEGER,
-		--PropertyRate FLOAT, --will be accessed via view
-		FirearmCount INTEGER,
-		--FirearmRate FLOAT, --will be accessed via view
 		PRIMARY KEY(County, Year)
 );
 
