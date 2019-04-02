@@ -1,7 +1,8 @@
 DROP TABLE IF EXISTS UnemploymentStat;
 DROP TABLE IF EXISTS CrimeStat;
-DROP TABLE IF EXISTS CrimeByPopulation;
-
+DROP TABLE IF EXISTS Population;
+DROP VIEW IF EXISTS CrimeTotal
+DROP VIEW IF EXISTS CrimeRate
 
 CREATE TABLE UnemploymentStat(
 	County VARCHAR(255),
@@ -28,7 +29,6 @@ CREATE TABLE CrimeStat(
         Bulglary INTEGER,
         Larceny INTEGER,
         MotorTheft INTEGER,
-        Firearm INTEGER,
 		Region VARCHAR(255),
         PRIMARY KEY(County, Agency, Year)
 );
@@ -40,4 +40,20 @@ CREATE TABLE Population(
 		PRIMARY KEY(County, Year)
 );
 
+CREATE VIEW CrimeTotal AS 
+	SELECT County, Agency, Year,
+   		   Murder + Rape + Robbery + AggravatedAssualt AS ViolentTotal,
+           Bulglary + Larceny + MotorTheft AS PropertyTotal,
+           Murder + Rape + Robbery + AggravatedAssualt + Bulglary + Larceny + MotorTheft AS IndexTotal
+	FROM crimeStat
+
+CREATE VIEW CrimeRate AS
+	SELECT County, Year, ViolentTotal/(Population/100000) AS ViolentRate, PropertyTotal/(Population/100000) AS PropertyRate, IndexTotal/(Population/100000) AS IndexRate
+	FROM Population NATURAL JOIN
+		(SELECT County, Year,
+			    SUM(ViolentTotal) AS ViolentTotal,
+			    SUM(PropertyTotal) AS PropertyTotal,
+			    SUM(IndexTotal) AS IndexTotal
+		 FROM CrimeTotal
+		 GROUP BY County, Year) CrimeCount
 
