@@ -33,7 +33,7 @@ CREATE TABLE CrimeStat(
         PRIMARY KEY(County, Agency, Year)
 );
 
-CREATE TABLE CrimeByPopulation(
+CREATE TABLE Population(
 		County VARCHAR(255),
 		Year INTEGER,
 		Population INTEGER,
