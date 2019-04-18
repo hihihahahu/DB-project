@@ -1,22 +1,20 @@
 County,Agency,Year,Months Reported,Index Total,Violent Total,Murder,Rape,Robbery,Aggravated Assault,Property Total,Burglary,Larceny,Motor Vehicle Theft,Region
 Dutchess,Red Hook Vg PD,2004,0,,,,,,,,,,,Non-New York City
-Steuben,Steuben County Sheriff,2017,12,115,23,0,8,0,15,92,25,64,3,Non-New York City
 Nassau,Lynbrook Vg PD,2015,12,159,11,0,1,3,7,148,20,119,9,Non-New York City
 Schoharie,Schoharie PCT (NYC-DEPP),2003,0,,,,,,,,,,,Non-New York City
+Steuben,Steuben County Sheriff,2017,12,115,23,0,8,0,15,92,25,64,3,Non-New York City
 Chautauqua,Chautauqua County Sheriff,2016,12,642,51,0,17,6,28,591,182,387,22,Non-New York City
-Chautauqua,County Total,2016,,3327,356,4,84,65,203,2971,727,2139,105,Non-New York City
 Erie,Erie County Sheriff,2015,12,934,77,0,2,12,63,857,189,646,22,Non-New York City
 Suffolk,Suffolk County PD,2012,12,24216,1785,23,37,681,1044,22431,3699,17686,1046,Non-New York City
 Franklin,Franklin County State Police,2015,12,411,50,0,36,1,13,361,84,268,9,Non-New York City
 Westchester,Croton-Kensico PCT (NYC-DEPP),2011,12,6,0,0,0,0,0,6,0,6,0,Non-New York City
 Suffolk,East Hampton Town PD,2014,12,294,7,0,1,0,6,287,39,244,4,Non-New York City
 St Lawrence,Norfolk Town PD,2015,12,6,3,0,0,0,3,3,0,3,0,Non-New York City
-Orange,County Total,2016,,7313,904,11,132,234,527,6409,774,5438,197,Non-New York City
-Otsego,Oneonta City PD,2017,12,261,27,1,7,2,17,234,50,183,1,Non-New York City
+Chautauqua,County Total,2016,,3327,356,4,84,65,203,2971,727,2139,105,Non-New York City
 Onondaga,Jordan Vg PD,2015,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Chemung,Elmira Heights Vg PD,2015,12,63,3,0,1,1,1,60,13,46,1,Non-New York City
-Sullivan,Liberty Vg PD,2014,12,239,17,0,2,4,11,222,39,177,6,Non-New York City
-Ontario,Canandaigua City PD,2017,12,242,34,1,11,1,21,208,36,167,5,Non-New York City
+Orange,County Total,2016,,7313,904,11,132,234,527,6409,774,5438,197,Non-New York City
+Otsego,Oneonta City PD,2017,12,261,27,1,7,2,17,234,50,183,1,Non-New York City
 Albany,Colonie Town PD,2015,12,2057,74,1,3,28,42,1983,201,1745,37,Non-New York City
 Columbia,Greenport Town PD,2014,12,172,1,0,0,0,1,171,5,164,2,Non-New York City
 Nassau,Long Beach City PD,1997,,787,67,1,1,34,31,720,83,519,118,Non-New York City
@@ -47,6 +45,8 @@ Allegany,Allegany County State Police,2001,,348,59,0,3,1,55,289,104,171,14,Non-N
 Erie,Erie County (RR-NS),1999,,26,0,0,0,0,0,26,15,6,5,Non-New York City
 Rockland,Haverstraw Vg PD,2001,,212,57,1,0,8,48,155,38,102,15,Non-New York City
 Hamilton,County Total,2010,,52,4,0,1,1,2,48,17,29,2,Non-New York City
+Sullivan,Liberty Vg PD,2014,12,239,17,0,2,4,11,222,39,177,6,Non-New York City
+Ontario,Canandaigua City PD,2017,12,242,34,1,11,1,21,208,36,167,5,Non-New York City
 Essex,County Total,2007,,540,80,0,11,1,68,460,122,317,21,Non-New York City
 Onondaga,Onondaga County Park PD,2017,12,17,0,0,0,0,0,17,0,17,0,Non-New York City
 Herkimer,Frankfort Vg PD,1991,,79,8,0,0,4,4,71,27,44,0,Non-New York City
@@ -73,7 +73,6 @@ Orleans,Orleans County Park PD,2010,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Dutchess,Poughkeepsie Town PD,2008,12,1545,59,0,1,32,26,1486,126,1341,19,Non-New York City
 Orange,Montgomery Vg PD,2012,12,19,0,0,0,0,0,19,0,19,0,Non-New York City
 Clinton,Plattsburgh City PD,2001,,436,38,0,3,2,33,398,58,334,6,Non-New York City
-Oneida,Utica City PD,2015,12,2549,350,7,44,87,212,2199,443,1662,94,Non-New York City
 Nassau,Rockville Centre Vg PD,2013,12,293,22,1,1,11,9,271,30,223,18,Non-New York City
 Fulton,Fulton County Sheriff,2014,12,336,5,0,0,2,3,331,100,226,5,Non-New York City
 Westchester,Pelham Manor Vg PD,1996,,287,16,1,1,11,3,271,24,194,53,Non-New York City
@@ -96,6 +95,7 @@ Suffolk,Northport Vg PD,2006,12,72,2,0,0,1,1,70,8,60,2,Non-New York City
 Washington,Granville Vg PD,1999,,76,7,0,2,1,4,69,14,53,2,Non-New York City
 Niagara,Niagara County State Police,1999,,230,11,0,1,5,5,219,44,160,15,Non-New York City
 Ulster,Kingston City PD,1997,,1203,85,0,9,40,36,1118,147,927,44,Non-New York City
+Oneida,Utica City PD,2015,12,2549,350,7,44,87,212,2199,443,1662,94,Non-New York City
 Schoharie,SUNY College At Cobleskill,1990,,123,2,0,2,0,0,121,60,61,0,Non-New York City
 Nassau,Nassau County State Police,2009,12,14,2,0,0,0,2,12,0,11,1,Non-New York City
 Putnam,Putnam Valley Town PD,1995,,185,5,0,2,0,3,180,58,112,10,Non-New York City
@@ -199,12 +199,10 @@ Clinton,County Total,1999,,1442,214,0,5,4,205,1228,237,970,21,Non-New York City
 Warren,Glens Falls City PD,2002,12,668,36,0,2,4,30,632,117,502,13,Non-New York City
 Ontario,Phelps Vg PD,2017,6,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Westchester,Mount Pleasant Town PD,2004,12,194,11,0,0,5,6,183,13,156,14,Non-New York City
-Broome,Broome County Sheriff,2017,12,552,58,0,16,6,36,494,80,396,18,Non-New York City
-Washington,Washington County Sheriff,2015,12,230,14,1,7,0,6,216,41,170,5,Non-New York City
 Tompkins,Tompkins County Sheriff,2003,12,528,15,1,3,4,7,513,102,390,21,Non-New York City
 Yates,Yates County State Police,2006,12,33,7,0,1,0,6,26,3,23,0,Non-New York City
 Schenectady,Glenville Town PD,1994,,474,35,0,2,2,31,439,108,309,22,Non-New York City
-Jefferson,Jefferson County Park PD,2017,12,12,0,0,0,0,0,12,1,11,0,Non-New York City
+Broome,Broome County Sheriff,2017,12,552,58,0,16,6,36,494,80,396,18,Non-New York City
 Dutchess,Poughkeepsie Town PD,2012,12,1441,54,0,2,26,26,1387,85,1291,11,Non-New York City
 Chemung,Elmira Heights Vg PD,1993,,170,20,0,1,0,19,150,26,124,0,Non-New York City
 Livingston,Livingston County State Police,2006,12,113,29,0,13,1,15,84,11,72,1,Non-New York City
@@ -218,7 +216,7 @@ Cortland,Cortland County State Police,1992,,346,22,0,1,3,18,324,42,272,10,Non-Ne
 Cayuga,Cayuga County (RR-RC),1990,,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Tompkins,Trumansburg Vg PD,2005,0,,,,,,,,,,,Non-New York City
 Broome,Vestal Town PD,2004,12,536,9,0,0,0,9,527,27,492,8,Non-New York City
-Chenango,County Total,2017,,685,81,3,45,3,30,604,116,478,10,Non-New York City
+Washington,Washington County Sheriff,2015,12,230,14,1,7,0,6,216,41,170,5,Non-New York City
 Rensselaer,County Total,1996,,6044,503,2,50,179,272,5541,1434,3816,291,Non-New York City
 Albany,Bethlehem Town PD,1993,,702,49,0,1,4,44,653,94,549,10,Non-New York City
 Genesee,LeRoy Vg PD,2002,12,110,3,0,0,0,3,107,22,80,5,Non-New York City
@@ -230,18 +228,20 @@ Seneca,Seneca County State Police,2005,12,141,11,0,7,0,4,130,35,93,2,Non-New Yor
 Sullivan,Sullivan County State Police,1994,,839,91,1,8,8,74,748,378,345,25,Non-New York City
 Dutchess,Dutchess County State Police,1997,,881,129,0,4,7,118,752,180,547,25,Non-New York City
 Montgomery,Amsterdam City PD,2009,12,262,95,0,0,0,95,167,51,113,3,Non-New York City
-Franklin,Malone Vg PD,2017,12,163,27,0,12,1,14,136,31,100,5,Non-New York City
 Albany,Colonie Town PD,2001,,3170,86,0,11,41,34,3084,423,2553,108,Non-New York City
 Delaware,Sidney Vg PD,1994,,218,12,0,1,0,11,206,36,159,11,Non-New York City
 Erie,East Aurora-Town Of Aurora PD,2009,12,159,4,0,0,0,4,155,26,121,8,Non-New York City
 Washington,County Total,1996,,1150,62,0,4,3,55,1088,274,803,11,Non-New York City
 Franklin,Malone Vg PD,2006,12,170,23,1,6,0,16,147,22,125,0,Non-New York City
 Hamilton,Inlet Town PD,1999,,36,1,0,0,0,1,35,14,21,0,Non-New York City
-Columbia,Philmont Vg PD,2017,12,6,0,0,0,0,0,6,2,4,0,Non-New York City
 Fulton,Fulton County Sheriff,2002,12,384,17,0,3,1,13,367,72,274,21,Non-New York City
 Schoharie,Schoharie Vg PD,1997,,5,0,0,0,0,0,5,2,3,0,Non-New York City
-Dutchess,Dutchess County Sheriff,2017,12,477,54,1,13,6,34,423,82,326,15,Non-New York City
 Herkimer,Frankfort Town PD,1995,,17,0,0,0,0,0,17,8,8,1,Non-New York City
+Jefferson,Jefferson County Park PD,2017,12,12,0,0,0,0,0,12,1,11,0,Non-New York City
+Chenango,County Total,2017,,685,81,3,45,3,30,604,116,478,10,Non-New York City
+Franklin,Malone Vg PD,2017,12,163,27,0,12,1,14,136,31,100,5,Non-New York City
+Columbia,Philmont Vg PD,2017,12,6,0,0,0,0,0,6,2,4,0,Non-New York City
+Dutchess,Dutchess County Sheriff,2017,12,477,54,1,13,6,34,423,82,326,15,Non-New York City
 Schuyler,Schuyler County State Police,2010,12,42,4,0,0,1,3,38,8,29,1,Non-New York City
 Chautauqua,Ellicott Town PD,1992,,280,39,0,1,5,33,241,36,199,6,Non-New York City
 Erie,West Seneca Town PD,2007,12,972,77,1,8,19,49,895,166,691,38,Non-New York City
@@ -249,7 +249,6 @@ Hamilton,Hamilton County Sheriff,2002,12,18,1,0,0,0,1,17,3,9,5,Non-New York City
 Oneida,Oneida County State Police,2003,12,657,80,0,6,1,73,577,187,368,22,Non-New York City
 Orleans,Medina Vg PD,1997,,274,18,0,2,6,10,256,51,192,13,Non-New York City
 Steuben,Hammondsport Vg PD,2009,4,6,0,0,0,0,0,6,1,5,0,Non-New York City
-Oneida,Oneida County Sheriff,2017,12,408,137,0,102,4,31,271,40,217,14,Non-New York City
 Madison,Hamilton Vg PD,2000,,41,0,0,0,0,0,41,4,36,1,Non-New York City
 Steuben,Painted Post Vg PD,1993,,55,5,0,0,0,5,50,20,29,1,Non-New York City
 Hamilton,Hamilton County Sheriff,2011,12,9,0,0,0,0,0,9,5,4,0,Non-New York City
@@ -275,7 +274,6 @@ Nassau,Rockville Centre Vg PD,1992,,771,51,0,0,31,20,720,100,525,95,Non-New York
 Erie,Cheektowaga Town PD,1998,,3276,143,0,12,74,57,3133,520,2295,318,Non-New York City
 Steuben,Painted Post Vg PD,2007,12,53,1,0,0,0,1,52,0,52,0,Non-New York City
 Washington,County Total,1998,,1375,247,0,18,3,226,1128,349,759,20,Non-New York City
-Westchester,Greenburgh Town PD,2017,12,664,51,1,10,18,22,613,31,558,24,Non-New York City
 Suffolk,East Hampton Vg PD,1999,,118,1,0,0,1,0,117,17,100,0,Non-New York City
 Steuben,Corning City PD,2004,12,627,33,1,7,5,20,594,85,500,9,Non-New York City
 Erie,Hamburg Vg PD,2009,12,208,9,0,0,2,7,199,39,155,5,Non-New York City
@@ -295,7 +293,6 @@ Chautauqua,Chautauqua County Sheriff,2009,12,828,24,0,6,1,17,804,192,594,18,Non-
 Ulster,Olive Town PD,1990,,17,1,0,0,0,1,16,9,6,1,Non-New York City
 Wyoming,Attica Vg PD,2000,,111,1,0,0,0,1,110,7,102,1,Non-New York City
 Rockland,Spring Valley Vg PD,2000,,975,261,2,6,86,167,714,118,519,77,Non-New York City
-Otsego,County Total,2017,,732,93,4,45,2,42,639,116,508,15,Non-New York City
 Saratoga,Stillwater Town PD,2011,12,17,0,0,0,0,0,17,5,12,0,Non-New York City
 Tioga,Tioga County State Police,1995,,138,4,0,2,0,2,134,37,95,2,Non-New York City
 Franklin,Tupper Lake Vg PD,1997,,97,2,0,0,0,2,95,21,70,4,Non-New York City
@@ -305,7 +302,7 @@ Chemung,Elmira City PD,1994,,2023,90,2,21,33,34,1933,309,1602,22,Non-New York Ci
 Orange,Cornwall-on-Hudson Vg PD,2005,12,14,0,0,0,0,0,14,1,13,0,Non-New York City
 Kings,County Total,2006,,61368,17992,225,307,8182,9278,43376,7415,30785,5176,New York City
 Essex,Essex County State Police,1992,,586,57,2,3,0,52,529,196,329,4,Non-New York City
-Cattaraugus,County Total,2013,,1767,115,0,13,11,91,1652,309,1281,62,Non-New York City
+Oneida,Oneida County Sheriff,2017,12,408,137,0,102,4,31,271,40,217,14,Non-New York City
 Clinton,Rouses Point Vg PD,2010,12,10,0,0,0,0,0,10,0,10,0,Non-New York City
 Delaware,Delaware County Sheriff,1997,,102,8,1,1,1,5,94,35,57,2,Non-New York City
 Nassau,Malverne Vg PD,2013,12,25,4,0,0,3,1,21,3,17,1,Non-New York City
@@ -330,7 +327,7 @@ Orange,Highland Falls Vg PD,2007,12,73,4,0,0,0,4,69,17,50,2,Non-New York City
 Orange,Deerpark Town PD,2009,12,62,2,0,0,1,1,60,13,45,2,Non-New York City
 Westchester,Pelham Vg PD,2012,12,118,6,0,0,5,1,112,16,93,3,Non-New York City
 Warren,Warren County State Police,1999,,244,15,0,3,4,8,229,32,183,14,Non-New York City
-Rockland,County Total,2017,,3404,397,1,68,101,227,3007,265,2648,94,Non-New York City
+Westchester,Greenburgh Town PD,2017,12,664,51,1,10,18,22,613,31,558,24,Non-New York City
 Orange,Goshen Vg PD,2011,12,81,3,0,0,0,3,78,7,70,1,Non-New York City
 Suffolk,East Hampton Town PD,1993,,533,11,0,0,1,10,522,172,335,15,Non-New York City
 Ulster,Ulster County State Police,2014,12,577,63,2,21,7,33,514,108,399,7,Non-New York City
@@ -340,6 +337,7 @@ Cattaraugus,Salamanca City PD,2014,12,130,23,0,2,1,20,107,36,62,9,Non-New York C
 Chemung,Horseheads Vg PD,1990,,419,44,0,1,2,41,375,37,328,10,Non-New York City
 Westchester,Mount Vernon City PD,1996,,3715,783,9,22,430,322,2932,893,1410,629,Non-New York City
 Lewis,Lewis County Sheriff,1994,,147,10,0,0,0,10,137,70,59,8,Non-New York City
+Otsego,County Total,2017,,732,93,4,45,2,42,639,116,508,15,Non-New York City
 Monroe,Wheatland Town PD,1990,,102,4,0,0,0,4,98,16,77,5,Non-New York City
 Delaware,SUNY College At Delhi,1994,,142,2,0,0,2,0,140,46,94,0,Non-New York City
 Westchester,Tarrytown Vg PD,1995,,334,42,1,2,6,33,292,39,209,44,Non-New York City
@@ -354,7 +352,6 @@ Essex,County Total,2000,,767,125,0,7,4,114,642,202,424,16,Non-New York City
 Steuben,Avoca Vg PD,1992,,14,1,0,0,0,1,13,4,9,0,Non-New York City
 Clinton,Plattsburgh City PD,2012,12,555,31,0,1,2,28,524,73,442,9,Non-New York City
 Westchester,Cortlandt Town PD,1992,,420,64,0,5,4,55,356,88,254,14,Non-New York City
-Cattaraugus,Cattaraugus County Sheriff,2013,12,520,37,0,6,0,31,483,132,320,31,Non-New York City
 Tompkins,Tompkins County Park PD,1999,,42,0,0,0,0,0,42,3,39,0,Non-New York City
 Rockland,Rockland County MTA,2001,,1,1,0,0,1,0,0,0,0,0,Non-New York City
 Onondaga,Onondaga County Park PD,2008,12,9,0,0,0,0,0,9,0,9,0,Non-New York City
@@ -397,7 +394,7 @@ Tompkins,Groton Vg PD,2000,,50,0,0,0,0,0,50,4,46,0,Non-New York City
 St Lawrence,Potsdam Vg PD,1991,,525,22,0,0,1,21,503,67,418,18,Non-New York City
 Albany,Cohoes City PD,1996,,452,107,0,3,6,98,345,113,208,24,Non-New York City
 Herkimer,Webb Town PD,2005,0,,,,,,,,,,,Non-New York City
-Jefferson,Jefferson County Sheriff,2017,12,325,21,0,3,1,17,304,37,259,8,Non-New York City
+Cattaraugus,County Total,2013,,1767,115,0,13,11,91,1652,309,1281,62,Non-New York City
 Sullivan,Woodridge Vg PD,1993,,76,6,0,0,3,3,70,32,29,9,Non-New York City
 Cortland,Cortland County State Police,2009,12,154,6,0,1,0,5,148,13,134,1,Non-New York City
 Monroe,Rochester City PD,1991,,26032,2411,65,167,1367,812,23621,5980,15644,1997,Non-New York City
@@ -448,7 +445,7 @@ Westchester,Port Chester Vg PD,1991,,1284,122,3,6,47,66,1162,171,857,134,Non-New
 Delaware,SUNY College At Delhi,1995,,92,3,0,0,2,1,89,31,56,2,Non-New York City
 Ulster,Kingston City PD,2002,12,1228,93,0,5,55,33,1135,203,864,68,Non-New York City
 Wyoming,Attica Vg PD,2003,12,97,1,0,0,0,1,96,6,89,1,Non-New York City
-Wyoming,Perry Vg PD,2017,12,63,4,0,4,0,0,59,6,51,2,Non-New York City
+Rockland,County Total,2017,,3404,397,1,68,101,227,3007,265,2648,94,Non-New York City
 Monroe,Irondequoit Town PD,2002,12,2294,74,0,4,55,15,2220,265,1820,135,Non-New York City
 Erie,Kenmore Vg PD,2009,12,327,30,0,2,14,14,297,54,229,14,Non-New York City
 Madison,Cazenovia Vg PD,2008,12,67,0,0,0,0,0,67,7,59,1,Non-New York City
@@ -475,7 +472,6 @@ Cortland,County Total,2006,,1169,112,0,26,10,76,1057,194,837,26,Non-New York Cit
 Orleans,Orleans County Park PD,2004,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Ulster,Kingston City PD,1999,,871,63,0,6,28,29,808,68,683,57,Non-New York City
 Westchester,Westchester County State Police,2014,12,424,43,0,4,8,31,381,58,309,14,Non-New York City
-Warren,Warren County Sheriff,2015,12,572,36,1,16,6,13,536,74,459,3,Non-New York City
 Niagara,County Total,2006,,7120,900,5,68,273,554,6220,1598,4239,383,Non-New York City
 Chemung,Elmira Heights Vg PD,2005,12,175,8,0,2,1,5,167,13,152,2,Non-New York City
 Saratoga,Saratoga County Sheriff,1997,,898,41,2,5,6,28,857,234,589,34,Non-New York City
@@ -515,8 +511,7 @@ Greene,Cairo Town PD,1993,,2,0,0,0,0,0,2,2,0,0,Non-New York City
 Chenango,Sherburne Vg PD,2005,12,38,0,0,0,0,0,38,8,30,0,Non-New York City
 Wyoming,County Total,2008,,547,52,0,4,6,42,495,110,372,13,Non-New York City
 Columbia,County Total,1992,,1875,269,0,7,30,232,1606,447,1106,53,Non-New York City
-Rockland,County Total,2016,,3561,384,2,48,104,230,3177,256,2803,118,Non-New York City
-Cayuga,County Total,2017,,1341,237,1,77,21,138,1104,179,900,25,Non-New York City
+Cattaraugus,Cattaraugus County Sheriff,2013,12,520,37,0,6,0,31,483,132,320,31,Non-New York City
 Monroe,Monroe County Park PD,1999,,6,0,0,0,0,0,6,2,4,0,Non-New York City
 Schenectady,Schenectady County (RR-RC),1994,,1,0,0,0,0,0,1,1,0,0,Non-New York City
 Albany,Altamont Vg PD,2011,12,10,1,0,0,0,1,9,2,6,1,Non-New York City
@@ -552,9 +547,8 @@ Nassau,Kensington Vg PD,1995,,1,0,0,0,0,0,1,0,0,1,Non-New York City
 Yates,Yates County Sheriff,1991,,416,47,0,4,0,43,369,129,228,12,Non-New York City
 Rockland,Ramapo Town PD,2011,12,995,110,0,3,24,83,885,119,746,20,Non-New York City
 Allegany,Andover Vg PD,2006,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
-Washington,Hudson Falls Vg PD,2017,12,71,17,1,4,2,10,54,11,42,1,Non-New York City
 Orleans,Holley Vg PD,2009,12,50,1,0,1,0,0,49,5,43,1,Non-New York City
-Seneca,Seneca County Sheriff,2017,12,32,8,0,1,1,6,24,6,18,0,Non-New York City
+Jefferson,Jefferson County Sheriff,2017,12,325,21,0,3,1,17,304,37,259,8,Non-New York City
 Schenectady,Scotia Vg PD,1998,,299,14,0,0,6,8,285,30,248,7,Non-New York City
 Erie,Lancaster Vg PD,2006,0,,,,,,,,,,,Non-New York City
 Albany,Bethlehem Town PD,2013,12,456,13,0,0,3,10,443,50,388,5,Non-New York City
@@ -576,11 +570,12 @@ Chautauqua,Silver Creek Vg PD,2013,3,14,3,0,0,0,3,11,0,11,0,Non-New York City
 Chautauqua,County Total,2001,,3631,350,4,44,58,244,3281,640,2518,123,Non-New York City
 Onondaga,North Syracuse Vg PD,2013,12,121,10,0,0,0,10,111,14,94,3,Non-New York City
 Tompkins,Ithaca City PD,2014,12,1220,43,0,2,24,17,1177,169,994,14,Non-New York City
-Jefferson,County Total,2017,,2253,235,4,84,22,125,2018,292,1679,47,Non-New York City
+Wyoming,Perry Vg PD,2017,12,63,4,0,4,0,0,59,6,51,2,Non-New York City
 Tompkins,Tompkins County State Police,1991,,461,17,0,4,1,12,444,117,318,9,Non-New York City
 Rockland,Ramapo Town PD,2014,12,703,60,0,2,18,40,643,89,536,18,Non-New York City
 Sullivan,Sullivan County Sheriff,1998,,593,84,2,3,5,74,509,200,293,16,Non-New York City
 Allegany,Belmont Vg PD,1992,,5,0,0,0,0,0,5,5,0,0,Non-New York City
+Warren,Warren County Sheriff,2015,12,572,36,1,16,6,13,536,74,459,3,Non-New York City
 Westchester,Westchester County (RR-MN),1997,,166,13,0,2,11,0,153,5,146,2,Non-New York City
 Madison,Madison County Park PD,2012,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Onondaga,Onondaga County Sheriff,1991,,3834,184,2,34,45,103,3650,703,2777,170,Non-New York City
@@ -672,7 +667,7 @@ Columbia,Greenport Town PD,2006,12,76,5,0,0,0,5,71,6,65,0,Non-New York City
 Ulster,Plattekill Town PD,1999,,30,0,0,0,0,0,30,4,25,1,Non-New York City
 Dutchess,Dutchess County Park PD,2013,12,16,0,0,0,0,0,16,2,14,0,Non-New York City
 Wayne,Wayne County Sheriff,1990,,917,32,0,7,9,16,885,252,607,26,Non-New York City
-Madison,Oneida City PD,2017,12,410,25,1,6,6,12,385,55,326,4,Non-New York City
+Rockland,County Total,2016,,3561,384,2,48,104,230,3177,256,2803,118,Non-New York City
 Putnam,Cold Spring Vg PD,1997,,29,3,0,0,1,2,26,1,25,0,Non-New York City
 Rockland,Spring Valley Vg PD,2002,8,583,145,0,4,52,89,438,79,322,37,Non-New York City
 Monroe,East Rochester Vg PD,2001,,214,18,0,0,1,17,196,35,144,17,Non-New York City
@@ -693,7 +688,7 @@ Saratoga,County Total,1990,,5152,476,1,27,33,415,4676,1060,3468,148,Non-New York
 Niagara,Niagara County (RR-RC),1995,,8,0,0,0,0,0,8,2,6,0,Non-New York City
 Suffolk,Suffolk County Sheriff,1996,,25,15,0,0,6,9,10,7,3,0,Non-New York City
 Orange,Tuxedo Town PD,1997,,24,1,0,0,0,1,23,5,18,0,Non-New York City
-Schenectady,Schenectady City PD,2016,12,2707,600,7,59,146,388,2107,378,1532,197,Non-New York City
+Cayuga,County Total,2017,,1341,237,1,77,21,138,1104,179,900,25,Non-New York City
 Schenectady,Rotterdam Town PD,2007,12,842,30,0,0,14,16,812,119,664,29,Non-New York City
 Yates,Yates County State Police,2013,12,20,1,0,1,0,0,19,5,14,0,Non-New York City
 Fulton,Fulton County Sheriff,1990,,645,52,0,6,1,45,593,198,379,16,Non-New York City
@@ -707,7 +702,7 @@ Delaware,Walton Vg PD,1991,,80,8,0,1,0,7,72,11,57,4,Non-New York City
 Ontario,Canandaigua City PD,2010,12,385,20,0,3,3,14,365,57,300,8,Non-New York City
 Chautauqua,Jamestown City PD,1998,,1615,164,0,26,40,98,1451,340,1062,49,Non-New York City
 Steuben,Wayland Vg PD,1990,,41,2,0,0,0,2,39,5,34,0,Non-New York City
-Montgomery,County Total,2017,,938,78,1,32,14,31,860,121,716,23,Non-New York City
+Washington,Hudson Falls Vg PD,2017,12,71,17,1,4,2,10,54,11,42,1,Non-New York City
 Suffolk,Suffolk County PD,2007,12,26541,2204,28,87,871,1218,24337,3365,18880,2092,Non-New York City
 Onondaga,Marcellus Vg PD,1995,,13,2,0,0,0,2,11,1,10,0,Non-New York City
 Monroe,Ogden Town PD,2002,12,390,15,0,1,3,11,375,56,312,7,Non-New York City
@@ -723,7 +718,6 @@ New York,County Total,1990,,217786,44434,497,685,26991,16261,173352,29074,122704
 Livingston,Mount Morris Vg PD,1993,,63,30,0,0,3,27,33,12,18,3,Non-New York City
 Cayuga,Moravia Vg PD,1990,,37,6,0,0,0,6,31,9,21,1,Non-New York City
 Orange,Middletown City PD,2007,12,1136,194,1,13,95,85,942,216,690,36,Non-New York City
-New York,County Total,2017,12,47146,8671,46,530,2749,5346,38475,2215,35622,638,New York City
 Franklin,Saranac Lake Vg PD,2012,12,171,17,0,1,4,12,154,34,118,2,Non-New York City
 Erie,Tonawanda City PD,2014,12,371,20,0,3,3,14,351,40,298,13,Non-New York City
 Schuyler,Watkins Glen Vg PD,2012,12,77,2,0,0,1,1,75,8,66,1,Non-New York City
@@ -732,6 +726,7 @@ Oneida,Rome City PD,2013,12,709,47,4,0,23,20,662,157,470,35,Non-New York City
 Oneida,Whitestown Town PD,2005,12,68,1,0,0,0,1,67,14,50,3,Non-New York City
 Herkimer,Little Falls City PD,1996,,167,8,0,1,1,6,159,26,124,9,Non-New York City
 Otsego,SUNY College At Oneonta,1992,,94,1,0,1,0,0,93,3,90,0,Non-New York City
+Seneca,Seneca County Sheriff,2017,12,32,8,0,1,1,6,24,6,18,0,Non-New York City
 Orange,Woodbury Town PD,2006,12,156,3,0,0,0,3,153,8,139,6,Non-New York City
 Greene,Coxsackie Vg PD,1990,,56,0,0,0,0,0,56,15,38,3,Non-New York City
 Orleans,County Total,1994,,990,66,1,5,14,46,924,211,685,28,Non-New York City
@@ -740,7 +735,6 @@ Madison,Cazenovia Vg PD,1997,,74,1,0,1,0,0,73,7,65,1,Non-New York City
 Orange,Harriman Vg PD,2012,12,30,2,0,0,1,1,28,0,26,2,Non-New York City
 Albany,Colonie Town PD,2013,12,2053,63,0,0,31,32,1990,186,1753,51,Non-New York City
 Westchester,New Castle Town PD,1992,,207,4,0,0,0,4,203,26,164,13,Non-New York City
-Hamilton,County Total,2017,,36,4,0,2,0,2,32,7,22,3,Non-New York City
 Washington,County Total,2001,,960,195,2,5,2,186,765,182,555,28,Non-New York City
 Putnam,Putnam County State Police,1990,,207,18,0,1,0,17,189,76,102,11,Non-New York City
 Rockland,Rockland County State Police,2005,12,42,13,0,1,1,11,29,6,18,5,Non-New York City
@@ -817,7 +811,6 @@ Schenectady,Schenectady City PD,2010,12,4066,679,8,53,256,362,3387,856,2347,184,
 Montgomery,Amsterdam City PD,2000,,400,56,0,1,5,50,344,82,257,5,Non-New York City
 Suffolk,Asharoken Vg PD,2004,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
 Columbia,Hudson City PD,1998,,556,166,1,4,19,142,390,92,279,19,Non-New York City
-Jefferson,Carthage Vg PD,2017,12,64,7,0,2,2,3,57,8,47,2,Non-New York City
 Orange,Wallkill Town PD,2001,,396,38,0,2,3,33,358,21,326,11,Non-New York City
 Tompkins,Tompkins County Park PD,1994,,33,0,0,0,0,0,33,2,31,0,Non-New York City
 Albany,Ravena Vg PD,2000,,43,3,0,0,0,3,40,1,39,0,Non-New York City
@@ -837,7 +830,7 @@ Tompkins,Cornell University Police,1990,,849,13,0,1,1,11,836,137,695,4,Non-New Y
 Steuben,Painted Post Vg PD,2004,12,28,3,0,0,0,3,25,0,24,1,Non-New York City
 Schenectady,Scotia Vg PD,2005,12,211,4,0,0,1,3,207,22,178,7,Non-New York City
 Rensselaer,Rensselaer County Park PD,2005,12,8,0,0,0,0,0,8,1,7,0,Non-New York City
-Otsego,Otsego County Sheriff,2017,12,80,17,3,4,0,10,63,16,41,6,Non-New York City
+Jefferson,County Total,2017,,2253,235,4,84,22,125,2018,292,1679,47,Non-New York City
 Monroe,County Total,1990,,42579,3317,49,235,1449,1584,39262,7949,28195,3118,Non-New York City
 Suffolk,Suffolk County PD,1997,,38002,2080,33,34,893,1120,35922,6211,26460,3251,Non-New York City
 Tompkins,Tompkins County Park PD,2006,12,8,0,0,0,0,0,8,0,8,0,Non-New York City
@@ -963,7 +956,7 @@ Jefferson,Glen Park Vg PD,1991,,7,1,0,0,0,1,6,1,5,0,Non-New York City
 Nassau,Freeport Vg PD,2012,12,1084,209,5,4,108,92,875,212,604,59,Non-New York City
 Monroe,Ogden Town PD,1994,,318,14,0,0,1,13,304,46,251,7,Non-New York City
 Nassau,Laurel Hollow Vg PD,1992,,39,0,0,0,0,0,39,7,29,3,Non-New York City
-Wayne,Wayne County Sheriff,2017,12,529,64,2,21,8,33,465,107,340,18,Non-New York City
+Madison,Oneida City PD,2017,12,410,25,1,6,6,12,385,55,326,4,Non-New York City
 Tompkins,Cornell University Police,1995,,674,10,0,0,1,9,664,105,552,7,Non-New York City
 Erie,East Aurora-Town Of Aurora PD,2008,12,149,4,0,0,2,2,145,15,124,6,Non-New York City
 Greene,Greene County State Police,1997,,705,243,1,3,3,236,462,186,260,16,Non-New York City
@@ -986,13 +979,13 @@ Westchester,Westchester County (RR-CSX),2004,12,1,0,0,0,0,0,1,1,0,0,Non-New York
 Orleans,County Total,2007,,1091,91,1,10,10,70,1000,217,742,41,Non-New York City
 Clinton,Clinton County Sheriff,1997,,36,6,0,0,0,6,30,1,29,0,Non-New York City
 Washington,County Total,1999,,1122,193,1,8,4,180,929,248,658,23,Non-New York City
-Cattaraugus,County Total,2016,,1232,138,0,56,8,74,1094,204,844,46,Non-New York City
+Schenectady,Schenectady City PD,2016,12,2707,600,7,59,146,388,2107,378,1532,197,Non-New York City
 Greene,Greene County State Police,2011,12,532,71,0,6,1,64,461,146,293,22,Non-New York City
 Allegany,Wellsville Vg PD,2004,12,153,8,0,0,0,8,145,31,113,1,Non-New York City
 Delaware,Walton Vg PD,1992,,73,5,0,0,0,5,68,6,58,4,Non-New York City
 Dutchess,Red Hook Vg PD,1991,,17,0,0,0,0,0,17,0,16,1,Non-New York City
 Schenectady,Scotia Vg PD,2000,,231,11,0,1,1,9,220,30,185,5,Non-New York City
-Dutchess,County Total,2014,,4832,561,3,26,172,360,4271,632,3545,94,Non-New York City
+Montgomery,County Total,2017,,938,78,1,32,14,31,860,121,716,23,Non-New York City
 Suffolk,Suffolk County Park Police,1991,,198,2,0,0,0,2,196,16,179,1,Non-New York City
 Rensselaer,Nassau Vg PD,2012,12,12,1,0,1,0,0,11,5,6,0,Non-New York City
 Steuben,Caton Town PD,2006,0,,,,,,,,,,,Non-New York City
@@ -1010,7 +1003,7 @@ Putnam,Cold Spring Vg PD,2008,9,8,0,0,0,0,0,8,2,6,0,Non-New York City
 Columbia,Greenport Town PD,2010,12,131,0,0,0,0,0,131,7,124,0,Non-New York City
 Schuyler,County Total,1999,,451,26,0,4,2,20,425,120,291,14,Non-New York City
 Westchester,Pelham Vg PD,2003,12,149,7,0,1,3,3,142,25,112,5,Non-New York City
-Washington,Washington County Sheriff,2017,12,205,26,1,16,0,9,179,19,152,8,Non-New York City
+New York,County Total,2017,12,47146,8671,46,530,2749,5346,38475,2215,35622,638,New York City
 Orange,Highlands Town PD,2010,12,4,0,0,0,0,0,4,0,3,1,Non-New York City
 Niagara,Niagara County State Police,2010,12,257,15,0,7,2,6,242,37,201,4,Non-New York City
 Ulster,SUNY College At New Paltz,1999,,131,1,0,0,1,0,130,1,129,0,Non-New York City
@@ -1038,14 +1031,13 @@ Washington,Greenwich Vg PD,2006,12,35,1,0,0,0,1,34,12,19,3,Non-New York City
 Chemung,Elmira Heights Vg PD,2008,12,78,1,0,0,0,1,77,17,58,2,Non-New York City
 Albany,Altamont Vg PD,2002,12,7,0,0,0,0,0,7,3,3,1,Non-New York City
 Allegany,Friendship Town PD,2006,12,19,5,0,0,1,4,14,5,8,1,Non-New York City
-Erie,County Total,2016,,25817,3792,51,305,1288,2148,22025,4153,16692,1180,Non-New York City
-Ulster,County Total,2017,,2550,288,2,64,40,182,2262,309,1888,65,Non-New York City
+Hamilton,County Total,2017,,36,4,0,2,0,2,32,7,22,3,Non-New York City
+Jefferson,Carthage Vg PD,2017,12,64,7,0,2,2,3,57,8,47,2,Non-New York City
 Jefferson,Clayton Vg PD,2004,12,36,2,0,0,0,2,34,14,19,1,Non-New York City
 Cayuga,County Total,1997,,2137,168,2,14,17,135,1969,473,1459,37,Non-New York City
 Nassau,Garden City Vg PD,2013,12,356,10,0,0,4,6,346,33,303,10,Non-New York City
 Suffolk,Suffolk County Park PD,1993,,124,14,0,0,4,10,110,7,97,6,Non-New York City
 Oneida,Oriskany Vg PD,1995,,24,2,0,0,0,2,22,2,20,0,Non-New York City
-Delaware,SUNY College At Delhi,1999,,,,,,,,,,,,Non-New York City
 Genesee,Genesee County Sheriff,2001,,728,43,0,11,5,27,685,156,503,26,Non-New York City
 Albany,Cohoes City PD,2008,12,250,61,0,3,6,52,189,42,127,20,Non-New York City
 Nassau,Oyster Bay Cove Vg PD,1992,,22,0,0,0,0,0,22,6,7,9,Non-New York City
@@ -1073,10 +1065,10 @@ Schenectady,Schenectady City PD,2008,12,3708,654,9,35,288,322,3054,925,1905,224,
 Nassau,SUNY College At Old Westbury,1993,,107,6,0,0,1,5,101,18,78,5,Non-New York City
 Seneca,Seneca County State Police,2007,12,143,22,0,3,0,19,121,36,81,4,Non-New York City
 Broome,Deposit Vg PD,2001,,6,3,0,0,0,3,3,3,0,0,Non-New York City
-Saratoga,Saratoga County Sheriff,2017,12,1212,101,1,22,9,69,1111,182,897,32,Non-New York City
+Otsego,Otsego County Sheriff,2017,12,80,17,3,4,0,10,63,16,41,6,Non-New York City
 Oswego,Fulton City PD,2004,12,590,17,0,4,2,11,573,87,476,10,Non-New York City
 Tioga,Owego Vg PD,1992,,405,66,0,7,1,58,339,91,239,9,Non-New York City
-Steuben,Wayland Vg PD,2017,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Wayne,Wayne County Sheriff,2017,12,529,64,2,21,8,33,465,107,340,18,Non-New York City
 Oswego,County Total,2008,,2593,184,3,35,21,125,2409,582,1756,71,Non-New York City
 Chenango,Chenango County Park PD,1994,,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Oneida,Oneida County State Police,2011,12,739,74,1,13,1,59,665,192,456,17,Non-New York City
@@ -1122,7 +1114,6 @@ Orange,Tuxedo Town PD,1999,,43,2,0,0,0,2,41,4,34,3,Non-New York City
 Nassau,Floral Park Vg PD,2013,12,86,14,0,2,7,5,72,16,44,12,Non-New York City
 Westchester,Pelham Manor Vg PD,1994,,260,9,0,0,9,0,251,25,169,57,Non-New York City
 Oneida,Oneida County Sheriff,1993,,890,144,1,27,3,113,746,281,441,24,Non-New York City
-Columbia,County Total,2017,,970,135,1,40,11,83,835,139,668,28,Non-New York City
 Westchester,Pelham Manor Vg PD,1995,,306,15,1,0,11,3,291,23,210,58,Non-New York City
 Westchester,Larchmont Vg PD,2012,12,110,2,0,0,0,2,108,18,89,1,Non-New York City
 Orleans,Orleans County Park PD,2002,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
@@ -1136,7 +1127,7 @@ Albany,Colonie Town PD,2006,12,2984,94,0,2,31,61,2890,310,2472,108,Non-New York 
 Cortland,Homer Vg PD,2003,12,79,1,0,1,0,0,78,7,68,3,Non-New York City
 Schenectady,Rotterdam Town PD,2001,,1124,54,0,1,34,19,1070,120,927,23,Non-New York City
 Chautauqua,County Total,1995,,5425,399,3,23,82,291,5026,1158,3699,169,Non-New York City
-Madison,County Total,2017,,983,104,1,46,14,43,879,153,702,24,Non-New York City
+Cattaraugus,County Total,2016,,1232,138,0,56,8,74,1094,204,844,46,Non-New York City
 Columbia,Chatham Vg PD,2007,12,94,8,0,0,1,7,86,28,52,6,Non-New York City
 Monroe,Webster Town and Vg PD,2003,12,628,14,1,4,5,4,614,103,472,39,Non-New York City
 Nassau,Centre Island Vg PD,2000,,9,0,0,0,0,0,9,2,6,1,Non-New York City
@@ -1145,7 +1136,6 @@ Oneida,Oneida County Park PD,2007,12,7,0,0,0,0,0,7,0,7,0,Non-New York City
 Lewis,County Total,1990,,322,36,3,3,0,30,286,145,126,15,Non-New York City
 Greene,Windham Town PD,2003,12,62,3,0,0,0,3,59,18,41,0,Non-New York City
 Oneida,Oneida County Sheriff,2006,12,629,58,1,3,3,51,571,147,398,26,Non-New York City
-Washington,County Total,2016,,583,95,0,50,5,40,488,96,380,12,Non-New York City
 Broome,Vestal Town PD,2003,12,579,12,0,0,2,10,567,55,504,8,Non-New York City
 Jefferson,Alexandria Bay Vg PD,2004,12,17,0,0,0,0,0,17,4,13,0,Non-New York City
 Erie,Gowanda Vg PD,2014,12,88,10,0,2,0,8,78,18,59,1,Non-New York City
@@ -1172,6 +1162,7 @@ Saratoga,Waterford Town and Vg PD,2004,12,79,0,0,0,0,0,79,15,61,3,Non-New York C
 Otsego,Otsego County State Police,1998,,546,81,0,1,4,76,465,116,341,8,Non-New York City
 Tioga,Owego Vg PD,2009,12,28,3,0,0,0,3,25,8,17,0,Non-New York City
 Erie,Depew Vg PD,1996,,587,29,1,4,5,19,558,88,415,55,Non-New York City
+Dutchess,County Total,2014,,4832,561,3,26,172,360,4271,632,3545,94,Non-New York City
 Washington,County Total,2009,,769,60,0,9,4,47,709,164,515,30,Non-New York City
 Allegany,Andover Vg PD,1995,,25,4,1,0,0,3,21,4,15,2,Non-New York City
 Lewis,Lewis County State Police,2004,12,92,15,0,1,0,14,77,25,50,2,Non-New York City
@@ -1250,18 +1241,17 @@ Westchester,Ossining Town PD,2005,12,51,1,0,0,0,1,50,10,38,2,Non-New York City
 Schoharie,SUNY College At Cobleskill,1995,,104,2,0,0,0,2,102,44,56,2,Non-New York City
 Ulster,Lloyd Town PD,2000,,57,20,0,1,2,17,37,1,36,0,Non-New York City
 Rockland,Ramapo Town PD,2007,12,688,64,0,1,13,50,624,98,503,23,Non-New York City
-Oneida,County Total,2012,,6389,595,2,44,164,385,5794,1212,4387,195,Non-New York City
-Franklin,Tupper Lake Vg PD,2017,12,94,5,0,0,1,4,89,12,74,3,Non-New York City
-Oneida,County Total,2016,,5233,661,4,160,141,356,4572,854,3565,153,Non-New York City
+Washington,Washington County Sheriff,2017,12,205,26,1,16,0,9,179,19,152,8,Non-New York City
+Erie,County Total,2016,,25817,3792,51,305,1288,2148,22025,4153,16692,1180,Non-New York City
+Ulster,County Total,2017,,2550,288,2,64,40,182,2262,309,1888,65,Non-New York City
 Saratoga,Saratoga County State Police,1992,,950,46,0,9,5,32,904,230,654,20,Non-New York City
 Herkimer,Webb Town PD,1994,,64,2,0,1,0,1,62,18,40,4,Non-New York City
 Madison,Hamilton Vg PD,1993,,75,5,0,0,0,5,70,12,55,3,Non-New York City
-Monroe,Greece Town PD,2017,12,2110,174,3,29,62,80,1936,243,1592,101,Non-New York City
+Delaware,SUNY College At Delhi,1999,,,,,,,,,,,,Non-New York City
 Rockland,Suffern Vg PD,2002,12,116,11,0,0,1,10,105,20,82,3,Non-New York City
 Allegany,Rushford Town PD,2011,12,8,0,0,0,0,0,8,3,5,0,Non-New York City
 Herkimer,Herkimer County Sheriff,1992,,13,0,0,0,0,0,13,0,13,0,Non-New York City
 Dutchess,Dutchess County Park PD,2003,12,9,0,0,0,0,0,9,2,7,0,Non-New York City
-Monroe,County Total,2015,,20531,2526,39,289,831,1367,18005,3149,13789,1067,Non-New York City
 Oneida,Oneida County Park PD,2005,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
 Rensselaer,Nassau Vg PD,1994,,15,0,0,0,0,0,15,4,11,0,Non-New York City
 Jefferson,County Total,1994,,2821,179,3,41,27,108,2642,562,2029,51,Non-New York City
@@ -1270,6 +1260,7 @@ Greene,Athens Vg PD,1993,,40,5,0,0,0,5,35,9,25,1,Non-New York City
 Westchester,New Rochelle City PD,1990,,2734,312,1,15,189,107,2422,576,1348,498,Non-New York City
 Onondaga,East Syracuse Vg PD,2003,12,256,13,0,1,5,7,243,30,200,13,Non-New York City
 Cattaraugus,Franklinville Vg PD,2004,12,19,10,0,0,3,7,9,6,3,0,Non-New York City
+Saratoga,Saratoga County Sheriff,2017,12,1212,101,1,22,9,69,1111,182,897,32,Non-New York City
 Cattaraugus,Ellicottville Town PD,1997,,125,4,0,0,0,4,121,7,113,1,Non-New York City
 Orange,Greenwood Lake Vg PD,1994,,148,32,0,1,3,28,116,36,76,4,Non-New York City
 Steuben,Canisteo Vg PD,1990,,63,1,0,0,0,1,62,20,39,3,Non-New York City
@@ -1285,13 +1276,12 @@ Albany,Coeymans Town PD,2005,12,89,8,0,0,1,7,81,20,56,5,Non-New York City
 Bronx,County Total,2011,,35130,12267,148,204,4580,7335,22863,3395,17358,2110,New York City
 Columbia,Germantown Town PD,1990,,3,0,0,0,0,0,3,0,3,0,Non-New York City
 Dutchess,Rhinebeck Vg PD,2004,12,30,1,0,0,0,1,29,7,22,0,Non-New York City
-Cattaraugus,Olean City PD,2017,12,413,32,1,5,4,22,381,27,351,3,Non-New York City
 Oneida,Camden Vg PD,2012,12,80,7,0,0,1,6,73,16,55,2,Non-New York City
 Westchester,SUNY College At Purchase,2000,,114,2,0,0,0,2,112,3,109,0,Non-New York City
 Ulster,New Paltz Town and Vg PD,2006,12,332,63,0,5,4,54,269,39,223,7,Non-New York City
 Broome,Broome County State Police,2004,12,718,40,1,7,8,24,678,101,553,24,Non-New York City
 Westchester,SUNY College at Purchase,2004,12,151,2,0,2,0,0,149,14,135,0,Non-New York City
-Schenectady,Schenectady City PD,2017,12,2639,581,2,59,141,379,2058,347,1538,173,Non-New York City
+Steuben,Wayland Vg PD,2017,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Suffolk,SUNY College At Farmingdale,2000,,72,6,0,0,2,4,66,7,58,1,Non-New York City
 Westchester,Irvington Vg PD,1994,,96,5,0,0,0,5,91,31,50,10,Non-New York City
 Orange,New Windsor Town PD,2000,,609,54,0,3,9,42,555,112,431,12,Non-New York City
@@ -1310,7 +1300,7 @@ Madison,Madison County State Police,1998,,366,37,2,5,1,29,329,136,189,4,Non-New 
 Chenango,Norwich City PD,1997,,308,32,0,0,2,30,276,38,232,6,Non-New York City
 Livingston,County Total,1993,,1701,135,1,12,8,114,1566,225,1297,44,Non-New York City
 Westchester,Westchester County Park PD,2014,12,9,2,0,0,0,2,7,1,6,0,Non-New York City
-Westchester,County Total,2011,,16283,2557,21,71,1034,1431,13726,2125,10823,778,Non-New York City
+Columbia,County Total,2017,,970,135,1,40,11,83,835,139,668,28,Non-New York City
 Nassau,Old Brookville Vg PD,2011,11,56,0,0,0,0,0,56,8,48,0,Non-New York City
 Steuben,Corning City PD,2008,12,387,33,0,5,2,26,354,72,276,6,Non-New York City
 Dutchess,Poughkeepsie City PD,1991,,2273,374,6,13,197,158,1899,572,1217,110,Non-New York City
@@ -1318,6 +1308,8 @@ Richmond,County Total,2010,,6819,1351,17,44,424,866,5468,611,4509,348,New York C
 Oswego,Oswego County Park PD,2009,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
 Essex,Essex County (RR-D and H),1992,,6,0,0,0,0,0,6,0,6,0,Non-New York City
 Saratoga,South Glens Falls Vg PD,2008,12,148,5,0,2,1,2,143,19,122,2,Non-New York City
+Madison,County Total,2017,,983,104,1,46,14,43,879,153,702,24,Non-New York City
+Washington,County Total,2016,,583,95,0,50,5,40,488,96,380,12,Non-New York City
 Jefferson,Watertown City PD,2008,12,1429,143,0,12,20,111,1286,194,1035,57,Non-New York City
 New York,County Total,1998,,89805,18054,104,323,8849,8778,71751,9637,56365,5749,New York City
 Putnam,Cold Spring Vg PD,2007,12,29,1,0,0,0,1,28,9,19,0,Non-New York City
@@ -1373,7 +1365,7 @@ Westchester,Ossining Vg PD,2000,,516,104,1,2,11,90,412,71,295,46,Non-New York Ci
 Putnam,Brewster Vg PD,2003,0,,,,,,,,,,,Non-New York City
 Cattaraugus,County Total,2001,,1897,190,1,20,9,160,1707,315,1330,62,Non-New York City
 Rensselaer,Rensselaer County Park PD,2010,12,7,0,0,0,0,0,7,0,7,0,Non-New York City
-Clinton,County Total,2013,,1666,111,3,21,9,78,1555,262,1254,39,Non-New York City
+Oneida,County Total,2012,,6389,595,2,44,164,385,5794,1212,4387,195,Non-New York City
 Nassau,Kings Point Vg PD,2006,12,13,1,0,0,0,1,12,0,10,2,Non-New York City
 Chenango,County Total,2003,,1228,112,0,19,1,92,1116,240,858,18,Non-New York City
 Columbia,County Total,1995,,1756,322,1,8,37,276,1434,403,981,50,Non-New York City
@@ -1400,7 +1392,7 @@ Franklin,County Total,1990,,1166,226,1,5,8,212,940,286,633,21,Non-New York City
 Broome,County Total,2002,,6288,468,9,56,128,275,5820,767,4872,181,Non-New York City
 Albany,SUNY - Albany,2000,,388,5,0,0,2,3,383,47,330,6,Non-New York City
 Dutchess,Dutchess County State Police,2009,12,778,86,0,13,11,62,692,143,531,18,Non-New York City
-Warren,Warren County Sheriff,2017,12,578,48,1,23,6,18,530,68,449,13,Non-New York City
+Franklin,Tupper Lake Vg PD,2017,12,94,5,0,0,1,4,89,12,74,3,Non-New York City
 Erie,Evans Town PD,2009,12,332,20,0,1,3,16,312,47,246,19,Non-New York City
 Tompkins,Cayuga Heights Vg PD,2011,12,37,1,0,0,0,1,36,2,34,0,Non-New York City
 Washington,Hudson Falls Vg PD,2011,12,161,18,0,4,2,12,143,31,110,2,Non-New York City
@@ -1477,7 +1469,6 @@ Orange,Blooming Grove Town PD,2007,12,128,11,0,0,1,10,117,30,75,12,Non-New York 
 Saratoga,Saratoga County Sheriff,1995,,1154,95,0,2,14,79,1059,283,740,36,Non-New York City
 Onondaga,Marcellus Vg PD,2007,11,18,0,0,0,0,0,18,6,12,0,Non-New York City
 Tioga,Owego Vg PD,1995,,306,43,0,3,1,39,263,44,209,10,Non-New York City
-Madison,Madison County Sheriff,2017,12,169,21,0,5,1,15,148,28,110,10,Non-New York City
 Cayuga,Cayuga County Park PD,2004,11,9,1,0,0,0,1,8,0,8,0,Non-New York City
 Steuben,Canisteo Vg PD,2013,12,15,3,0,0,1,2,12,3,9,0,Non-New York City
 Chautauqua,Westfield Vg PD,2000,,72,4,0,1,0,3,68,1,67,0,Non-New York City
@@ -1487,21 +1478,21 @@ Ulster,New Paltz Town and Vg PD,1993,,522,72,1,1,5,65,450,70,362,18,Non-New York
 Nassau,Freeport Vg PD,2006,12,1113,234,1,2,123,108,879,114,642,123,Non-New York City
 Wayne,Sodus Vg PD,1993,,45,11,0,0,0,11,34,1,31,2,Non-New York City
 Orange,Wallkill Town PD,2003,12,246,16,0,0,7,9,230,22,200,8,Non-New York City
-Oneida,New Hartford Town and Vg PD,2017,12,611,16,0,2,6,8,595,26,560,9,Non-New York City
+Oneida,County Total,2016,,5233,661,4,160,141,356,4572,854,3565,153,Non-New York City
 Niagara,County Total,2009,,7173,847,9,48,237,553,6326,1628,4433,265,Non-New York City
 Dutchess,Red Hook Vg PD,2011,12,53,0,0,0,0,0,53,7,45,1,Non-New York City
 Schuyler,Schuyler County Sheriff,2006,12,102,7,0,1,0,6,95,27,63,5,Non-New York City
 Allegany,Allegany County Sheriff,2013,12,10,8,0,0,0,8,2,0,2,0,Non-New York City
 Jefferson,Jefferson County Sheriff,1999,,490,40,0,11,1,28,450,146,283,21,Non-New York City
 Orange,Highland Falls Vg PD,2009,12,27,5,0,0,2,3,22,5,17,0,Non-New York City
-Monroe,Irondequoit Town PD,2017,12,1230,109,1,11,41,56,1121,157,906,58,Non-New York City
+Monroe,Greece Town PD,2017,12,2110,174,3,29,62,80,1936,243,1592,101,Non-New York City
 Ulster,Rosendale Town PD,2009,12,23,1,0,0,0,1,22,3,17,2,Non-New York City
 Clinton,Clinton County State Police,2012,12,1012,57,0,14,5,38,955,191,735,29,Non-New York City
 Rockland,Suffern Vg PD,2004,12,158,22,0,1,2,19,136,13,112,11,Non-New York City
 Otsego,Otsego County State Police,2001,,516,66,0,4,1,61,450,97,352,1,Non-New York City
 Albany,Colonie Town PD,2005,12,2976,78,0,9,33,36,2898,326,2454,118,Non-New York City
 Erie,Hamburg Vg PD,2008,12,204,5,0,0,0,5,199,23,172,4,Non-New York City
-Delaware,Delaware County Sheriff,2015,12,153,23,0,14,1,8,130,39,90,1,Non-New York City
+Monroe,County Total,2015,,20531,2526,39,289,831,1367,18005,3149,13789,1067,Non-New York City
 Washington,Cambridge Vg PD,2001,,49,2,0,0,0,2,47,7,39,1,Non-New York City
 Chautauqua,Chautauqua County State Police,1996,,304,23,0,0,1,22,281,66,206,9,Non-New York City
 Rockland,County Total,2001,,6099,719,4,33,197,485,5380,885,4179,316,Non-New York City
@@ -1512,11 +1503,11 @@ Delaware,Delhi Vg PD,2008,12,25,1,0,0,1,0,24,3,21,0,Non-New York City
 Allegany,SUNY College at Alfred,2005,12,144,8,0,2,1,5,136,14,119,3,Non-New York City
 Monroe,Monroe County Sheriff,1999,,5477,110,3,16,36,55,5367,701,4424,242,Non-New York City
 Livingston,County Total,2005,,1902,66,1,12,6,47,1836,226,1580,30,Non-New York City
+Cattaraugus,Olean City PD,2017,12,413,32,1,5,4,22,381,27,351,3,Non-New York City
 Westchester,Briarcliff Manor Vg PD,1999,,83,2,0,0,0,2,81,10,66,5,Non-New York City
-Westchester,New Rochelle City PD,2017,12,1333,182,1,11,70,100,1151,105,979,67,Non-New York City
+Schenectady,Schenectady City PD,2017,12,2639,581,2,59,141,379,2058,347,1538,173,Non-New York City
 Monroe,Monroe County State Police,2003,12,50,27,0,0,0,27,23,1,22,0,Non-New York City
 Jefferson,West Carthage Vg PD,1995,,4,0,0,0,0,0,4,0,4,0,Non-New York City
-Sullivan,County Total,2013,,1719,172,1,18,22,131,1547,484,1023,40,Non-New York City
 Suffolk,Lloyd Harbor Vg PD,1997,,24,0,0,0,0,0,24,7,17,0,Non-New York City
 Tioga,Tioga County State Police,2005,12,177,13,1,3,1,8,164,38,121,5,Non-New York City
 Rensselaer,Rensselaer City PD,2007,12,294,29,0,5,9,15,265,60,189,16,Non-New York City
@@ -1534,12 +1525,12 @@ Saratoga,Saratoga Springs City PD,1999,,766,37,0,4,12,21,729,120,591,18,Non-New 
 Erie,Akron Vg PD,2005,12,26,7,0,1,0,6,19,4,15,0,Non-New York City
 Chautauqua,Chautauqua County State Police,2011,12,211,12,0,3,0,9,199,42,145,12,Non-New York City
 Suffolk,Suffolk County Park PD,2000,,68,8,0,0,1,7,60,6,54,0,Non-New York City
-Broome,County Total,2017,,5568,694,4,150,138,402,4874,786,3944,144,Non-New York City
+Westchester,County Total,2011,,16283,2557,21,71,1034,1431,13726,2125,10823,778,Non-New York City
 Greene,Hunter Town PD,2014,1,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Onondaga,Cicero Town PD,1995,,343,26,0,0,4,22,317,45,265,7,Non-New York City
 Westchester,Bronxville Vg PD,2009,12,70,1,0,0,1,0,69,10,55,4,Non-New York City
 Erie,Lackawanna City PD,2010,12,584,115,0,7,24,84,469,125,310,34,Non-New York City
-Monroe,Monroe County Sheriff,2015,12,3334,204,2,50,38,114,3130,415,2602,113,Non-New York City
+Clinton,County Total,2013,,1666,111,3,21,9,78,1555,262,1254,39,Non-New York City
 Schoharie,Schoharie County Sheriff,2013,12,75,4,0,0,0,4,71,24,45,2,Non-New York City
 Oneida,Whitesboro Vg PD,2007,12,78,15,0,0,1,14,63,14,46,3,Non-New York City
 Nassau,Rockville Centre Vg PD,1997,,675,64,0,3,16,45,611,87,423,101,Non-New York City
@@ -1557,10 +1548,11 @@ Columbia,Columbia County Park PD,1996,,5,0,0,0,0,0,5,1,4,0,Non-New York City
 Allegany,Independence Town PD,2004,0,,,,,,,,,,,Non-New York City
 Onondaga,Onondaga County (RR-RC),1995,,26,0,0,0,0,0,26,20,6,0,Non-New York City
 Cattaraugus,Franklinville Vg PD,2006,12,19,9,0,0,0,9,10,3,7,0,Non-New York City
-Sullivan,Liberty Vg PD,2013,12,228,21,0,2,2,17,207,43,161,3,Non-New York City
 Oneida,Rome City PD,1994,,1050,71,2,13,20,36,979,279,638,62,Non-New York City
 Chautauqua,Fredonia Vg PD,2005,12,246,15,0,1,4,10,231,26,197,8,Non-New York City
 Suffolk,Amityville Vg PD,1995,,266,14,0,0,9,5,252,41,186,25,Non-New York City
+Warren,Warren County Sheriff,2017,12,578,48,1,23,6,18,530,68,449,13,Non-New York City
+Madison,Madison County Sheriff,2017,12,169,21,0,5,1,15,148,28,110,10,Non-New York City
 Oswego,County Total,2001,,2994,116,2,14,25,75,2878,662,2111,105,Non-New York City
 Onondaga,Camillus Town and Vg PD,1995,,333,6,0,0,2,4,327,69,252,6,Non-New York City
 Schenectady,Schenectady County Sheriff,2000,,1,1,0,0,0,1,0,0,0,0,Non-New York City
@@ -1610,7 +1602,6 @@ Orange,Goshen Town PD,2013,12,63,1,0,0,0,1,62,7,52,3,Non-New York City
 Clinton,Clinton County Park PD,1995,,16,1,0,0,0,1,15,2,13,0,Non-New York City
 Cortland,Mcgraw Vg PD,1997,,15,0,0,0,0,0,15,2,13,0,Non-New York City
 Tioga,Waverly Vg PD,2001,,135,11,0,2,0,9,124,3,121,0,Non-New York City
-Cayuga,Cayuga County Sheriff,2017,12,206,40,0,15,1,24,166,39,124,3,Non-New York City
 Otsego,County Total,2009,,1201,140,0,18,18,104,1061,324,719,18,Non-New York City
 Oswego,Oswego County State Police,2011,12,951,34,0,7,3,24,917,249,635,33,Non-New York City
 Putnam,Putnam County State Police,2012,12,124,9,0,1,0,8,115,34,73,8,Non-New York City
@@ -1642,7 +1633,7 @@ Niagara,Youngstown Vg PD,2014,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Saratoga,Waterford Town and Vg PD,1991,,192,1,0,0,0,1,191,34,152,5,Non-New York City
 Lewis,Lewis County State Police,2006,12,99,14,0,6,0,8,85,44,39,2,Non-New York City
 Orange,Walden Vg PD,2005,12,149,9,0,0,0,9,140,6,129,5,Non-New York City
-Orange,Crawford Town PD,2016,12,74,7,0,1,3,3,67,10,55,2,Non-New York City
+Oneida,New Hartford Town and Vg PD,2017,12,611,16,0,2,6,8,595,26,560,9,Non-New York City
 Nassau,Hempstead Vg PD,2008,12,1238,341,10,10,192,129,897,197,469,231,Non-New York City
 Ulster,Ulster County Sheriff,2011,12,388,40,0,4,5,31,348,95,247,6,Non-New York City
 Albany,Altamont Vg PD,2007,12,10,0,0,0,0,0,10,0,10,0,Non-New York City
@@ -1659,7 +1650,8 @@ Yates,County Total,2000,,348,26,1,3,2,20,322,86,222,14,Non-New York City
 Schenectady,Glenville Town PD,1990,,441,42,0,4,4,34,399,131,256,12,Non-New York City
 Steuben,Steuben County State Police,2003,12,394,72,0,26,8,38,322,85,220,17,Non-New York City
 Jefferson,Cape Vincent Vg PD,2009,12,17,0,0,0,0,0,17,2,15,0,Non-New York City
-Wayne,County Total,2017,,1487,186,3,79,17,87,1301,241,1017,43,Non-New York City
+Monroe,Irondequoit Town PD,2017,12,1230,109,1,11,41,56,1121,157,906,58,Non-New York City
+Delaware,Delaware County Sheriff,2015,12,153,23,0,14,1,8,130,39,90,1,Non-New York City
 Orange,Warwick Town PD,2012,12,248,18,0,3,1,14,230,34,190,6,Non-New York City
 Chemung,Horseheads Vg PD,2011,12,135,4,0,0,0,4,131,12,117,2,Non-New York City
 Cattaraugus,Cattaraugus County Park PD,1997,,12,2,0,0,0,2,10,1,9,0,Non-New York City
@@ -1672,9 +1664,8 @@ Nassau,Malverne Vg PD,1996,,105,13,0,0,7,6,92,11,69,12,Non-New York City
 Sullivan,Monticello Vg PD,2003,12,336,39,0,1,10,28,297,104,185,8,Non-New York City
 Onondaga,County Total,1996,,20303,1729,17,106,682,924,18574,4440,13055,1079,Non-New York City
 Schenectady,County Total,2005,,5764,708,8,48,279,373,5056,995,3694,367,Non-New York City
-Clinton,Plattsburgh City PD,2013,12,525,41,0,5,4,32,484,80,396,8,Non-New York City
+Westchester,New Rochelle City PD,2017,12,1333,182,1,11,70,100,1151,105,979,67,Non-New York City
 Sullivan,Sullivan County Sheriff,2012,12,590,27,0,2,5,20,563,164,392,7,Non-New York City
-Suffolk,Riverhead Town PD,2016,12,880,76,0,1,38,37,804,77,717,10,Non-New York City
 Yates,Yates County Sheriff,2010,12,252,10,0,3,2,5,242,83,156,3,Non-New York City
 Niagara,Lewiston Town PD,2006,12,177,9,0,2,1,6,168,29,130,9,Non-New York City
 Allegany,Angelica Vg PD,2005,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
@@ -1703,11 +1694,12 @@ Nassau,SUNY College at Old Westbury,2006,12,75,0,0,0,0,0,75,3,66,6,Non-New York 
 Orange,Greenwood Lake Vg PD,1999,,207,29,0,2,2,25,178,28,137,13,Non-New York City
 Wayne,Wayne County (RR-CSX),2007,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Niagara,Niagara Falls City PD,2013,12,3393,584,3,12,166,403,2809,746,1949,114,Non-New York City
-Albany,Albany County Sheriff,2017,12,162,18,0,8,0,10,144,15,121,8,Non-New York City
 Monroe,SUNY College At Brockport,1995,,172,14,0,8,0,6,158,32,125,1,Non-New York City
 Oswego,Pulaski Vg PD,1997,,62,0,0,0,0,0,62,5,56,1,Non-New York City
 Franklin,Malone Vg PD,1993,,485,82,0,5,0,77,403,71,330,2,Non-New York City
 Herkimer,Ilion Vg PD,1999,,238,22,0,2,0,20,216,17,199,0,Non-New York City
+Sullivan,County Total,2013,,1719,172,1,18,22,131,1547,484,1023,40,Non-New York City
+Broome,County Total,2017,,5568,694,4,150,138,402,4874,786,3944,144,Non-New York City
 Schuyler,Watkins Glen Vg PD,2013,12,99,6,0,0,0,6,93,10,81,2,Non-New York City
 Suffolk,Shelter Island Town PD,2012,12,53,0,0,0,0,0,53,17,36,0,Non-New York City
 Westchester,Yonkers City PD,1994,,8724,1350,14,41,868,427,7374,1624,3871,1879,Non-New York City
@@ -1732,8 +1724,6 @@ Albany,County Total,2003,,11977,1402,11,51,436,904,10575,2068,7883,624,Non-New Y
 Monroe,Fairport Vg PD,2003,12,74,0,0,0,0,0,74,14,56,4,Non-New York City
 Kings,County Total,2002,,73707,22466,221,636,9980,11629,51241,10139,32728,8374,New York City
 Jefferson,Cape Vincent Vg PD,2013,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
-Orleans,Albion Vg PD,2017,12,222,29,0,3,7,19,193,24,165,4,Non-New York City
-Wayne,County Total,2012,,1843,132,1,21,19,91,1711,458,1213,40,Non-New York City
 Genesee,Genesee County State Police,1995,,203,19,0,2,2,15,184,46,136,2,Non-New York City
 Tioga,Tioga County Sheriff,2000,,245,18,0,4,1,13,227,76,128,23,Non-New York City
 Monroe,Ogden Town PD,2009,12,368,14,0,0,5,9,354,36,300,18,Non-New York City
@@ -1815,7 +1805,7 @@ Erie,Brant Town PD,2003,12,7,0,0,0,0,0,7,2,5,0,Non-New York City
 Seneca,Seneca County State Police,2008,12,153,20,0,5,2,13,133,38,91,4,Non-New York City
 Tompkins,Dryden Vg PD,2014,12,80,0,0,0,0,0,80,13,64,3,Non-New York City
 Rockland,Haverstraw Vg PD,2006,0,,,,,,,,,,,Non-New York City
-Oswego,County Total,2017,,1980,218,1,96,17,104,1762,406,1282,74,Non-New York City
+Monroe,Monroe County Sheriff,2015,12,3334,204,2,50,38,114,3130,415,2602,113,Non-New York City
 Sullivan,Sullivan County Sheriff,2007,12,576,41,0,6,0,35,535,169,341,25,Non-New York City
 Monroe,Monroe County (RR-RC),1991,,13,0,0,0,0,0,13,6,7,0,Non-New York City
 Tioga,County Total,2009,,555,30,0,4,0,26,525,122,386,17,Non-New York City
@@ -1830,7 +1820,6 @@ Oswego,Oswego County Park PD,2002,12,8,0,0,0,0,0,8,3,5,0,Non-New York City
 Jefferson,Jefferson County State Police,2013,12,733,17,0,1,0,16,716,122,562,32,Non-New York City
 Oneida,Yorkville Vg PD,2007,12,164,6,0,0,3,3,158,35,118,5,Non-New York City
 Albany,Guilderland Town PD,2001,,1208,29,1,2,13,13,1179,101,1057,21,Non-New York City
-Tompkins,County Total,2017,,1949,139,1,60,31,47,1810,187,1590,33,Non-New York City
 Monroe,Irondequoit Town PD,1994,,2537,74,0,9,51,14,2463,268,2078,117,Non-New York City
 Erie,Gowanda Vg PD,1991,,55,14,0,0,5,9,41,15,26,0,Non-New York City
 Oneida,New York Mills Vg PD,1997,,74,4,0,0,0,4,70,13,56,1,Non-New York City
@@ -1854,6 +1843,7 @@ Saratoga,Waterford Town and Vg PD,1998,,159,7,0,2,3,2,152,40,109,3,Non-New York 
 Albany,Menands Vg PD,2005,12,127,12,0,1,2,9,115,16,92,7,Non-New York City
 Erie,Evans Town PD,2005,12,278,26,0,4,4,18,252,50,187,15,Non-New York City
 Essex,Lake Placid Vg PD,2000,,134,17,0,0,2,15,117,14,99,4,Non-New York City
+Sullivan,Liberty Vg PD,2013,12,228,21,0,2,2,17,207,43,161,3,Non-New York City
 Oswego,Oswego County State Police,2013,12,728,35,0,8,4,23,693,196,462,35,Non-New York City
 Dutchess,Fishkill Town PD,1994,,234,19,0,2,1,16,215,26,178,11,Non-New York City
 Broome,Deposit Vg PD,1992,,10,5,0,0,0,5,5,4,1,0,Non-New York City
@@ -1879,7 +1869,7 @@ Suffolk,Suffolk County State Police,2001,,87,20,0,0,5,15,67,23,36,8,Non-New York
 Rensselaer,County Total,2004,,4318,488,2,48,113,325,3830,975,2584,271,Non-New York City
 Chemung,Southport Town PD,2004,12,46,4,0,0,0,4,42,8,34,0,Non-New York City
 Onondaga,Manlius Town PD,1992,,642,13,0,0,2,11,629,108,508,13,Non-New York City
-Franklin,County Total,2017,,688,100,1,57,5,37,588,136,426,26,Non-New York City
+Cayuga,Cayuga County Sheriff,2017,12,206,40,0,15,1,24,166,39,124,3,Non-New York City
 Allegany,Allegany County State Police,2000,,399,62,2,5,1,54,337,156,175,6,Non-New York City
 Putnam,Carmel Town PD,2002,12,397,24,0,0,3,21,373,86,263,24,Non-New York City
 Orange,Florida Vg PD,2009,12,28,4,0,0,0,4,24,3,20,1,Non-New York City
@@ -1910,8 +1900,7 @@ Region Total,Region Total,1999,,303124,27857,244,1734,8960,16919,275267,51040,20
 Nassau,Glen Cove City PD,2012,12,172,22,1,0,8,13,150,17,126,7,Non-New York City
 Erie,Buffalo City PD,2011,12,17555,3250,36,121,1459,1634,14305,4473,8711,1121,Non-New York City
 Nassau,County Total,2011,,19374,2226,23,63,1074,1066,17148,2784,13314,1050,Non-New York City
-Rensselaer,Schodack Town PD,2017,12,48,4,0,1,1,2,44,5,38,1,Non-New York City
-Monroe,Monroe County Sheriff,2017,12,3030,232,1,41,50,140,2798,330,2382,86,Non-New York City
+Orange,Crawford Town PD,2016,12,74,7,0,1,3,3,67,10,55,2,Non-New York City
 Suffolk,Sag Harbor Vg PD,1991,,114,3,0,0,0,3,111,20,86,5,Non-New York City
 Schenectady,Schenectady City PD,1995,,3994,505,8,33,240,224,3489,1068,2236,185,Non-New York City
 Onondaga,Manlius Town PD,1994,,579,18,0,1,3,14,561,80,465,16,Non-New York City
@@ -1924,7 +1913,7 @@ Orange,Newburgh City PD,2007,12,1612,436,2,14,131,289,1176,316,791,69,Non-New Yo
 Ontario,Geneva City PD,1998,,507,45,0,0,7,38,462,68,384,10,Non-New York City
 Clinton,Clinton County Park PD,2001,,15,0,0,0,0,0,15,1,14,0,Non-New York City
 Nassau,Lake Success Vg PD,2007,12,102,1,0,0,0,1,101,25,71,5,Non-New York City
-Oneida,County Total,2011,,5939,551,7,37,130,377,5388,1233,4004,151,Non-New York City
+Wayne,County Total,2017,,1487,186,3,79,17,87,1301,241,1017,43,Non-New York City
 Rockland,Ramapo Town PD,2008,12,800,78,1,6,19,52,722,121,573,28,Non-New York City
 Fulton,County Total,1992,,2064,123,1,17,19,86,1941,524,1337,80,Non-New York City
 Rockland,Rockland County MTA,2011,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
@@ -1940,7 +1929,7 @@ Schenectady,Rotterdam Town PD,2010,12,805,26,0,0,9,17,779,117,645,17,Non-New Yor
 Queens,County Total,2010,,38808,9725,100,196,4066,5363,29083,4704,20895,3484,New York City
 Chautauqua,Fredonia Vg PD,1997,,199,10,0,1,3,6,189,15,172,2,Non-New York City
 Onondaga,Jordan Vg PD,2004,12,8,0,0,0,0,0,8,0,8,0,Non-New York City
-Monroe,SUNY Police - Brockport,2017,12,60,7,0,1,1,5,53,8,45,0,Non-New York City
+Clinton,Plattsburgh City PD,2013,12,525,41,0,5,4,32,484,80,396,8,Non-New York City
 Steuben,County Total,2007,,1551,160,2,36,16,106,1391,263,1096,32,Non-New York City
 Steuben,Canisteo Vg PD,2006,12,61,11,0,2,0,9,50,16,34,0,Non-New York City
 Nassau,Great Neck Estates Vg PD,2011,12,3,0,0,0,0,0,3,2,1,0,Non-New York City
@@ -1953,6 +1942,7 @@ Rensselaer,North Greenbush Town PD,2005,12,177,28,0,2,2,24,149,29,115,5,Non-New 
 Suffolk,Ocean Beach Vg PD,1996,,56,5,0,0,0,5,51,6,45,0,Non-New York City
 Niagara,Niagara County State Police,2003,12,203,13,0,3,2,8,190,29,152,9,Non-New York City
 Westchester,Mount Pleasant Town PD,1997,,488,41,1,1,4,35,447,60,342,45,Non-New York City
+Suffolk,Riverhead Town PD,2016,12,880,76,0,1,38,37,804,77,717,10,Non-New York City
 Dutchess,Poughkeepsie City PD,1990,,2366,378,5,17,214,142,1988,425,1365,198,Non-New York City
 Rensselaer,Nassau Vg PD,2007,12,5,3,0,0,1,2,2,2,0,0,Non-New York City
 Nassau,SUNY College At Old Westbury,1990,,71,2,0,0,1,1,69,14,52,3,Non-New York City
@@ -2022,8 +2012,7 @@ Dutchess,Fishkill Town PD,1996,,280,19,0,0,1,18,261,33,223,5,Non-New York City
 Schuyler,County Total,2002,,324,29,3,5,1,20,295,52,235,8,Non-New York City
 Queens,County Total,2003,,50442,11106,122,288,5179,5517,39336,7226,24671,7439,New York City
 Suffolk,Suffolk County Park Police,2005,12,46,2,0,0,0,2,44,3,40,1,Non-New York City
-Warren,County Total,2016,,1201,112,2,41,9,60,1089,132,944,13,Non-New York City
-Otsego,Cooperstown Vg PD,2017,12,5,2,0,0,0,2,3,0,3,0,Non-New York City
+Albany,Albany County Sheriff,2017,12,162,18,0,8,0,10,144,15,121,8,Non-New York City
 Ulster,County Total,2000,,3963,401,1,23,55,322,3562,694,2679,189,Non-New York City
 Saratoga,Waterford Town and Vg PD,2014,12,59,1,0,0,1,0,58,14,44,0,Non-New York City
 Clinton,Rouses Point Vg PD,2003,12,6,3,0,0,0,3,3,2,1,0,Non-New York City
@@ -2048,10 +2037,10 @@ Washington,Fort Edward Vg PD,1999,,92,14,0,1,2,11,78,15,63,0,Non-New York City
 Herkimer,County Total,2010,,1374,169,0,16,7,146,1205,268,913,24,Non-New York City
 Livingston,Dansville Vg PD,2003,12,262,15,0,1,3,11,247,18,227,2,Non-New York City
 Nassau,Malverne Vg PD,1990,,113,3,0,0,1,2,110,19,85,6,Non-New York City
-Schenectady,County Total,2014,,5092,598,6,38,169,385,4494,879,3453,162,Non-New York City
+Orleans,Albion Vg PD,2017,12,222,29,0,3,7,19,193,24,165,4,Non-New York City
 Chautauqua,Carroll Town PD,1993,,24,3,0,1,0,2,21,5,16,0,Non-New York City
 Orange,Orange County MTA,2011,12,5,0,0,0,0,0,5,0,3,2,Non-New York City
-Delaware,SUNY College At Delhi,1998,,,,,,,,,,,,Non-New York City
+Wayne,County Total,2012,,1843,132,1,21,19,91,1711,458,1213,40,Non-New York City
 Jefferson,Jefferson County Sheriff,2002,12,489,39,1,8,2,28,450,103,336,11,Non-New York City
 Allegany,Allegany County Sheriff,2014,12,6,2,0,0,0,2,4,0,4,0,Non-New York City
 Rensselaer,Hoosick Falls Vg PD,1990,,87,17,0,0,1,16,70,14,52,4,Non-New York City
@@ -2063,10 +2052,9 @@ Chautauqua,Dunkirk City PD,2005,12,456,57,1,2,15,39,399,73,316,10,Non-New York C
 Wayne,Lyons Vg PD,1995,,139,14,0,0,2,12,125,31,92,2,Non-New York City
 Erie,Lancaster Town PD,2006,12,491,16,1,1,5,9,475,70,396,9,Non-New York City
 Westchester,North Castle Town PD,2004,12,152,12,0,1,5,6,140,17,119,4,Non-New York City
-Wayne,County Total,2016,,1618,159,3,57,19,80,1459,310,1100,49,Non-New York City
+Oswego,County Total,2017,,1980,218,1,96,17,104,1762,406,1282,74,Non-New York City
 Dutchess,Beacon City PD,2008,12,415,63,0,0,20,43,352,107,225,20,Non-New York City
 Ulster,New Paltz Town and Vg PD,1999,,344,50,0,1,1,48,294,43,236,15,Non-New York City
-Seneca,Seneca Falls Town PD,2016,12,307,26,0,5,1,20,281,37,239,5,Non-New York City
 Chautauqua,Chautauqua County (RR-CSX),2003,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Dutchess,Pawling Vg PD,1991,,16,0,0,0,0,0,16,4,10,2,Non-New York City
 Greene,Hunter Town PD,1998,,26,2,0,0,0,2,24,10,14,0,Non-New York City
@@ -2076,9 +2064,9 @@ Chautauqua,Carroll Town PD,2003,12,15,1,0,0,0,1,14,6,8,0,Non-New York City
 Nassau,Great Neck Estates Vg PD,2008,12,4,0,0,0,0,0,4,1,3,0,Non-New York City
 Hamilton,Inlet Town PD,1993,,24,1,0,0,0,1,23,6,17,0,Non-New York City
 Orange,Greenwood Lake Vg PD,2005,12,28,11,0,3,0,8,17,0,17,0,Non-New York City
-Cattaraugus,Ellicottville Town PD,2017,12,15,1,0,0,0,1,14,3,11,0,Non-New York City
+Tompkins,County Total,2017,,1949,139,1,60,31,47,1810,187,1590,33,Non-New York City
 Ulster,Kingston City PD,2003,12,1242,118,1,7,62,48,1124,176,873,75,Non-New York City
-Cattaraugus,Cattaraugus County Sheriff,2017,12,318,39,1,15,4,19,279,78,184,17,Non-New York City
+Franklin,County Total,2017,,688,100,1,57,5,37,588,136,426,26,Non-New York City
 Delaware,Walton Vg PD,2004,12,100,15,1,0,0,14,85,16,65,4,Non-New York City
 Onondaga,Onondaga County Sheriff,2000,,2436,191,1,28,48,114,2245,408,1721,116,Non-New York City
 Seneca,Waterloo Vg PD,1992,,208,5,1,0,1,3,203,27,169,7,Non-New York City
@@ -2086,10 +2074,10 @@ Suffolk,Shelter Island Town PD,2000,,62,0,0,0,0,0,62,14,47,1,Non-New York City
 Monroe,SUNY College at Brockport,2004,0,,,,,,,,,,,Non-New York City
 Monroe,Monroe County State Police,2002,12,54,37,0,3,1,33,17,2,14,1,Non-New York City
 Wayne,Newark Vg PD,2008,12,419,50,0,7,9,34,369,63,302,4,Non-New York City
-Schenectady,County Total,2016,,4682,697,7,80,166,444,3985,571,3168,246,Non-New York City
+Rensselaer,Schodack Town PD,2017,12,48,4,0,1,1,2,44,5,38,1,Non-New York City
 Clinton,Rouses Point Vg PD,2006,12,3,0,0,0,0,0,3,2,1,0,Non-New York City
 Herkimer,Little Falls City PD,2004,12,192,45,0,0,0,45,147,27,113,7,Non-New York City
-Westchester,County Total,2017,,11572,1948,19,136,600,1193,9624,1009,8029,586,Non-New York City
+Monroe,Monroe County Sheriff,2017,12,3030,232,1,41,50,140,2798,330,2382,86,Non-New York City
 Wyoming,Wyoming County State Police,2012,12,44,15,0,0,0,15,29,5,22,2,Non-New York City
 Steuben,Canisteo Vg PD,2007,12,76,8,0,0,0,8,68,7,61,0,Non-New York City
 Westchester,Larchmont Vg PD,2011,12,131,3,0,0,2,1,128,24,101,3,Non-New York City
@@ -2133,7 +2121,6 @@ Orange,Chester Town PD,2010,12,61,0,0,0,0,0,61,10,50,1,Non-New York City
 Ulster,SUNY College At New Paltz,1990,,112,1,0,1,0,0,111,4,107,0,Non-New York City
 Steuben,Wayland Vg PD,1993,,58,4,0,1,0,3,54,10,42,2,Non-New York City
 Otsego,Otsego County Park PD,2011,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
-Albany,SUNY Police - Albany,2017,12,166,12,0,5,5,2,154,10,144,0,Non-New York City
 Saratoga,Saratoga County State Police,2008,12,674,64,0,11,3,50,610,114,480,16,Non-New York City
 Westchester,Hastings-on-Hudson Vg PD,1999,,66,2,0,0,1,1,64,6,42,16,Non-New York City
 Hamilton,Inlet Town PD,2002,12,42,1,0,0,0,1,41,12,28,1,Non-New York City
@@ -2178,9 +2165,8 @@ Sullivan,Liberty Vg PD,2007,12,234,30,0,1,8,21,204,28,172,4,Non-New York City
 Onondaga,DeWitt Town PD,2014,12,707,22,0,2,7,13,685,97,577,11,Non-New York City
 Nassau,Great Neck Estates Vg PD,2010,12,5,0,0,0,0,0,5,4,1,0,Non-New York City
 Saratoga,Saratoga County Park PD,2001,,43,6,0,0,1,5,37,3,34,0,Non-New York City
-Niagara,Niagara County Park PD,2017,12,56,5,0,0,4,1,51,4,45,2,Non-New York City
+Oneida,County Total,2011,,5939,551,7,37,130,377,5388,1233,4004,151,Non-New York City
 Niagara,Middleport Vg PD,2009,12,28,0,0,0,0,0,28,4,23,1,Non-New York City
-Cattaraugus,Cattaraugus County Sheriff,2016,12,323,34,0,19,1,14,289,81,186,22,Non-New York City
 Warren,County Total,2004,,1457,98,0,15,7,76,1359,176,1154,29,Non-New York City
 St Lawrence,Massena Vg PD,2010,12,417,19,0,3,7,9,398,64,329,5,Non-New York City
 Onondaga,Onondaga County Sheriff,1998,,2766,207,1,36,57,113,2559,512,1944,103,Non-New York City
@@ -2198,6 +2184,7 @@ Niagara,Niagara County State Police,1991,,566,29,1,3,7,18,537,108,404,25,Non-New
 Allegany,Wellsville Vg PD,1995,,223,36,0,3,0,33,187,28,155,4,Non-New York City
 Schoharie,Schoharie County Sheriff,1997,,86,1,0,0,0,1,85,36,45,4,Non-New York City
 Columbia,Germantown Town PD,1992,,3,0,0,0,0,0,3,0,2,1,Non-New York City
+Monroe,SUNY Police - Brockport,2017,12,60,7,0,1,1,5,53,8,45,0,Non-New York City
 Chemung,Chemung County Sheriff,2014,12,577,29,0,3,3,23,548,48,488,12,Non-New York City
 Albany,Albany County State Police,2013,12,186,8,0,3,0,5,178,17,159,2,Non-New York City
 Allegany,SUNY College At Alfred,1994,,136,3,0,2,1,0,133,40,93,0,Non-New York City
@@ -2207,7 +2194,6 @@ Niagara,Lewiston Town PD,2011,12,183,16,0,1,4,11,167,35,119,13,Non-New York City
 Niagara,County Total,2001,,7946,733,5,52,237,439,7213,1546,5088,579,Non-New York City
 Westchester,Westchester Co Dept Pub Safety,2011,12,166,25,0,0,2,23,141,10,129,2,Non-New York City
 Delaware,Sidney Vg PD,2009,12,179,12,0,1,0,11,167,23,141,3,Non-New York City
-Steuben,County Total,2014,,1541,115,0,26,9,80,1426,246,1137,43,Non-New York City
 Onondaga,Geddes Town PD,2009,12,201,3,0,0,2,1,198,28,159,11,Non-New York City
 Suffolk,Southold Town PD,2009,12,422,20,0,0,3,17,402,75,318,9,Non-New York City
 Wayne,Wayne County Park PD,2011,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
@@ -2226,7 +2212,6 @@ Jefferson,Jefferson County Park PD,2005,12,6,0,0,0,0,0,6,0,6,0,Non-New York City
 St Lawrence,Potsdam Vg PD,2004,12,264,11,0,2,0,9,253,54,191,8,Non-New York City
 Columbia,Philmont Vg PD,1991,,8,3,0,0,0,3,5,3,2,0,Non-New York City
 Saratoga,Saratoga County (RR-D and H),1995,,23,0,0,0,0,0,23,1,22,0,Non-New York City
-Warren,County Total,2015,,1090,108,1,51,11,45,982,121,845,16,Non-New York City
 Chautauqua,Chautauqua County Sheriff,1994,,1121,131,0,2,6,123,990,262,682,46,Non-New York City
 Richmond,County Total,1990,,21853,3092,29,80,1037,1946,18761,3621,7909,7231,New York City
 Erie,Lancaster Town PD,2003,12,310,11,0,1,6,4,299,26,255,18,Non-New York City
@@ -2261,12 +2246,11 @@ Orleans,Orleans County State Police,2007,12,89,15,0,4,0,11,74,10,60,4,Non-New Yo
 Erie,Erie County (RR-CSX),2005,12,16,0,0,0,0,0,16,1,15,0,Non-New York City
 Oswego,Oswego City PD,1999,,518,17,0,0,9,8,501,100,389,12,Non-New York City
 Erie,Erie County State Police,1997,,881,134,0,2,5,127,747,180,529,38,Non-New York City
-Tompkins,Tompkins County Sheriff,2017,12,42,3,0,1,1,1,39,4,33,2,Non-New York City
-Orange,County Total,2017,,6739,874,8,165,198,503,5865,613,5078,174,Non-New York City
+Warren,County Total,2016,,1201,112,2,41,9,60,1089,132,944,13,Non-New York City
 Steuben,County Total,2010,,1837,164,2,18,13,131,1673,370,1259,44,Non-New York City
 Allegany,Cuba Town PD,1991,,77,3,0,0,0,3,74,21,49,4,Non-New York City
 Erie,West Seneca Town PD,2001,,1108,142,0,2,20,120,966,113,801,52,Non-New York City
-Niagara,County Total,2017,,5455,766,3,83,197,483,4689,844,3570,275,Non-New York City
+Otsego,Cooperstown Vg PD,2017,12,5,2,0,0,0,2,3,0,3,0,Non-New York City
 Herkimer,Ilion Vg PD,1997,,227,35,0,3,2,30,192,15,176,1,Non-New York City
 Schenectady,Niskayuna Town PD,2009,12,427,17,0,1,7,9,410,29,377,4,Non-New York City
 Otsego,SUNY College at Oneonta,2004,12,133,1,0,0,0,1,132,53,75,4,Non-New York City
@@ -2285,6 +2269,7 @@ Tompkins,Dryden Vg PD,2009,12,106,7,0,0,0,7,99,12,87,0,Non-New York City
 Allegany,Cuba Town PD,2011,12,97,7,0,3,0,4,90,18,72,0,Non-New York City
 Onondaga,North Syracuse Vg PD,2011,12,181,26,0,0,2,24,155,19,131,5,Non-New York City
 Herkimer,Herkimer County Sheriff,1993,,12,0,0,0,0,0,12,0,12,0,Non-New York City
+Schenectady,County Total,2014,,5092,598,6,38,169,385,4494,879,3453,162,Non-New York City
 Montgomery,Amsterdam City PD,1993,,469,10,0,3,3,4,459,128,314,17,Non-New York City
 Erie,Hamburg Town PD,1998,,1646,192,0,7,18,167,1454,251,1194,9,Non-New York City
 Orange,Warwick Town PD,2007,12,130,2,1,1,0,0,128,26,100,2,Non-New York City
@@ -2318,21 +2303,19 @@ Albany,Albany City PD,1992,,7791,1150,8,77,467,598,6641,2246,3858,537,Non-New Yo
 Allegany,Bolivar Vg PD,2006,12,13,2,0,0,0,2,11,1,10,0,Non-New York City
 Orange,Chester Town PD,2008,12,43,2,0,0,0,2,41,4,35,2,Non-New York City
 Erie,Kenmore Vg PD,2006,12,329,32,0,3,21,8,297,46,240,11,Non-New York City
-Oneida,Oneida County Sheriff,2016,12,414,72,0,46,1,25,342,96,229,17,Non-New York City
 Cattaraugus,Salamanca City PD,2009,12,249,18,0,3,3,12,231,46,182,3,Non-New York City
 Chenango,County Total,2000,,1173,103,1,7,6,89,1070,223,823,24,Non-New York City
 Onondaga,Marcellus Vg PD,2008,11,6,0,0,0,0,0,6,1,5,0,Non-New York City
 Clinton,Plattsburgh City PD,1992,,624,81,0,3,1,77,543,74,462,7,Non-New York City
-Hamilton,Inlet Town PD,2017,12,4,0,0,0,0,0,4,1,3,0,Non-New York City
+Delaware,SUNY College At Delhi,1998,,,,,,,,,,,,Non-New York City
 Seneca,Ovid Vg PD,2006,0,,,,,,,,,,,Non-New York City
-Sullivan,County Total,2017,,1280,221,2,98,13,108,1059,261,763,35,Non-New York City
+Wayne,County Total,2016,,1618,159,3,57,19,80,1459,310,1100,49,Non-New York City
 St Lawrence,Massena Vg PD,2001,,165,10,0,2,2,6,155,14,134,7,Non-New York City
 Rockland,South Nyack-Grand View PD,2011,12,44,5,0,1,0,4,39,8,30,1,Non-New York City
 Allegany,SUNY College At Alfred,1990,,165,4,0,0,0,4,161,46,114,1,Non-New York City
 Steuben,Caton Town PD,2011,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Jefferson,Jefferson County State Police,1998,,515,21,0,3,1,17,494,106,383,5,Non-New York City
 Orange,Cornwall-On-Hudson Vg PD,1993,,51,3,0,0,0,3,48,7,40,1,Non-New York City
-Albany,County Total,2017,,8777,1161,8,116,313,724,7616,787,6607,222,Non-New York City
 Fulton,Johnstown City PD,2003,12,78,5,0,2,0,3,73,6,67,0,Non-New York City
 Erie,Evans Town PD,1994,,428,49,0,0,3,46,379,67,277,35,Non-New York City
 Orleans,Orleans County Sheriff,2005,12,138,16,2,1,0,13,122,31,79,12,Non-New York City
@@ -2345,6 +2328,8 @@ Ulster,Saugerties Vg PD,1994,,123,12,0,0,0,12,111,17,90,4,Non-New York City
 Clinton,County Total,1996,,1985,357,1,7,2,347,1628,429,1167,32,Non-New York City
 Schoharie,Schoharie County Sheriff,2005,12,83,2,0,0,0,2,81,14,64,3,Non-New York City
 Chautauqua,County Total,1992,,5317,296,2,19,45,230,5021,1006,3860,155,Non-New York City
+Seneca,Seneca Falls Town PD,2016,12,307,26,0,5,1,20,281,37,239,5,Non-New York City
+Cattaraugus,Ellicottville Town PD,2017,12,15,1,0,0,0,1,14,3,11,0,Non-New York City
 Suffolk,Southampton Town PD,2010,12,1195,55,0,4,10,41,1140,248,837,55,Non-New York City
 Monroe,Ogden Town PD,1991,,394,9,0,1,1,7,385,68,315,2,Non-New York City
 Ulster,Shawangunk Town PD,2006,12,128,11,0,0,1,10,117,20,91,6,Non-New York City
@@ -2361,10 +2346,10 @@ Allegany,Wellsville Vg PD,1994,,182,29,0,0,0,29,153,26,125,2,Non-New York City
 Rockland,Rockland County (RR-RC) A,1994,,6,0,0,0,0,0,6,1,5,0,Non-New York City
 Madison,County Total,1991,,1851,76,0,7,5,64,1775,377,1357,41,Non-New York City
 Jefferson,Black River Vg PD,2005,0,,,,,,,,,,,Non-New York City
-Sullivan,Fallsburg Town PD,2014,12,119,11,0,0,1,10,108,55,51,2,Non-New York City
+Cattaraugus,Cattaraugus County Sheriff,2017,12,318,39,1,15,4,19,279,78,184,17,Non-New York City
 Dutchess,Dutchess County (RR-MN),1995,,55,21,0,1,3,17,34,1,32,1,Non-New York City
 Hamilton,Hamilton County Sheriff,2004,12,7,0,0,0,0,0,7,1,6,0,Non-New York City
-Tioga,County Total,2017,,456,48,0,28,0,20,408,79,301,28,Non-New York City
+Schenectady,County Total,2016,,4682,697,7,80,166,444,3985,571,3168,246,Non-New York City
 Madison,Madison County State Police,1993,,484,31,3,9,1,18,453,127,315,11,Non-New York City
 Dutchess,Wappingers Falls Vg PD,2007,12,145,10,0,1,5,4,135,16,115,4,Non-New York City
 Erie,Evans Town PD,2013,12,330,17,0,1,1,15,313,49,258,6,Non-New York City
@@ -2424,7 +2409,6 @@ Erie,Akron Vg PD,1998,,64,5,0,0,0,5,59,11,47,1,Non-New York City
 Westchester,Buchanan Vg PD,2008,12,23,2,0,0,0,2,21,3,18,0,Non-New York City
 Oneida,County Total,1994,,7896,571,16,81,166,308,7325,1675,5380,270,Non-New York City
 Washington,Fort Edward Vg PD,2009,12,16,4,0,0,0,4,12,5,6,1,Non-New York City
-Delaware,County Total,2017,,520,59,0,32,2,25,461,103,346,12,Non-New York City
 Erie,Erie County State Police,2012,12,466,32,0,5,1,26,434,40,383,11,Non-New York City
 Monroe,SUNY College At Brockport,1992,,173,1,0,1,0,0,172,45,123,4,Non-New York City
 Erie,Erie County (RR-D and H),1991,,22,0,0,0,0,0,22,15,7,0,Non-New York City
@@ -2462,7 +2446,6 @@ Jefferson,County Total,2008,,2771,271,0,26,26,219,2500,480,1936,84,Non-New York 
 Fulton,Fulton County Sheriff,2005,12,440,18,1,0,1,16,422,107,291,24,Non-New York City
 Suffolk,Quogue Vg PD,2012,12,26,0,0,0,0,0,26,10,15,1,Non-New York City
 Tompkins,Trumansburg Vg PD,2009,12,49,6,0,1,1,4,43,9,33,1,Non-New York City
-Rensselaer,County Total,2017,,3513,447,6,69,127,245,3066,556,2376,134,Non-New York City
 Clinton,SUNY College At Plattsburgh,2002,12,117,2,0,1,0,1,115,11,104,0,Non-New York City
 Herkimer,County Total,1993,,1469,189,1,21,9,158,1280,366,884,30,Non-New York City
 Chautauqua,Silver Creek Vg PD,2012,12,50,1,0,0,0,1,49,2,46,1,Non-New York City
@@ -2544,7 +2527,7 @@ Otsego,County Total,1991,,1374,62,0,5,6,51,1312,360,911,41,Non-New York City
 Suffolk,Riverhead Town PD,2007,12,954,90,1,3,31,55,864,173,658,33,Non-New York City
 Erie,SUNY - Buffalo at Amherst,1990,,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Washington,Cambridge Vg PD,2006,12,45,2,0,0,0,2,43,12,30,1,Non-New York City
-Monroe,Rochester City PD,2015,12,10107,1840,34,148,640,1018,8267,1753,5780,734,Non-New York City
+Westchester,County Total,2017,,11572,1948,19,136,600,1193,9624,1009,8029,586,Non-New York City
 Schoharie,County Total,1991,,741,57,0,11,4,42,684,237,429,18,Non-New York City
 Chemung,Chemung County Park PD,2001,,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Ulster,Shawangunk Town PD,2009,12,110,13,0,0,0,13,97,21,75,1,Non-New York City
@@ -2609,7 +2592,6 @@ Greene,Catskill Vg PD,2003,12,216,18,1,2,1,14,198,21,169,8,Non-New York City
 Saratoga,South Glens Falls Vg PD,2007,12,126,6,0,2,1,3,120,18,98,4,Non-New York City
 Onondaga,Baldwinsville Vg PD,1993,,261,5,1,0,2,2,256,53,192,11,Non-New York City
 Monroe,Gates Town PD,2014,12,1096,59,1,4,21,33,1037,106,903,28,Non-New York City
-Oswego,Pulaski Vg PD,2017,12,23,0,0,0,0,0,23,5,18,0,Non-New York City
 Allegany,Angelica Vg PD,2010,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Washington,Washington County Sheriff,1994,,268,19,0,0,0,19,249,69,168,12,Non-New York City
 Tioga,Tioga County State Police,2009,12,137,10,0,2,0,8,127,34,90,3,Non-New York City
@@ -2632,10 +2614,11 @@ Orange,Maybrook Vg PD,1990,,40,0,0,0,0,0,40,7,29,4,Non-New York City
 Chenango,Oxford Vg PD,2006,12,51,1,0,0,0,1,50,8,42,0,Non-New York City
 Hamilton,Hamilton County Sheriff,2012,12,11,1,0,0,0,1,10,6,4,0,Non-New York City
 Onondaga,Onondaga County Park Rangers,2004,11,34,0,0,0,0,0,34,4,30,0,Non-New York City
-Lewis,Lewis County Sheriff,2017,12,108,9,0,3,0,6,99,33,64,2,Non-New York City
+Albany,SUNY Police - Albany,2017,12,166,12,0,5,5,2,154,10,144,0,Non-New York City
 Wyoming,County Total,2006,,753,100,1,12,3,84,653,157,468,28,Non-New York City
 Orange,Orange County State Police,1990,,1589,140,8,15,25,92,1449,346,982,121,Non-New York City
 Allegany,County Total,1997,,943,84,0,8,1,75,859,253,586,20,Non-New York City
+Niagara,Niagara County Park PD,2017,12,56,5,0,0,4,1,51,4,45,2,Non-New York City
 Ulster,Ellenville Vg PD,2010,12,128,33,0,0,4,29,95,30,62,3,Non-New York City
 Rensselaer,Rensselaer County Park PD,1993,,11,1,0,0,0,1,10,1,9,0,Non-New York City
 Region Total,Region Total,1996,,367560,33200,347,1828,12159,18866,334360,68567,236361,29432,Non-New York City
@@ -2659,7 +2642,7 @@ Rensselaer,East Greenbush Town PD,2012,12,405,14,0,1,6,7,391,44,342,5,Non-New Yo
 Cattaraugus,County Total,1998,,2096,154,1,15,8,130,1942,566,1324,52,Non-New York City
 Orange,New Windsor Town PD,2010,12,496,24,1,0,8,15,472,85,372,15,Non-New York City
 Rockland,Suffern Vg PD,2007,12,73,6,0,1,4,1,67,13,52,2,Non-New York City
-Warren,Warren County Sheriff,2016,12,670,45,0,17,5,23,625,77,542,6,Non-New York City
+Cattaraugus,Cattaraugus County Sheriff,2016,12,323,34,0,19,1,14,289,81,186,22,Non-New York City
 St Lawrence,St Lawrence County Sheriff,1992,,598,70,0,1,7,62,528,171,337,20,Non-New York City
 Warren,Glens Falls City PD,1996,,949,156,1,1,7,147,793,185,603,5,Non-New York City
 Steuben,Steuben County State Police,1995,,768,51,2,7,2,40,717,207,489,21,Non-New York City
@@ -2667,12 +2650,12 @@ Delaware,SUNY College At Delhi,1991,,121,2,0,0,1,1,119,37,82,0,Non-New York City
 Clinton,Clinton County Park PD,2011,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Cayuga,County Total,1991,,2554,216,3,17,28,168,2338,492,1796,50,Non-New York City
 Broome,Port Dickinson Vg PD,2010,12,16,3,0,0,1,2,13,1,12,0,Non-New York City
-Greene,County Total,2017,,632,137,1,38,4,94,495,99,380,16,Non-New York City
+Steuben,County Total,2014,,1541,115,0,26,9,80,1426,246,1137,43,Non-New York City
 Seneca,Seneca County State Police,2002,12,112,24,0,1,1,22,88,29,57,2,Non-New York City
 Richmond,County Total,1993,,18203,3347,25,58,1403,1861,14856,3422,6469,4965,New York City
 Nassau,Hempstead Vg PD,2012,12,1456,464,9,9,207,239,992,217,636,139,Non-New York City
 Erie,Depew Vg PD,2000,,469,24,0,2,6,16,445,79,326,40,Non-New York City
-Ulster,Ulster County Sheriff,2017,12,221,34,1,4,3,26,187,35,139,13,Non-New York City
+Warren,County Total,2015,,1090,108,1,51,11,45,982,121,845,16,Non-New York City
 Wayne,Newark Vg PD,1996,,210,7,0,4,2,1,203,22,178,3,Non-New York City
 Oneida,Kirkland Town PD,2008,12,125,0,0,0,0,0,125,20,104,1,Non-New York City
 Rockland,Piermont Vg PD,2009,12,42,0,0,0,0,0,42,3,38,1,Non-New York City
@@ -2689,11 +2672,11 @@ St Lawrence,Gouverneur Vg PD,1990,,151,5,0,1,0,4,146,25,113,8,Non-New York City
 Albany,Guilderland Town PD,2005,12,1051,45,1,3,10,31,1006,80,921,5,Non-New York City
 Monroe,Monroe County State Police,2001,,54,18,0,2,0,16,36,0,22,14,Non-New York City
 Nassau,Nassau County PD,2006,12,16526,1813,14,74,866,859,14713,2170,11372,1171,Non-New York City
-Sullivan,County Total,2014,,1646,157,3,14,27,113,1489,471,978,40,Non-New York City
+Tompkins,Tompkins County Sheriff,2017,12,42,3,0,1,1,1,39,4,33,2,Non-New York City
 Chenango,Sherburne Vg PD,2011,12,7,0,0,0,0,0,7,1,6,0,Non-New York City
 Oswego,Oswego City PD,1991,,801,4,0,0,3,1,797,147,621,29,Non-New York City
 Ulster,Ulster Town PD,2009,12,448,8,0,1,2,5,440,37,388,15,Non-New York City
-Chautauqua,Jamestown City PD,2017,12,1076,196,1,26,31,138,880,227,610,43,Non-New York City
+Orange,County Total,2017,,6739,874,8,165,198,503,5865,613,5078,174,Non-New York City
 Monroe,Monroe County Park PD,1995,,23,0,0,0,0,0,23,0,23,0,Non-New York City
 Genesee,Batavia City PD,2011,12,556,49,0,10,7,32,507,95,399,13,Non-New York City
 Steuben,Addison Vg PD,1996,,10,2,0,0,0,2,8,1,7,0,Non-New York City
@@ -2735,8 +2718,8 @@ Ulster,Kingston City PD,1998,,966,61,0,7,26,28,905,99,768,38,Non-New York City
 Onondaga,Onondaga County Park PD,1991,,23,0,0,0,0,0,23,0,23,0,Non-New York City
 Genesee,Genesee County Sheriff,1999,,663,37,0,7,2,28,626,126,484,16,Non-New York City
 Cattaraugus,Ellicottville Town PD,2005,12,171,3,0,0,0,3,168,13,154,1,Non-New York City
-Suffolk,County Total,2017,,20543,1693,22,160,508,1003,18850,1626,16136,1088,Non-New York City
-Greene,Catskill Vg PD,2017,12,144,18,0,5,1,12,126,12,113,1,Non-New York City
+Niagara,County Total,2017,,5455,766,3,83,197,483,4689,844,3570,275,Non-New York City
+Oneida,Oneida County Sheriff,2016,12,414,72,0,46,1,25,342,96,229,17,Non-New York City
 Columbia,Columbia County Sheriff,1992,,359,16,0,1,2,13,343,136,196,11,Non-New York City
 Nassau,Lake Success Vg PD,1990,,201,0,0,0,0,0,201,23,125,53,Non-New York City
 Suffolk,Southampton Town PD,2002,12,1638,137,0,6,31,100,1501,280,1141,80,Non-New York City
@@ -2752,7 +2735,7 @@ Ulster,New Paltz Town and Vg PD,2001,,72,10,0,0,0,10,62,11,47,4,Non-New York Cit
 Ulster,Plattekill Town PD,1993,,22,6,0,0,0,6,16,3,11,2,Non-New York City
 Broome,Broome County (RR-D and H),1990,,25,0,0,0,0,0,25,0,25,0,Non-New York City
 Cayuga,Moravia Vg PD,2010,12,13,1,0,0,0,1,12,2,8,2,Non-New York City
-Dutchess,Dutchess County Sheriff,2016,12,533,36,0,18,2,16,497,112,379,6,Non-New York City
+Hamilton,Inlet Town PD,2017,12,4,0,0,0,0,0,4,1,3,0,Non-New York City
 St Lawrence,Ogdensburg City PD,2008,12,599,20,0,2,1,17,579,108,454,17,Non-New York City
 Chenango,Sherburne Vg PD,2012,12,13,0,0,0,0,0,13,4,9,0,Non-New York City
 Albany,Menands Vg PD,2007,12,185,9,1,1,4,3,176,36,128,12,Non-New York City
@@ -2765,7 +2748,7 @@ Richmond,County Total,1995,,13829,2749,26,58,1088,1577,11080,2335,5379,3366,New 
 Wayne,County Total,2002,,2020,135,2,15,21,97,1885,357,1481,47,Non-New York City
 Livingston,Livingston County Sheriff,2001,,763,23,0,3,4,16,740,128,600,12,Non-New York City
 Greene,Coxsackie Vg PD,2001,,134,39,0,1,5,33,95,39,52,4,Non-New York City
-Ulster,Saugerties Town PD,2017,12,238,25,0,3,3,19,213,31,171,11,Non-New York City
+Sullivan,County Total,2017,,1280,221,2,98,13,108,1059,261,763,35,Non-New York City
 Broome,Deposit Vg PD,2014,12,20,0,0,0,0,0,20,10,10,0,Non-New York City
 Suffolk,Asharoken Vg PD,2001,,2,0,0,0,0,0,2,1,1,0,Non-New York City
 Albany,Albany County Park PD,2011,12,2,0,0,0,0,0,2,2,0,0,Non-New York City
@@ -2806,13 +2789,13 @@ Ulster,Ellenville Vg PD,2000,,152,13,0,0,6,7,139,40,84,15,Non-New York City
 Onondaga,Onondaga County Park PD,2007,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
 Essex,Lake Placid Vg PD,2006,12,67,4,0,0,0,4,63,8,54,1,Non-New York City
 Herkimer,Little Falls City PD,2006,12,238,57,0,3,1,53,181,27,144,10,Non-New York City
-Montgomery,Canajoharie Vg PD,2017,12,18,0,0,0,0,0,18,0,17,1,Non-New York City
+Albany,County Total,2017,,8777,1161,8,116,313,724,7616,787,6607,222,Non-New York City
 Fulton,County Total,1997,,1771,170,0,9,14,147,1601,377,1146,78,Non-New York City
 Erie,Depew Vg PD,1993,,616,64,0,1,8,55,552,99,391,62,Non-New York City
 Westchester,Croton-On-Hudson Vg PD,2005,12,106,2,0,0,1,1,104,15,86,3,Non-New York City
 Suffolk,Ocean Beach Vg PD,2004,2,6,0,0,0,0,0,6,3,3,0,Non-New York City
 Putnam,Kent Town PD,1990,,290,32,0,1,0,31,258,87,154,17,Non-New York City
-Schenectady,Glenville Town PD,2017,12,481,15,0,2,2,11,466,41,418,7,Non-New York City
+Sullivan,Fallsburg Town PD,2014,12,119,11,0,0,1,10,108,55,51,2,Non-New York City
 Ulster,Lloyd Town PD,1993,,135,19,0,3,3,13,116,22,91,3,Non-New York City
 Oneida,Yorkville Vg PD,2013,3,10,1,0,0,1,0,9,4,4,1,Non-New York City
 Westchester,Yorktown Town PD,2005,12,576,14,0,3,3,8,562,54,502,6,Non-New York City
@@ -2833,7 +2816,7 @@ Rockland,Clarkstown Town PD,1999,,2420,143,3,2,38,100,2277,176,1963,138,Non-New 
 Genesee,County Total,1996,,1648,126,3,10,19,94,1522,263,1217,42,Non-New York City
 Chenango,Sherburne Vg PD,2000,,61,0,0,0,0,0,61,8,51,2,Non-New York City
 Greene,Coxsackie Vg PD,1997,,90,17,0,2,1,14,73,32,36,5,Non-New York City
-Schenectady,Schenectady City PD,2014,12,3044,548,5,30,156,357,2496,634,1745,117,Non-New York City
+Tioga,County Total,2017,,456,48,0,28,0,20,408,79,301,28,Non-New York City
 Orleans,Holley Vg PD,1993,,30,6,0,0,0,6,24,9,11,4,Non-New York City
 Livingston,Dansville Vg PD,2002,12,258,11,0,0,0,11,247,15,226,6,Non-New York City
 Suffolk,Suffolk County State Police,2004,12,44,15,0,2,1,12,29,6,20,3,Non-New York City
@@ -2858,7 +2841,7 @@ Schuyler,Schuyler County State Police,2008,12,29,5,0,2,0,3,24,6,16,2,Non-New Yor
 Orange,Orange County Park PD,2001,,11,0,0,0,0,0,11,2,9,0,Non-New York City
 Chautauqua,Silver Creek Vg PD,1999,,97,15,0,0,0,15,82,12,69,1,Non-New York City
 Dutchess,Beacon City PD,2006,12,365,83,0,2,37,44,282,72,180,30,Non-New York City
-Washington,County Total,2017,,503,77,2,37,3,35,426,72,338,16,Non-New York City
+Delaware,County Total,2017,,520,59,0,32,2,25,461,103,346,12,Non-New York City
 Tompkins,Cornell University Police,2010,12,230,4,0,1,0,3,226,10,215,1,Non-New York City
 Orleans,Albion Vg PD,2006,12,403,30,0,2,7,21,373,50,315,8,Non-New York City
 Onondaga,Solvay Vg PD,2012,12,233,20,0,1,3,16,213,38,166,9,Non-New York City
@@ -2868,7 +2851,7 @@ Allegany,Alfred Vg PD,2009,12,43,1,0,0,0,1,42,8,31,3,Non-New York City
 Nassau,Malverne Vg PD,2003,12,32,3,0,0,2,1,29,9,18,2,Non-New York City
 Chemung,Elmira Town PD,2004,12,32,0,0,0,0,0,32,4,28,0,Non-New York City
 Putnam,Putnam County Park PD,1994,,11,0,0,0,0,0,11,1,10,0,Non-New York City
-Sullivan,Monticello Vg PD,2017,12,217,35,1,2,8,24,182,40,136,6,Non-New York City
+Rensselaer,County Total,2017,,3513,447,6,69,127,245,3066,556,2376,134,Non-New York City
 Steuben,Hornell City PD,1991,,614,37,0,3,0,34,577,66,497,14,Non-New York City
 Steuben,Steuben County Sheriff,1995,,355,3,1,0,0,2,352,173,174,5,Non-New York City
 Region Total,Region Total,2006,,272345,31730,331,2094,10870,18435,240615,46350,178113,16152,Non-New York City
@@ -2906,7 +2889,6 @@ Rensselaer,Rensselaer City PD,2014,12,162,15,0,1,1,13,147,29,106,12,Non-New York
 Allegany,Bolivar Vg PD,1999,,10,0,0,0,0,0,10,1,9,0,Non-New York City
 Westchester,Westchester County MTA,2009,12,63,6,0,0,4,2,57,0,56,1,Non-New York City
 Wayne,Macedon Town and Vg PD,1999,,55,5,0,0,0,5,50,8,41,1,Non-New York City
-Onondaga,County Total,2017,,10893,1429,24,211,355,839,9464,1744,7146,574,Non-New York City
 Rensselaer,East Greenbush Town PD,1996,,401,24,0,1,7,16,377,53,309,15,Non-New York City
 Columbia,Hudson City PD,1999,,434,106,1,1,17,87,328,74,244,10,Non-New York City
 Steuben,County Total,1993,,3004,205,2,17,14,172,2799,651,2074,74,Non-New York City
@@ -3003,7 +2985,6 @@ Warren,Warren County Sheriff,2006,12,899,44,1,11,5,27,855,182,647,26,Non-New Yor
 Cayuga,Cayuga County Park PD,2014,12,6,0,0,0,0,0,6,0,6,0,Non-New York City
 Nassau,Nassau County PD,1996,,24272,1835,8,71,835,921,22437,3225,15337,3875,Non-New York City
 Montgomery,Montgomery County State Police,1991,,186,8,0,1,0,7,178,37,131,10,Non-New York City
-Westchester,Sleepy Hollow Vg PD,2017,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
 Rensselaer,County Total,1994,,5405,483,6,43,132,302,4922,1273,3379,270,Non-New York City
 Dutchess,Dutchess County State Police,1993,,1174,205,1,4,12,188,969,242,677,50,Non-New York City
 Tioga,County Total,1998,,751,33,0,4,2,27,718,158,525,35,Non-New York City
@@ -3014,7 +2995,6 @@ Schoharie,Schoharie County State Police,2003,12,174,17,0,7,0,10,157,55,94,8,Non-
 Schenectady,Scotia Vg PD,2011,12,147,8,0,0,1,7,139,15,121,3,Non-New York City
 Dutchess,Red Hook Vg PD,1993,,20,4,0,0,0,4,16,2,14,0,Non-New York City
 Erie,Gowanda Vg PD,2009,12,78,6,0,0,0,6,72,12,60,0,Non-New York City
-Delaware,Delaware County Sheriff,2017,12,174,24,0,12,1,11,150,42,101,7,Non-New York City
 Hamilton,Hamilton County Sheriff,2003,12,12,0,0,0,0,0,12,5,7,0,Non-New York City
 Allegany,Bolivar Vg PD,1990,,27,1,0,0,0,1,26,3,23,0,Non-New York City
 Tompkins,Dryden Vg PD,2005,12,65,2,0,0,0,2,63,5,57,1,Non-New York City
@@ -3032,7 +3012,7 @@ Oswego,Oswego County Sheriff,2012,12,682,47,0,8,6,33,635,173,435,27,Non-New York
 Schoharie,Schoharie County State Police,2005,12,179,25,0,7,1,17,154,29,123,2,Non-New York City
 Broome,SUNY - Binghamton,1996,,456,21,0,1,2,18,435,161,270,4,Non-New York City
 Chenango,Oxford Vg PD,1993,,60,0,0,0,0,0,60,12,47,1,Non-New York City
-Cattaraugus,Cattaraugus County Sheriff,2015,12,336,38,0,25,3,10,298,75,210,13,Non-New York City
+Monroe,Rochester City PD,2015,12,10107,1840,34,148,640,1018,8267,1753,5780,734,Non-New York City
 Westchester,Bedford Town PD,1993,,298,3,0,1,1,1,295,43,232,20,Non-New York City
 Suffolk,Suffolk County PD,2014,12,22454,1500,29,35,567,869,20954,2904,16919,1131,Non-New York City
 Oneida,Camden Vg PD,1997,,50,14,0,2,0,12,36,6,30,0,Non-New York City
@@ -3068,13 +3048,13 @@ Erie,Amherst Town PD,1990,,3697,256,1,8,57,190,3441,510,2641,290,Non-New York Ci
 Orange,Mount Hope Town PD,1992,,56,9,0,1,0,8,47,10,33,4,Non-New York City
 Wyoming,Wyoming County Sheriff,2011,12,232,12,0,1,0,11,220,54,161,5,Non-New York City
 Wayne,Clyde Vg PD,1994,,39,14,0,0,4,10,25,3,22,0,Non-New York City
-Washington,Washington County Sheriff,2016,12,211,27,0,20,0,7,184,34,145,5,Non-New York City
+Oswego,Pulaski Vg PD,2017,12,23,0,0,0,0,0,23,5,18,0,Non-New York City
 Franklin,Tupper Lake Vg PD,2007,12,147,10,0,0,0,10,137,33,93,11,Non-New York City
 Tioga,County Total,2003,,600,32,1,9,3,19,568,137,404,27,Non-New York City
 Greene,Coxsackie Vg PD,1998,,118,56,0,3,3,50,62,27,33,2,Non-New York City
 Tioga,Owego Vg PD,1991,,425,56,0,2,2,52,369,129,224,16,Non-New York City
 Oneida,New Hartford Town and Vg PD,2006,12,661,6,1,0,2,3,655,45,603,7,Non-New York City
-Ontario,Clifton Springs Vg PD,2017,12,3,0,0,0,0,0,3,0,2,1,Non-New York City
+Lewis,Lewis County Sheriff,2017,12,108,9,0,3,0,6,99,33,64,2,Non-New York City
 Oswego,Central Square Vg PD,1998,,15,0,0,0,0,0,15,2,13,0,Non-New York City
 Orange,Blooming Grove Town PD,1994,,154,3,0,2,1,0,151,34,110,7,Non-New York City
 Monroe,East Rochester Vg PD,1991,,244,10,0,1,3,6,234,25,184,25,Non-New York City
@@ -3140,7 +3120,7 @@ Suffolk,Suffolk County Park Police,2014,6,4,1,0,0,0,1,3,0,3,0,Non-New York City
 Orange,Port Jervis City PD,2010,12,338,29,0,5,7,17,309,57,247,5,Non-New York City
 Columbia,Columbia County (RR-RC),1990,,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Nassau,Old Westbury Vg PD,2000,,64,9,0,0,1,8,55,10,38,7,Non-New York City
-Dutchess,Poughkeepsie City PD,2014,12,967,261,3,13,95,150,706,179,501,26,Non-New York City
+Warren,Warren County Sheriff,2016,12,670,45,0,17,5,23,625,77,542,6,Non-New York City
 Erie,SUNY College At Buffalo,1997,,236,9,0,2,0,7,227,52,157,18,Non-New York City
 Albany,Watervliet City PD,1990,,405,23,1,3,10,9,382,94,266,22,Non-New York City
 Steuben,Caton Town PD,2004,0,,,,,,,,,,,Non-New York City
@@ -3154,7 +3134,6 @@ Ulster,Marlborough Town PD,2008,12,118,15,0,1,0,14,103,22,78,3,Non-New York City
 Rockland,Rockland County State Police,1996,,53,8,0,1,0,7,45,4,19,22,Non-New York City
 Montgomery,Canajoharie Vg PD,2011,1,1,0,0,0,0,0,1,1,0,0,Non-New York City
 Putnam,Brewster Vg PD,2010,12,7,0,0,0,0,0,7,1,5,1,Non-New York City
-Steuben,Painted Post Vg PD,2017,12,24,1,0,0,0,1,23,4,18,1,Non-New York City
 Schenectady,Schenectady County State Police,1991,,71,4,0,0,0,4,67,23,44,0,Non-New York City
 Ulster,Olive Town PD,1997,,19,1,0,0,0,1,18,1,17,0,Non-New York City
 Washington,County Total,2002,,1123,213,1,19,1,192,910,200,685,25,Non-New York City
@@ -3172,6 +3151,7 @@ Chemung,Elmira Heights Vg PD,1997,,137,14,0,1,3,10,123,23,99,1,Non-New York City
 Herkimer,Herkimer County Sheriff,2006,12,8,0,0,0,0,0,8,0,8,0,Non-New York City
 Erie,Hamburg Vg PD,1998,,268,4,0,2,1,1,264,37,211,16,Non-New York City
 Nassau,Nassau County Park PD,2004,12,114,8,0,1,0,7,106,7,96,3,Non-New York City
+Greene,County Total,2017,,632,137,1,38,4,94,495,99,380,16,Non-New York City
 Oneida,SUNY College at Utica/Rome,2005,12,28,0,0,0,0,0,28,2,26,0,Non-New York City
 Oneida,New Hartford Town and Vg PD,1992,,1060,53,0,0,12,41,1007,92,896,19,Non-New York City
 Orange,Goshen Town PD,2005,12,87,7,0,1,1,5,80,12,64,4,Non-New York City
@@ -3180,7 +3160,6 @@ Franklin,Saranac Lake Vg PD,2006,12,121,11,0,0,1,10,110,26,83,1,Non-New York Cit
 Chenango,Sherburne Vg PD,2001,,64,1,0,0,0,1,63,11,51,1,Non-New York City
 Madison,County Total,2009,,1320,59,0,10,11,38,1261,251,987,23,Non-New York City
 Seneca,Seneca County Sheriff,1995,,276,24,1,1,1,21,252,73,170,9,Non-New York City
-Rockland,Rockland County Park PD,2016,12,15,2,0,0,0,2,13,0,13,0,Non-New York City
 Steuben,Hammondsport Vg PD,2011,12,13,0,0,0,0,0,13,1,12,0,Non-New York City
 Oswego,Fulton City PD,1996,,671,30,0,6,11,13,641,117,505,19,Non-New York City
 Chenango,New Berlin Vg PD,1993,,1,0,0,0,0,0,1,0,1,0,Non-New York City
@@ -3196,7 +3175,7 @@ Albany,Menands Vg PD,1993,,159,16,0,1,1,14,143,30,108,5,Non-New York City
 Tompkins,Freeville Vg PD,1991,,9,0,0,0,0,0,9,0,9,0,Non-New York City
 Allegany,SUNY College At Alfred,1991,,183,5,0,1,2,2,178,62,114,2,Non-New York City
 Washington,Granville Vg PD,1991,,115,13,0,1,0,12,102,21,79,2,Non-New York City
-Tompkins,County Total,2016,,1954,158,2,61,21,74,1796,253,1506,37,Non-New York City
+Ulster,Ulster County Sheriff,2017,12,221,34,1,4,3,26,187,35,139,13,Non-New York City
 Herkimer,Ilion Vg PD,2003,12,174,33,0,1,1,31,141,28,105,8,Non-New York City
 Columbia,Copake Town PD,2011,10,9,1,0,0,0,1,8,6,2,0,Non-New York City
 Putnam,Carmel Town PD,2010,12,284,12,0,0,2,10,272,48,218,6,Non-New York City
@@ -3221,6 +3200,7 @@ Chautauqua,Fredonia Vg PD,2009,12,381,11,0,0,2,9,370,28,338,4,Non-New York City
 Schuyler,Watkins Glen Vg PD,2003,12,122,6,0,1,0,5,116,6,109,1,Non-New York City
 Chenango,Greene Vg PD,2003,12,9,0,0,0,0,0,9,3,5,1,Non-New York City
 Suffolk,Suffolk County Sheriff,2011,12,98,85,0,0,0,85,13,1,5,7,Non-New York City
+Sullivan,County Total,2014,,1646,157,3,14,27,113,1489,471,978,40,Non-New York City
 Orange,Newburgh City PD,2005,12,1509,432,3,12,174,243,1077,294,707,76,Non-New York City
 Franklin,County Total,1991,,1147,197,1,6,8,182,950,302,626,22,Non-New York City
 Niagara,Niagara Falls City PD,2009,12,3422,609,6,29,167,407,2813,807,1877,129,Non-New York City
@@ -3232,11 +3212,11 @@ Rensselaer,Schodack Town PD,2005,12,126,5,0,0,1,4,121,35,79,7,Non-New York City
 Suffolk,Huntington Bay Vg PD,2009,12,5,0,0,0,0,0,5,2,2,1,Non-New York City
 Onondaga,Marcellus Vg PD,2003,12,22,6,0,0,0,6,16,3,13,0,Non-New York City
 Jefferson,Jefferson County State Police,2007,12,664,131,0,33,0,98,533,121,398,14,Non-New York City
-Rockland,Spring Valley Vg PD,2017,12,524,133,0,28,31,74,391,36,340,15,Non-New York City
+Chautauqua,Jamestown City PD,2017,12,1076,196,1,26,31,138,880,227,610,43,Non-New York City
 Albany,SUNY - Albany,1990,,476,16,0,1,8,7,460,136,321,3,Non-New York City
 Chenango,Chenango County Sheriff,1991,,356,44,0,1,0,43,312,113,187,12,Non-New York City
 Monroe,Gates Town PD,1992,,1256,55,1,5,33,16,1201,246,838,117,Non-New York City
-Delaware,SUNY College At Delhi,2001,,,,,,,,,,,,Non-New York City
+Suffolk,County Total,2017,,20543,1693,22,160,508,1003,18850,1626,16136,1088,Non-New York City
 Niagara,Niagara County State Police,1993,,366,25,0,2,3,20,341,73,238,30,Non-New York City
 Dutchess,Hyde Park Town PD,1992,,346,49,0,0,5,44,297,78,204,15,Non-New York City
 Jefferson,Dexter Vg PD,1995,,10,0,0,0,0,0,10,5,5,0,Non-New York City
@@ -3244,7 +3224,6 @@ Westchester,Mount Vernon City PD,2007,12,2445,600,7,10,266,317,1845,462,1200,183
 Onondaga,Liverpool Vg PD,1999,,64,2,0,0,2,0,62,8,50,4,Non-New York City
 Wayne,Palmyra Vg PD,1996,,181,25,0,0,1,24,156,9,143,4,Non-New York City
 Schuyler,Schuyler County Park PD,2005,12,13,0,0,0,0,0,13,1,12,0,Non-New York City
-Jefferson,Dexter Vg PD,2017,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Erie,Erie County Park PD,2007,12,11,0,0,0,0,0,11,1,10,0,Non-New York City
 Livingston,Livingston County Park PD,2010,12,11,0,0,0,0,0,11,1,10,0,Non-New York City
 Cortland,Cortland City PD,2003,12,626,63,0,15,16,32,563,104,438,21,Non-New York City
@@ -3270,6 +3249,7 @@ Herkimer,Dolgeville Vg PD,2010,12,62,3,0,0,0,3,59,6,52,1,Non-New York City
 New York,County Total,2008,,54731,9176,62,212,4460,4442,45555,3845,40380,1330,New York City
 Saratoga,Saratoga Springs City PD,2008,12,625,23,0,1,6,16,602,78,503,21,Non-New York City
 Tompkins,Freeville Vg PD,2004,12,14,0,0,0,0,0,14,5,9,0,Non-New York City
+Greene,Catskill Vg PD,2017,12,144,18,0,5,1,12,126,12,113,1,Non-New York City
 Sullivan,County Total,1992,,2872,334,4,24,55,251,2538,947,1518,73,Non-New York City
 Onondaga,County Total,2009,,13397,1675,20,99,499,1057,11722,3020,8214,488,Non-New York City
 Warren,Warren County State Police,2014,12,263,5,0,1,0,4,258,28,225,5,Non-New York City
@@ -3296,7 +3276,7 @@ Cattaraugus,Cattaraugus County Park PD,1993,,28,2,0,0,1,1,26,2,24,0,Non-New York
 Rockland,Spring Valley Vg PD,1997,,1450,279,0,10,118,151,1171,178,899,94,Non-New York City
 Chautauqua,Lakewood-Busti PD,1995,,172,13,0,0,0,13,159,16,136,7,Non-New York City
 Genesee,Genesee County State Police,1999,,159,12,0,1,1,10,147,26,105,16,Non-New York City
-Warren,County Total,2013,,1297,53,1,10,7,35,1244,158,1073,13,Non-New York City
+Dutchess,Dutchess County Sheriff,2016,12,533,36,0,18,2,16,497,112,379,6,Non-New York City
 Albany,Ravena Vg PD,2001,,47,5,0,0,0,5,42,1,38,3,Non-New York City
 Orange,Monroe Vg PD,2009,12,255,24,0,0,2,22,231,22,203,6,Non-New York City
 Sullivan,Woodridge Vg PD,2014,9,18,3,0,0,0,3,15,9,5,1,Non-New York City
@@ -3337,7 +3317,7 @@ Greene,Athens Vg PD,2007,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Ulster,Marlborough Town PD,2004,12,147,16,0,0,0,16,131,25,100,6,Non-New York City
 Orange,Crawford Town PD,1997,,139,50,0,1,0,49,89,11,76,2,Non-New York City
 Tioga,Owego Vg PD,1993,,394,59,0,7,2,50,335,81,237,17,Non-New York City
-Albany,Albany City PD,2017,12,4280,877,8,53,247,569,3403,433,2861,109,Non-New York City
+Ulster,Saugerties Town PD,2017,12,238,25,0,3,3,19,213,31,171,11,Non-New York City
 Otsego,Otsego County State Police,2013,12,369,21,0,8,1,12,348,67,277,4,Non-New York City
 Suffolk,SUNY - Stony Brook,2005,12,559,11,0,0,2,9,548,54,487,7,Non-New York City
 Ulster,Woodstock Town PD,1994,,97,21,0,1,0,20,76,27,41,8,Non-New York City
@@ -3387,7 +3367,7 @@ Albany,Albany County Sheriff,2014,12,125,9,1,0,0,8,116,19,90,7,Non-New York City
 Madison,Cazenovia Vg PD,1996,,85,0,0,0,0,0,85,4,81,0,Non-New York City
 Chenango,Chenango County Sheriff,2005,12,443,50,0,6,0,44,393,88,296,9,Non-New York City
 Allegany,Bolivar Vg PD,2013,12,5,1,0,0,0,1,4,2,2,0,Non-New York City
-Seneca,County Total,2017,,568,73,0,22,5,46,495,70,422,3,Non-New York City
+Montgomery,Canajoharie Vg PD,2017,12,18,0,0,0,0,0,18,0,17,1,Non-New York City
 Westchester,Yonkers City PD,1999,,6033,915,4,33,500,378,5118,939,2905,1274,Non-New York City
 Clinton,Clinton County Park PD,1993,,13,0,0,0,0,0,13,2,11,0,Non-New York City
 Oneida,Oriskany Vg PD,1993,,16,0,0,0,0,0,16,0,16,0,Non-New York City
@@ -3399,10 +3379,10 @@ Allegany,Bolivar Vg PD,2010,12,7,0,0,0,0,0,7,1,6,0,Non-New York City
 Orange,Port Jervis City PD,1995,,414,69,1,3,2,63,345,58,270,17,Non-New York City
 Westchester,Mamaroneck Town PD,1992,,324,3,0,0,3,0,321,88,172,61,Non-New York City
 Cayuga,Moravia Vg PD,2000,,6,2,0,0,0,2,4,0,4,0,Non-New York City
-Dutchess,Wappingers Falls Vg PD,2017,12,71,2,0,0,2,0,69,4,62,3,Non-New York City
+Schenectady,Glenville Town PD,2017,12,481,15,0,2,2,11,466,41,418,7,Non-New York City
 Rensselaer,Rensselaer County Park PD,2013,12,5,0,0,0,0,0,5,0,5,0,Non-New York City
 Rockland,Rockland County Sheriff,1999,,66,14,0,2,1,11,52,1,51,0,Non-New York City
-Steuben,Steuben County Sheriff,2016,12,135,14,0,7,0,7,121,29,88,4,Non-New York City
+Schenectady,Schenectady City PD,2014,12,3044,548,5,30,156,357,2496,634,1745,117,Non-New York City
 Herkimer,Herkimer County State Police,1996,,376,29,0,3,3,23,347,159,177,11,Non-New York City
 Madison,Madison County Park PD,2014,12,2,1,0,0,0,1,1,0,1,0,Non-New York City
 Albany,Albany County Sheriff,2001,,143,45,0,0,2,43,98,25,65,8,Non-New York City
@@ -3423,7 +3403,6 @@ Rockland,Haverstraw Vg PD,1995,,252,62,1,2,10,49,190,68,108,14,Non-New York City
 Chenango,Chenango County (RR-D and H),1993,,1,0,0,0,0,0,1,1,0,0,Non-New York City
 Westchester,Rye Brook Vg PD,2003,12,101,2,1,0,0,1,99,9,86,4,Non-New York City
 Onondaga,Marcellus Vg PD,1991,,22,0,0,0,0,0,22,6,16,0,Non-New York City
-Rockland,Clarkstown Town PD,2017,12,1217,92,0,20,25,47,1125,59,1046,20,Non-New York City
 Erie,SUNY College at Buffalo,2004,1,211,6,0,3,0,3,205,32,167,6,Non-New York City
 Ontario,Canandaigua City PD,1992,,353,9,0,2,3,4,344,43,290,11,Non-New York City
 Ontario,Ontario County Sheriff,1994,,972,30,1,5,6,18,942,222,686,34,Non-New York City
@@ -3434,7 +3413,7 @@ Rensselaer,Rensselaer County Park PD,2004,11,1,0,0,0,0,0,1,1,0,0,Non-New York Ci
 Monroe,Monroe County State Police,1999,,61,11,0,2,0,9,50,4,41,5,Non-New York City
 Suffolk,Lloyd Harbor Vg PD,1998,,28,1,0,0,0,1,27,2,25,0,Non-New York City
 Cattaraugus,Cattaraugus County Sheriff,1999,,346,24,1,2,0,21,322,95,210,17,Non-New York City
-Columbia,Hudson City PD,2017,12,255,52,1,7,9,35,203,32,161,10,Non-New York City
+Washington,County Total,2017,,503,77,2,37,3,35,426,72,338,16,Non-New York City
 Monroe,Rochester City PD,2011,12,13988,2036,31,97,759,1149,11952,3392,7857,703,Non-New York City
 Onondaga,East Syracuse Vg PD,2010,12,174,9,0,0,4,5,165,25,132,8,Non-New York City
 Fulton,Gloversville City PD,2007,12,735,60,0,4,4,52,675,139,509,27,Non-New York City
@@ -3465,6 +3444,7 @@ Cortland,Cortland City PD,1996,,1072,74,1,13,12,48,998,138,812,48,Non-New York C
 Schenectady,Schenectady County (RR-D and H),1991,,3,0,0,0,0,0,3,0,3,0,Non-New York City
 Chautauqua,Lakewood-Busti PD,1997,,133,9,0,0,0,9,124,24,99,1,Non-New York City
 Erie,Erie County Sheriff,1994,,1932,268,2,9,12,245,1664,209,1352,103,Non-New York City
+Sullivan,Monticello Vg PD,2017,12,217,35,1,2,8,24,182,40,136,6,Non-New York City
 Greene,Catskill Vg PD,2009,12,189,18,0,2,1,15,171,13,157,1,Non-New York City
 Rockland,Piermont Vg PD,1990,,58,1,0,0,0,1,57,14,39,4,Non-New York City
 Dutchess,Hyde Park Town PD,1995,,414,92,0,1,7,84,322,82,222,18,Non-New York City
@@ -3523,7 +3503,7 @@ Clinton,Clinton County Park PD,2003,12,5,1,0,0,0,1,4,0,4,0,Non-New York City
 Westchester,Eastchester Town PD,1993,,411,16,1,1,4,10,395,46,281,68,Non-New York City
 Essex,County Total,1994,,740,91,4,9,4,74,649,242,389,18,Non-New York City
 Ulster,Ulster County Sheriff,2003,12,199,38,1,4,0,33,161,41,115,5,Non-New York City
-Oneida,Utica City PD,2017,12,2330,343,3,45,80,215,1987,375,1545,67,Non-New York City
+Onondaga,County Total,2017,,10893,1429,24,211,355,839,9464,1744,7146,574,Non-New York City
 Erie,Brant Town PD,1993,,13,3,0,0,0,3,10,2,6,2,Non-New York City
 Orange,Crawford Town PD,1994,,118,24,1,1,2,20,94,22,66,6,Non-New York City
 Madison,Madison County (RR-RC),1994,,3,0,0,0,0,0,3,2,1,0,Non-New York City
@@ -3562,7 +3542,7 @@ Orange,Washingtonville Vg PD,2009,12,116,6,0,0,4,2,110,2,106,2,Non-New York City
 Orange,Maybrook Vg PD,2013,12,17,2,0,0,1,1,15,3,10,2,Non-New York City
 Onondaga,Onondaga County Sheriff,1996,,2896,150,1,35,52,62,2746,592,2048,106,Non-New York City
 Westchester,Elmsford Vg PD,1992,,230,15,0,1,6,8,215,39,147,29,Non-New York City
-Sullivan,Liberty Vg PD,2017,12,165,27,1,6,1,19,138,22,115,1,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2017,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
 Otsego,Cooperstown Vg PD,1997,,62,7,0,0,1,6,55,7,48,0,Non-New York City
 Essex,Essex County State Police,2010,12,361,22,0,5,0,17,339,122,209,8,Non-New York City
 Suffolk,Suffolk County Park Police,1998,,52,1,0,0,0,1,51,5,44,2,Non-New York City
@@ -3606,7 +3586,6 @@ Erie,Depew Vg PD,1991,,774,67,0,1,8,58,707,95,570,42,Non-New York City
 Jefferson,Carthage Vg PD,2007,12,119,6,0,2,0,4,113,22,86,5,Non-New York City
 Saratoga,County Total,2007,,3033,205,0,27,22,156,2828,510,2232,86,Non-New York City
 Sullivan,Liberty Vg PD,2000,,265,17,2,1,4,10,248,43,201,4,Non-New York City
-Westchester,Mount Pleasant Town PD,2017,8,134,12,0,1,4,7,122,7,111,4,Non-New York City
 Chenango,Norwich City PD,1993,,283,33,0,1,0,32,250,28,218,4,Non-New York City
 Putnam,County Total,2011,,860,66,1,3,8,54,794,178,598,18,Non-New York City
 Albany,Menands Vg PD,1998,,141,8,0,0,1,7,133,24,101,8,Non-New York City
@@ -3653,7 +3632,6 @@ Tioga,Owego Vg PD,2011,12,86,8,0,0,2,6,78,22,54,2,Non-New York City
 Onondaga,Onondaga County State Police,1998,,873,87,2,4,12,69,786,209,558,19,Non-New York City
 Onondaga,Jordan Vg PD,2007,12,11,0,0,0,0,0,11,4,7,0,Non-New York City
 Westchester,Sleepy Hollow Vg PD,2009,12,89,1,0,0,0,1,88,19,67,2,Non-New York City
-Dutchess,Beacon City PD,2017,12,283,43,0,5,5,33,240,50,184,6,Non-New York City
 Herkimer,Herkimer County (RR-CSX),2006,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
 Ulster,Ulster Town PD,2003,12,239,13,1,1,5,6,226,25,179,22,Non-New York City
 Westchester,SUNY College At Purchase,2002,12,123,1,0,0,0,1,122,11,111,0,Non-New York City
@@ -3669,7 +3647,6 @@ Onondaga,North Syracuse Vg PD,1994,,175,8,0,1,4,3,167,27,138,2,Non-New York City
 Orange,Orange County MTA,2000,,3,0,0,0,0,0,3,0,1,2,Non-New York City
 Rensselaer,Rensselaer County Park PD,2009,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
 Tompkins,Groton Vg PD,2006,12,55,0,0,0,0,0,55,5,49,1,Non-New York City
-Niagara,Niagara County Sheriff,2017,12,759,60,0,12,7,41,699,128,528,43,Non-New York City
 Livingston,Nunda Town and Vg PD,2006,12,84,3,0,3,0,0,81,5,76,0,Non-New York City
 Delaware,Delhi Vg PD,2010,12,45,3,0,0,1,2,42,11,29,2,Non-New York City
 Nassau,Lynbrook Vg PD,2011,12,187,22,1,0,10,11,165,19,132,14,Non-New York City
@@ -3685,7 +3662,6 @@ Montgomery,Fort Plain Vg PD,1998,,81,34,0,2,1,31,47,12,27,8,Non-New York City
 Albany,Albany County State Police,1995,,345,23,0,1,4,18,322,85,227,10,Non-New York City
 Tompkins,Tompkins County Sheriff,1996,,659,20,0,5,11,4,639,190,426,23,Non-New York City
 Jefferson,Clayton Vg PD,2013,12,19,0,0,0,0,0,19,3,16,0,Non-New York City
-Genesee,Genesee County Park PD,2002,12,,,,,,,,,,,Non-New York City
 Cayuga,Cayuga County Sheriff,2004,12,312,24,0,1,1,22,288,89,189,10,Non-New York City
 Ulster,Ulster County Park PD,1993,,2,0,0,0,0,0,2,1,1,0,Non-New York City
 Cortland,Cortland County Sheriff,1994,,378,36,1,3,3,29,342,79,250,13,Non-New York City
@@ -3723,13 +3699,11 @@ Erie,Erie County (RR-D and H),1994,,32,0,0,0,0,0,32,31,1,0,Non-New York City
 Warren,Bolton Town PD,1995,,17,0,0,0,0,0,17,1,16,0,Non-New York City
 Essex,Lake Placid Vg PD,2011,12,57,4,0,3,0,1,53,10,43,0,Non-New York City
 Oneida,Kirkland Town PD,1998,,94,0,0,0,0,0,94,10,82,2,Non-New York City
-Westchester,Buchanan Vg PD,2011,0,1,0,0,0,0,0,1,1,0,0,Non-New York City
 Ulster,Ulster County State Police,2008,12,586,185,4,26,2,153,401,148,229,24,Non-New York City
 Niagara,Middleport Vg PD,1998,,40,0,0,0,0,0,40,11,29,0,Non-New York City
 Jefferson,Clayton Vg PD,2010,12,21,2,0,0,0,2,19,4,15,0,Non-New York City
 Chautauqua,Chautauqua County State Police,2002,12,196,23,0,3,0,20,173,41,128,4,Non-New York City
 Clinton,Clinton County (RR-D and H),1993,,7,0,0,0,0,0,7,2,5,0,Non-New York City
-Albany,Cohoes City PD,2017,12,242,42,0,7,12,23,200,37,147,16,Non-New York City
 Fulton,County Total,2007,,1615,132,1,21,6,104,1483,324,1109,50,Non-New York City
 Ulster,Ulster Town PD,2007,12,248,9,0,1,3,5,239,28,200,11,Non-New York City
 Oneida,New York Mills Vg PD,2009,12,42,1,0,0,0,1,41,10,31,0,Non-New York City
@@ -3921,7 +3895,6 @@ Herkimer,Frankfort Town PD,2000,,24,2,0,0,0,2,22,11,10,1,Non-New York City
 Albany,Bethlehem Town PD,1994,,708,30,0,3,6,21,678,143,527,8,Non-New York City
 Rockland,Rockland County (RR-MN),1991,,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Oneida,Oriskany Vg PD,2007,12,15,1,0,0,0,1,14,2,12,0,Non-New York City
-Wayne,Macedon Town and Vg PD,2017,12,131,9,0,5,1,3,122,22,95,5,Non-New York City
 Franklin,Tupper Lake Vg PD,1994,,113,16,0,0,0,16,97,24,71,2,Non-New York City
 Delaware,Colchester Town PD,2006,12,4,1,0,0,0,1,3,3,0,0,Non-New York City
 Dutchess,Poughkeepsie Town PD,1996,,2135,190,2,7,35,146,1945,245,1627,73,Non-New York City
@@ -3939,7 +3912,6 @@ Steuben,Steuben County Park PD,1997,,15,0,0,0,0,0,15,0,14,1,Non-New York City
 Rensselaer,North Greenbush Town PD,2003,12,177,17,0,3,2,12,160,18,137,5,Non-New York City
 Albany,Altamont Vg PD,1996,,15,3,0,0,1,2,12,4,7,1,Non-New York City
 Suffolk,Northport Vg PD,2004,10,48,0,0,0,0,0,48,11,35,2,Non-New York City
-Seneca,Seneca Falls Town PD,2017,12,253,13,0,8,1,4,240,22,216,2,Non-New York City
 Onondaga,Onondaga County Park Rangers,2008,12,37,1,0,0,0,1,36,9,26,1,Non-New York City
 Erie,Hamburg Vg PD,1990,,286,28,0,0,3,25,258,44,204,10,Non-New York City
 Greene,Athens Vg PD,2004,12,8,0,0,0,0,0,8,2,6,0,Non-New York City
@@ -3947,19 +3919,21 @@ Orange,Montgomery Vg PD,2000,,32,2,0,0,0,2,30,3,27,0,Non-New York City
 Herkimer,Mohawk Vg PD,1990,,81,16,0,2,2,12,65,24,35,6,Non-New York City
 Steuben,Painted Post Vg PD,2000,,21,2,0,0,0,2,19,2,17,0,Non-New York City
 Broome,Broome County (RR-D and H),1992,,32,0,0,0,0,0,32,5,27,0,Non-New York City
-Dutchess,County Total,2016,,4116,566,4,111,114,337,3550,481,2991,78,Non-New York City
+Delaware,Delaware County Sheriff,2017,12,174,24,0,12,1,11,150,42,101,7,Non-New York City
 Livingston,Caledonia Vg PD,2003,12,40,7,0,0,0,7,33,10,21,2,Non-New York City
 Madison,Madison County Park PD,2006,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
 Schoharie,SUNY College at Cobleskill,2003,12,122,4,0,3,0,1,118,18,100,0,Non-New York City
 Rockland,Stony Point Town PD,1996,,122,6,0,0,1,5,116,18,96,2,Non-New York City
-Suffolk,East Hampton Town PD,2017,12,245,17,0,3,3,11,228,34,185,9,Non-New York City
 Allegany,Bolivar Vg PD,2012,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Cattaraugus,Cattaraugus County Sheriff,2015,12,336,38,0,25,3,10,298,75,210,13,Non-New York City
+Washington,Washington County Sheriff,2016,12,211,27,0,20,0,7,184,34,145,5,Non-New York City
+Ontario,Clifton Springs Vg PD,2017,12,3,0,0,0,0,0,3,0,2,1,Non-New York City
 Orange,Mount Hope Town PD,2005,12,40,3,0,0,1,2,37,13,21,3,Non-New York City
 Allegany,Friendship Town PD,1999,,29,6,0,0,0,6,23,9,10,4,Non-New York City
 Seneca,Seneca Falls Vg PD,1993,,62,4,1,0,1,2,58,3,53,2,Non-New York City
-Washington,County Total,2015,,613,91,1,28,1,61,522,95,413,14,Non-New York City
+Dutchess,Poughkeepsie City PD,2014,12,967,261,3,13,95,150,706,179,501,26,Non-New York City
 Schuyler,Schuyler County Park PD,2010,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
-Seneca,County Total,2016,,643,67,0,27,1,39,576,95,469,12,Non-New York City
+Steuben,Painted Post Vg PD,2017,12,24,1,0,0,0,1,23,4,18,1,Non-New York City
 Columbia,Copake Town PD,2005,11,10,2,0,0,0,2,8,1,7,0,Non-New York City
 Rockland,Rockland County Sheriff,1990,,114,26,0,0,1,25,88,0,86,2,Non-New York City
 Schoharie,County Total,1993,,587,49,0,6,6,37,538,190,333,15,Non-New York City
@@ -4006,7 +3980,7 @@ Orange,Blooming Grove Town PD,2014,12,97,8,0,0,2,6,89,21,59,9,Non-New York City
 Nassau,Old Brookville Vg PD,2014,12,53,3,0,1,0,2,50,4,44,2,Non-New York City
 Steuben,Addison Vg PD,1994,,61,16,0,0,1,15,45,8,35,2,Non-New York City
 Oswego,Fulton City PD,2003,12,532,26,1,1,2,22,506,64,430,12,Non-New York City
-Steuben,Steuben County Sheriff,2015,12,133,21,1,8,1,11,112,27,81,4,Non-New York City
+Rockland,Rockland County Park PD,2016,12,15,2,0,0,0,2,13,0,13,0,Non-New York City
 Chautauqua,Westfield Vg PD,2007,12,48,2,0,0,0,2,46,16,29,1,Non-New York City
 Saratoga,Ballston Spa Vg PD,2004,12,147,6,0,2,2,2,141,26,110,5,Non-New York City
 Niagara,Niagara County State Police,2000,,205,14,0,4,3,7,191,26,152,13,Non-New York City
@@ -4061,7 +4035,7 @@ Orange,Harriman Vg PD,2009,12,16,0,0,0,0,0,16,5,11,0,Non-New York City
 Oneida,New Hartford Town and Vg PD,1996,,1086,9,0,1,5,3,1077,68,985,24,Non-New York City
 Niagara,Middleport Vg PD,1994,,45,5,0,0,0,5,40,4,35,1,Non-New York City
 Chemung,Chemung County Sheriff,2013,12,594,29,0,3,5,21,565,58,500,7,Non-New York City
-Wyoming,County Total,2017,,346,71,0,25,5,41,275,58,203,14,Non-New York City
+Tompkins,County Total,2016,,1954,158,2,61,21,74,1796,253,1506,37,Non-New York City
 Ulster,Marlborough Town PD,2007,12,145,23,0,0,1,22,122,28,85,9,Non-New York City
 Montgomery,St Johnsville Vg PD,1995,,53,0,0,0,0,0,53,5,42,6,Non-New York City
 Onondaga,Onondaga County Park Rangers,2001,,29,0,0,0,0,0,29,4,25,0,Non-New York City
@@ -4113,9 +4087,8 @@ Cortland,Cortland City PD,2013,12,416,18,0,3,3,12,398,88,306,4,Non-New York City
 Wayne,Lyons Vg PD,2006,12,296,28,0,2,7,19,268,47,203,18,Non-New York City
 Chautauqua,Chautauqua County Sheriff,1991,,983,46,1,9,4,32,937,278,636,23,Non-New York City
 Clinton,SUNY College At Plattsburgh,1994,,102,1,0,0,0,1,101,8,93,0,Non-New York City
-Steuben,Cohocton Town PD,2017,12,6,1,0,0,0,1,5,0,5,0,Non-New York City
 Westchester,Westchester County State Police,2007,12,654,110,1,5,13,91,544,67,467,10,Non-New York City
-Saratoga,County Total,2017,,2795,279,2,82,36,159,2516,346,2102,68,Non-New York City
+Rockland,Spring Valley Vg PD,2017,12,524,133,0,28,31,74,391,36,340,15,Non-New York City
 Delaware,Delhi Vg PD,2005,12,12,2,0,0,0,2,10,4,6,0,Non-New York City
 Westchester,Ossining Town PD,1993,,77,8,0,1,1,6,69,14,46,9,Non-New York City
 Jefferson,West Carthage Vg PD,2010,12,20,2,0,0,0,2,18,3,15,0,Non-New York City
@@ -4138,7 +4111,7 @@ Niagara,Niagara County (RR-RC),1990,,6,0,0,0,0,0,6,0,6,0,Non-New York City
 Clinton,Rouses Point Vg PD,2008,12,15,0,0,0,0,0,15,7,8,0,Non-New York City
 Washington,Washington County (RR-D and H),1990,,5,0,0,0,0,0,5,0,5,0,Non-New York City
 Tompkins,Freeville Vg PD,1997,,6,0,0,0,0,0,6,1,5,0,Non-New York City
-Dutchess,County Total,2017,,3834,568,5,106,109,348,3266,405,2781,80,Non-New York City
+Delaware,SUNY College At Delhi,2001,,,,,,,,,,,,Non-New York City
 Washington,Hudson Falls Vg PD,2008,12,57,11,0,2,3,6,46,11,33,2,Non-New York City
 Chenango,Oxford Vg PD,1997,,65,2,0,0,0,2,63,17,46,0,Non-New York City
 Westchester,Mount Vernon City PD,1993,,4462,951,5,31,436,479,3511,961,1628,922,Non-New York City
@@ -4150,13 +4123,12 @@ Schenectady,Schenectady County State Police,2003,12,69,12,0,3,0,9,57,14,40,3,Non
 Monroe,Gates Town PD,2011,12,1213,46,2,5,11,28,1167,99,1025,43,Non-New York City
 Rensselaer,East Greenbush Town PD,2011,12,424,27,0,2,7,18,397,45,346,6,Non-New York City
 Niagara,Niagara County Park PD,2014,12,38,4,0,0,3,1,34,3,31,0,Non-New York City
+Jefferson,Dexter Vg PD,2017,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Westchester,Ossining Town PD,1992,,103,2,0,0,0,2,101,12,79,10,Non-New York City
 Albany,County Total,1997,,14542,1450,10,128,503,809,13092,2789,9674,629,Non-New York City
-Oneida,New Hartford Town and Vg PD,2012,12,917,19,0,1,5,13,898,56,828,14,Non-New York City
 Seneca,Seneca Falls Town PD,2014,12,328,13,0,0,1,12,315,39,271,5,Non-New York City
 Suffolk,Riverhead Town PD,1997,,1679,150,2,1,28,119,1529,363,1127,39,Non-New York City
 Erie,Hamburg Town PD,2013,12,1205,38,1,1,12,24,1167,134,1012,21,Non-New York City
-Chenango,Chenango County Sheriff,2017,10,239,15,2,4,2,7,224,44,176,4,Non-New York City
 Wyoming,Wyoming County State Police,1996,,104,51,0,1,0,50,53,27,26,0,Non-New York City
 Genesee,Genesee County State Police,1994,,148,25,0,4,1,20,123,25,91,7,Non-New York City
 Delaware,Hancock Vg PD,2005,12,12,4,0,0,0,4,8,0,7,1,Non-New York City
@@ -4201,7 +4173,7 @@ Orleans,Orleans County Sheriff,1995,,185,6,1,3,0,2,179,37,139,3,Non-New York Cit
 Westchester,Briarcliff Manor Vg PD,2010,12,19,1,0,0,1,0,18,3,15,0,Non-New York City
 Ulster,Ulster County Sheriff,1991,,318,35,0,3,4,28,283,85,172,26,Non-New York City
 Chautauqua,Ellicott Town PD,2012,12,289,12,0,1,5,6,277,18,256,3,Non-New York City
-Schenectady,County Total,2015,,4623,668,10,78,176,404,3955,623,3167,165,Non-New York City
+Warren,County Total,2013,,1297,53,1,10,7,35,1244,158,1073,13,Non-New York City
 Delaware,Sidney Vg PD,2011,12,180,15,0,3,2,10,165,33,131,1,Non-New York City
 Seneca,Seneca County State Police,1992,,158,5,0,0,0,5,153,29,120,4,Non-New York City
 Westchester,Sleepy Hollow Vg PD,2013,12,66,8,1,0,1,6,58,9,47,2,Non-New York City
@@ -4214,7 +4186,6 @@ Chenango,Chenango County (RR-D and H),1992,,3,0,0,0,0,0,3,0,3,0,Non-New York Cit
 Cortland,Cortland City PD,2012,12,415,35,0,7,13,15,380,120,251,9,Non-New York City
 Allegany,Wellsville Vg PD,2014,12,174,18,0,0,0,18,156,40,114,2,Non-New York City
 Jefferson,Brownville Vg PD,2011,12,5,0,0,0,0,0,5,0,5,0,Non-New York City
-Erie,Tonawanda Town PD,2016,12,1240,133,1,9,37,86,1107,237,832,38,Non-New York City
 Hamilton,Hamilton County Sheriff,1990,,39,0,0,0,0,0,39,8,27,4,Non-New York City
 Westchester,Westchester Co Dept Pub Safety,2007,12,358,69,0,1,2,66,289,24,248,17,Non-New York City
 Westchester,Yonkers City PD,1997,,8178,1027,16,33,586,392,7151,1467,4020,1664,Non-New York City
@@ -4227,7 +4198,7 @@ Ulster,New Paltz Town and Vg PD,1992,,405,43,0,4,4,35,362,61,289,12,Non-New York
 Schenectady,Rotterdam Town PD,2003,12,776,20,0,0,8,12,756,81,660,15,Non-New York City
 Tompkins,Tompkins County State Police,2007,12,218,29,0,3,1,25,189,39,144,6,Non-New York City
 Saratoga,South Glens Falls Vg PD,1998,,105,6,0,1,1,4,99,19,77,3,Non-New York City
-Broome,Binghamton City PD,2016,12,2197,354,4,41,94,215,1843,435,1305,103,Non-New York City
+Albany,Albany City PD,2017,12,4280,877,8,53,247,569,3403,433,2861,109,Non-New York City
 Albany,Albany County (RR-RC),1993,,12,0,0,0,0,0,12,0,12,0,Non-New York City
 Cortland,Cortland County Sheriff,2012,12,485,20,0,1,6,13,465,93,368,4,Non-New York City
 Madison,Chittenango Vg PD,2008,12,138,4,0,1,1,2,134,18,112,4,Non-New York City
@@ -4244,10 +4215,11 @@ Onondaga,SUNY College-Env. Science and Forestry,1997,,23,1,0,0,0,1,22,4,18,0,Non
 Schenectady,Schenectady City PD,2007,12,3553,606,5,34,265,302,2947,806,1851,290,Non-New York City
 Cattaraugus,Ellicottville Town PD,1995,,133,5,0,0,0,5,128,4,123,1,Non-New York City
 Oneida,SUNY College at Utica/Rome,2006,12,28,0,0,0,0,0,28,3,25,0,Non-New York City
-Washington,Fort Edward Vg PD,2017,12,23,4,0,1,0,3,19,11,7,1,Non-New York City
+Seneca,County Total,2017,,568,73,0,22,5,46,495,70,422,3,Non-New York City
 Westchester,Briarcliff Manor Vg PD,2005,12,13,1,0,0,0,1,12,1,10,1,Non-New York City
 Jefferson,Black River Vg PD,2011,12,10,0,0,0,0,0,10,5,5,0,Non-New York City
-Delaware,County Total,2015,,741,80,0,46,6,28,661,154,493,14,Non-New York City
+Dutchess,Wappingers Falls Vg PD,2017,12,71,2,0,0,2,0,69,4,62,3,Non-New York City
+Steuben,Steuben County Sheriff,2016,12,135,14,0,7,0,7,121,29,88,4,Non-New York City
 Putnam,Putnam Valley Town PD,1994,,152,4,0,1,0,3,148,34,102,12,Non-New York City
 Niagara,County Total,1994,,9366,860,7,55,279,519,8506,2005,5763,738,Non-New York City
 Rensselaer,North Greenbush Town PD,2010,12,271,14,0,3,2,9,257,28,218,11,Non-New York City
@@ -4267,7 +4239,6 @@ Tompkins,Cornell University Police,2013,12,261,3,0,1,2,0,258,16,242,0,Non-New Yo
 Suffolk,Suffolk County State Police,1991,,93,29,0,6,10,13,64,24,38,2,Non-New York City
 Essex,Essex County Sheriff,2010,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Broome,Special Investigator Task Force,2014,8,1,1,0,0,1,0,0,0,0,0,Non-New York City
-Broome,Binghamton City PD,2017,12,2340,361,4,41,90,226,1979,369,1554,56,Non-New York City
 Ontario,Ontario County Sheriff,1993,,1029,33,1,9,6,17,996,260,697,39,Non-New York City
 Orange,New Windsor Town PD,1992,,642,82,0,3,2,77,560,128,396,36,Non-New York City
 Broome,Endicott Vg PD,1994,,742,45,1,0,6,38,697,92,585,20,Non-New York City
@@ -4353,7 +4324,6 @@ Ontario,Clifton Springs Vg PD,1991,,46,5,0,1,3,1,41,9,30,2,Non-New York City
 Putnam,Putnam County (RR-MN),1993,,20,0,0,0,0,0,20,1,18,1,Non-New York City
 Wayne,Wolcott Vg PD,1995,,24,1,0,0,0,1,23,1,21,1,Non-New York City
 Onondaga,Onondaga County State Police,2001,,1060,59,1,4,13,41,1001,238,738,25,Non-New York City
-Monroe,County Total,2017,,18945,2570,35,275,903,1357,16375,2341,13078,956,Non-New York City
 Saratoga,Saratoga County (RR-D and H),1996,,15,1,0,0,0,1,14,2,12,0,Non-New York City
 Madison,Cazenovia Vg PD,2014,12,42,1,0,1,0,0,41,6,35,0,Non-New York City
 Rockland,Clarkstown Town PD,1995,,2602,164,2,4,40,118,2438,261,1979,198,Non-New York City
@@ -4363,9 +4333,9 @@ Dutchess,Fishkill Town PD,1999,,332,22,0,2,0,20,310,32,269,9,Non-New York City
 Sullivan,Mamakating Town PD,1991,,5,2,0,0,0,2,3,0,3,0,Non-New York City
 Schenectady,Niskayuna Town PD,2013,12,354,13,0,1,5,7,341,51,282,8,Non-New York City
 Rensselaer,Nassau Vg PD,1995,,16,1,0,0,0,1,15,3,12,0,Non-New York City
-Orleans,County Total,2017,,763,86,0,19,10,57,677,88,569,20,Non-New York City
+Rockland,Clarkstown Town PD,2017,12,1217,92,0,20,25,47,1125,59,1046,20,Non-New York City
 Rensselaer,Rensselaer County State Police,2000,,619,68,1,9,3,55,551,133,405,13,Non-New York City
-Steuben,County Total,2017,,1263,171,1,79,8,83,1092,209,850,33,Non-New York City
+Columbia,Hudson City PD,2017,12,255,52,1,7,9,35,203,32,161,10,Non-New York City
 Nassau,Freeport Vg PD,1998,,1573,272,2,7,131,132,1301,228,845,228,Non-New York City
 Oneida,Waterville Vg PD,1991,,6,0,0,0,0,0,6,2,4,0,Non-New York City
 Washington,Granville Vg PD,1997,,73,2,0,2,0,0,71,17,54,0,Non-New York City
@@ -4394,6 +4364,7 @@ Onondaga,Onondaga County Park Rangers,1993,,35,5,0,0,0,5,30,8,22,0,Non-New York 
 Orange,Greenwood Lake Vg PD,1990,,132,17,0,2,0,15,115,38,67,10,Non-New York City
 Kings,County Total,2007,,59321,17526,213,252,7629,9432,41795,6917,30586,4292,New York City
 Monroe,Monroe County State Police,1991,,1197,19,0,3,3,13,1178,69,1072,37,Non-New York City
+Oneida,Utica City PD,2017,12,2330,343,3,45,80,215,1987,375,1545,67,Non-New York City
 Schenectady,Schenectady County Sheriff,1994,,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Oneida,Oneida County Sheriff,1991,,793,37,1,13,2,21,756,223,517,16,Non-New York City
 Herkimer,Frankfort Vg PD,2004,12,41,7,0,2,0,5,34,9,23,2,Non-New York City
@@ -4422,7 +4393,7 @@ Orange,Goshen Town PD,2001,,39,3,0,0,0,3,36,16,20,0,Non-New York City
 Madison,Oneida City PD,2009,12,422,13,0,1,3,9,409,40,367,2,Non-New York City
 Clinton,Plattsburgh City PD,2008,12,697,25,0,7,1,17,672,97,559,16,Non-New York City
 Rockland,Stony Point Town PD,1999,,115,3,0,0,2,1,112,14,97,1,Non-New York City
-Ontario,County Total,2017,,1622,135,2,58,16,59,1487,257,1194,36,Non-New York City
+Sullivan,Liberty Vg PD,2017,12,165,27,1,6,1,19,138,22,115,1,Non-New York City
 Westchester,Croton-Kensico PCT (NYC-BWSP),1994,,33,0,0,0,0,0,33,0,33,0,Non-New York City
 Schenectady,Schenectady County State Police,2008,12,111,12,0,0,1,11,99,13,78,8,Non-New York City
 Steuben,Canisteo Vg PD,2000,,60,13,0,0,3,10,47,12,34,1,Non-New York City
@@ -4431,12 +4402,12 @@ Steuben,Wayland Vg PD,2003,12,34,0,0,0,0,0,34,6,27,1,Non-New York City
 Columbia,Columbia County Sheriff,2004,12,346,14,1,1,3,9,332,61,256,15,Non-New York City
 Oneida,Yorkville Vg PD,2001,,35,4,0,0,0,4,31,8,21,2,Non-New York City
 Oneida,New Hartford Town and Vg PD,1998,,943,10,0,0,2,8,933,63,858,12,Non-New York City
-Steuben,County Total,2015,,1585,189,1,79,12,97,1396,205,1160,31,Non-New York City
+Westchester,Mount Pleasant Town PD,2017,8,134,12,0,1,4,7,122,7,111,4,Non-New York City
 Livingston,Geneseo Vg PD,1990,,260,18,0,3,0,15,242,36,205,1,Non-New York City
 Monroe,Webster Town and Vg PD,2011,12,482,25,4,2,7,12,457,64,381,12,Non-New York City
 Erie,Depew Vg PD,1997,,561,27,0,3,10,14,534,105,384,45,Non-New York City
 Erie,Angola Vg PD,1996,,80,2,0,2,0,0,78,12,63,3,Non-New York City
-Oneida,Utica City PD,2011,12,2891,385,4,18,104,259,2506,616,1815,75,Non-New York City
+Dutchess,Beacon City PD,2017,12,283,43,0,5,5,33,240,50,184,6,Non-New York City
 Westchester,Dobbs Ferry Vg PD,1998,,165,21,0,2,1,18,144,29,97,18,Non-New York City
 Dutchess,Dutchess County Sheriff,2011,12,727,35,0,4,2,29,692,181,489,22,Non-New York City
 Washington,Washington County State Police,2008,12,261,58,0,5,0,53,203,55,142,6,Non-New York City
@@ -4450,7 +4421,7 @@ Westchester,Larchmont Vg PD,2003,12,90,4,0,0,1,3,86,15,68,3,Non-New York City
 Westchester,Port Chester Vg PD,2009,12,730,72,0,3,40,29,658,73,540,45,Non-New York City
 Chenango,Sherburne Vg PD,1997,,59,0,0,0,0,0,59,16,43,0,Non-New York City
 Cayuga,County Total,1990,,2331,196,2,18,19,157,2135,570,1512,53,Non-New York City
-Broome,Deposit Vg PD,2016,5,13,0,0,0,0,0,13,5,8,0,Non-New York City
+Niagara,Niagara County Sheriff,2017,12,759,60,0,12,7,41,699,128,528,43,Non-New York City
 Broome,Port Dickinson Vg PD,1997,,13,0,0,0,0,0,13,3,10,0,Non-New York City
 Erie,Buffalo City PD,1996,,26636,4524,56,269,2623,1576,22112,6298,11314,4500,Non-New York City
 Oneida,Kirkland Town PD,1992,,76,0,0,0,0,0,76,12,64,0,Non-New York City
@@ -4460,7 +4431,6 @@ Cattaraugus,Ellicottville Town PD,1998,,81,2,0,0,0,2,79,14,65,0,Non-New York Cit
 Chenango,Chenango County State Police,2000,,196,29,1,0,1,27,167,47,112,8,Non-New York City
 Onondaga,Skaneateles Vg PD,1991,,117,6,0,0,1,5,111,12,99,0,Non-New York City
 Dutchess,Millbrook Vg PD,2002,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
-Schenectady,County Total,2017,,4592,671,2,77,164,428,3921,525,3176,220,Non-New York City
 Seneca,Waterloo Vg PD,2007,12,234,7,0,0,1,6,227,18,206,3,Non-New York City
 Allegany,Allegany County Sheriff,2006,12,6,2,0,0,0,2,4,0,4,0,Non-New York City
 Westchester,Tarrytown Vg PD,2009,12,104,8,0,1,5,2,96,12,80,4,Non-New York City
@@ -4492,11 +4462,12 @@ Otsego,Otsego County Sheriff,2007,12,220,14,0,5,0,9,206,90,108,8,Non-New York Ci
 Putnam,County Total,2004,,1089,77,0,10,8,59,1012,197,778,37,Non-New York City
 Wyoming,Arcade Vg PD,2010,12,46,1,0,0,0,1,45,4,40,1,Non-New York City
 Montgomery,Amsterdam City PD,2007,12,217,80,0,0,0,80,137,53,83,1,Non-New York City
+Genesee,Genesee County Park PD,2002,12,,,,,,,,,,,Non-New York City
 Nassau,Kensington Vg PD,1990,,30,0,0,0,0,0,30,4,20,6,Non-New York City
 Suffolk,Suffolk County Park Police,2009,12,55,1,0,0,0,1,54,1,53,0,Non-New York City
 Greene,Catskill Vg PD,1990,,463,66,0,3,8,55,397,88,298,11,Non-New York City
 Erie,Lackawanna City PD,2002,12,576,68,0,3,17,48,508,111,333,64,Non-New York City
-Delaware,SUNY College At Delhi,2000,,,,,,,,,,,,Non-New York City
+Westchester,Buchanan Vg PD,2011,0,1,0,0,0,0,0,1,1,0,0,Non-New York City
 Chenango,Norwich City PD,1992,,428,36,0,2,4,30,392,55,333,4,Non-New York City
 Tompkins,Tompkins County Park PD,2007,12,6,0,0,0,0,0,6,0,6,0,Non-New York City
 Warren,Warren County Sheriff,1994,,1063,35,1,15,5,14,1028,182,811,35,Non-New York City
@@ -4523,11 +4494,11 @@ Westchester,Eastchester Town PD,2008,12,242,9,0,0,5,4,233,12,216,5,Non-New York 
 Orange,Mount Hope Town PD,2007,12,45,2,0,0,0,2,43,10,28,5,Non-New York City
 Livingston,Livingston County Park PD,1993,,11,1,0,0,1,0,10,2,8,0,Non-New York City
 Sullivan,Sullivan County State Police,1998,,672,47,2,3,2,40,625,244,370,11,Non-New York City
-Ulster,Saugerties Town PD,2016,12,230,25,2,8,3,12,205,63,136,6,Non-New York City
+Albany,Cohoes City PD,2017,12,242,42,0,7,12,23,200,37,147,16,Non-New York City
 Oneida,Oneida County Sheriff,1997,,1035,229,0,39,10,180,806,280,511,15,Non-New York City
 Niagara,North Tonawanda City PD,2011,12,654,47,0,4,19,24,607,137,443,27,Non-New York City
 Onondaga,Camillus Town and Vg PD,2010,12,317,14,0,0,4,10,303,38,260,5,Non-New York City
-Tompkins,Ithaca City PD,2017,10,971,64,1,10,23,30,907,81,808,18,Non-New York City
+Wayne,Macedon Town and Vg PD,2017,12,131,9,0,5,1,3,122,22,95,5,Non-New York City
 Albany,Albany County Park PD,2005,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
 Rensselaer,Troy City PD,2000,,2253,296,1,22,86,187,1957,465,1336,156,Non-New York City
 Monroe,Greece Town PD,2010,12,2670,119,5,12,26,76,2551,384,2107,60,Non-New York City
@@ -4536,7 +4507,6 @@ Oneida,Whitesboro Vg PD,1997,,86,12,0,0,3,9,74,12,58,4,Non-New York City
 Seneca,County Total,2006,,590,46,0,4,4,38,544,81,447,16,Non-New York City
 Orange,Mount Hope Town PD,2002,12,21,1,0,0,0,1,20,10,9,1,Non-New York City
 Monroe,East Rochester Vg PD,2002,12,202,25,0,1,3,21,177,25,136,16,Non-New York City
-Warren,Warren County Sheriff,2014,12,578,15,0,4,3,8,563,86,473,4,Non-New York City
 Sullivan,Monticello Vg PD,1999,,470,63,1,1,11,50,407,102,291,14,Non-New York City
 Nassau,Floral Park Vg PD,2007,12,83,11,0,1,8,2,72,17,50,5,Non-New York City
 Orange,Maybrook Vg PD,2011,12,36,8,0,0,1,7,28,4,24,0,Non-New York City
@@ -4674,7 +4644,6 @@ Madison,Madison County State Police,2009,12,316,21,0,7,2,12,295,95,192,8,Non-New
 Bronx,County Total,2004,,40939,12797,125,290,5076,7306,28142,4708,18904,4530,New York City
 Allegany,Belmont Vg PD,2002,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Westchester,Pelham Manor Vg PD,2008,12,88,4,0,0,1,3,84,15,67,2,Non-New York City
-Columbia,Greenport Town PD,2017,12,117,0,0,0,0,0,117,0,117,0,Non-New York City
 Broome,Broome County (RR-RC) ,1995,,5,0,0,0,0,0,5,0,5,0,Non-New York City
 Oswego,Central Square Vg PD,2008,12,32,3,0,0,0,3,29,2,26,1,Non-New York City
 Ontario,Ontario County Park PD,2012,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
@@ -4706,7 +4675,6 @@ Livingston,Livingston County Park PD,2013,12,13,1,0,0,0,1,12,0,12,0,Non-New York
 Rockland,Haverstraw Town PD,2009,12,577,67,0,4,32,31,510,89,407,14,Non-New York City
 Rockland,Spring Valley Vg PD,2010,12,768,139,1,4,43,91,629,108,495,26,Non-New York City
 Schenectady,Schenectady County Sheriff,1998,,1,1,0,0,0,1,0,0,0,0,Non-New York City
-Wayne,Wolcott Vg PD,2012,12,3,0,0,0,0,0,3,1,2,0,Non-New York City
 Orange,Chester Town PD,1994,,62,13,0,0,0,13,49,14,33,2,Non-New York City
 Wyoming,Wyoming County Sheriff,2004,12,278,28,0,3,1,24,250,56,180,14,Non-New York City
 Cattaraugus,County Total,1992,,2584,322,1,20,14,287,2262,579,1624,59,Non-New York City
@@ -4732,7 +4700,6 @@ Franklin,County Total,1999,,928,177,1,1,7,168,751,223,509,19,Non-New York City
 Suffolk,Quogue Vg PD,2003,12,29,6,0,0,1,5,23,15,4,4,Non-New York City
 Chautauqua,Dunkirk City PD,2010,12,398,45,0,7,16,22,353,59,285,9,Non-New York City
 Dutchess,County Total,1991,,9240,974,13,47,269,645,8266,1908,5941,417,Non-New York City
-Chautauqua,Chautauqua County Sheriff,2017,12,512,50,1,15,3,31,462,136,310,16,Non-New York City
 Schenectady,Rotterdam Town PD,2008,12,883,41,0,4,12,25,842,97,722,23,Non-New York City
 Oneida,Vernon Vg PD,2003,12,21,0,0,0,0,0,21,3,17,1,Non-New York City
 Nassau,Oyster Bay Cove Vg PD,1990,,27,1,0,1,0,0,26,14,9,3,Non-New York City
@@ -4795,7 +4762,7 @@ Sullivan,Woodridge Vg PD,1996,,73,5,0,0,1,4,68,38,29,1,Non-New York City
 St Lawrence,SUNY College at Potsdam,2003,12,98,2,0,1,0,1,96,4,92,0,Non-New York City
 Suffolk,Suffolk County Park PD,2002,0,,,,,,,,,,,Non-New York City
 Cattaraugus,Cattaraugus County State Police,2013,12,360,15,0,1,3,11,345,58,277,10,Non-New York City
-Warren,Warren County Sheriff,2013,12,689,18,1,4,3,10,671,85,579,7,Non-New York City
+Seneca,Seneca Falls Town PD,2017,12,253,13,0,8,1,4,240,22,216,2,Non-New York City
 Dutchess,Wappingers Falls Vg PD,1999,,184,13,1,0,3,9,171,13,150,8,Non-New York City
 Columbia,County Total,2002,,1073,114,0,6,17,91,959,236,703,20,Non-New York City
 Westchester,Mount Kisco Vg PD,1997,,361,39,0,4,2,33,322,39,259,24,Non-New York City
@@ -4815,7 +4782,7 @@ Niagara,Niagara County (RR-RC),1993,,39,0,0,0,0,0,39,3,36,0,Non-New York City
 Monroe,Rochester City PD,2007,12,13627,2350,50,121,1032,1147,11277,2582,7044,1651,Non-New York City
 Erie,SUNY - Buffalo,2007,12,479,6,0,1,2,3,473,121,347,5,Non-New York City
 Washington,Whitehall Vg PD,1991,,91,42,1,2,1,38,49,6,38,5,Non-New York City
-Ulster,County Total,2016,,2641,295,4,75,36,180,2346,396,1885,65,Non-New York City
+Dutchess,County Total,2016,,4116,566,4,111,114,337,3550,481,2991,78,Non-New York City
 Greene,Greene County Sheriff,2011,12,79,10,0,2,3,5,69,33,30,6,Non-New York City
 Onondaga,Cicero Town PD,2003,12,576,9,0,0,1,8,567,101,436,30,Non-New York City
 Onondaga,Syracuse City PD,2003,12,9081,1359,15,66,485,793,7722,1986,4519,1217,Non-New York City
@@ -4885,7 +4852,6 @@ Jefferson,Sackets Harbor Vg PD,2014,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
 Franklin,Franklin County State Police,1991,,538,79,1,1,1,76,459,197,252,10,Non-New York City
 Delaware,Walton Vg PD,1999,,81,11,0,0,0,11,70,13,55,2,Non-New York City
 Broome,Johnson City Vg PD,1993,,1079,90,1,13,12,64,989,163,817,9,Non-New York City
-Oneida,County Total,2015,,5456,585,8,141,110,326,4871,883,3817,171,Non-New York City
 Tioga,Owego Vg PD,2004,12,65,10,0,4,0,6,55,13,42,0,Non-New York City
 Dutchess,Pine Plains Town PD,1992,,31,0,0,0,0,0,31,9,19,3,Non-New York City
 Saratoga,Saratoga County Park PD,2000,,26,0,0,0,0,0,26,0,26,0,Non-New York City
@@ -4900,7 +4866,7 @@ Seneca,Waterloo Vg PD,1994,,247,6,0,1,0,5,241,58,176,7,Non-New York City
 Suffolk,Suffolk County (RR-LI),1994,,73,23,0,0,12,11,50,1,48,1,Non-New York City
 Essex,County Total,1997,,682,80,2,7,1,70,602,231,360,11,Non-New York City
 Rensselaer,Troy City PD,1998,,2482,262,2,28,143,89,2220,644,1440,136,Non-New York City
-Albany,Watervliet City PD,2017,12,248,42,0,6,10,26,206,49,145,12,Non-New York City
+Suffolk,East Hampton Town PD,2017,12,245,17,0,3,3,11,228,34,185,9,Non-New York City
 Livingston,Livingston County State Police,2008,12,89,18,0,2,0,16,71,11,57,3,Non-New York City
 Erie,Cheektowaga Town PD,2011,12,2928,175,2,10,80,83,2753,362,2294,97,Non-New York City
 Cayuga,Moravia Vg PD,2004,12,17,1,0,0,0,1,16,8,8,0,Non-New York City
@@ -4909,7 +4875,7 @@ Onondaga,SUNY - Upstate Medical Center,1993,,271,2,0,1,1,0,269,1,268,0,Non-New Y
 Jefferson,Watertown City PD,1996,,1269,79,0,18,21,40,1190,268,907,15,Non-New York City
 Genesee,LeRoy Vg PD,2010,12,122,12,0,1,5,6,110,25,85,0,Non-New York City
 Franklin,County Total,2006,,965,157,1,18,2,136,808,296,482,30,Non-New York City
-Cayuga,Moravia Vg PD,2017,12,7,0,0,0,0,0,7,0,7,0,Non-New York City
+Washington,County Total,2015,,613,91,1,28,1,61,522,95,413,14,Non-New York City
 Fulton,County Total,1995,,2276,141,0,14,32,95,2135,675,1378,82,Non-New York City
 Orange,Florida Vg PD,2005,12,42,1,0,0,0,1,41,3,38,0,Non-New York City
 Rensselaer,East Greenbush Town PD,2004,12,400,36,0,2,9,25,364,55,292,17,Non-New York City
@@ -4930,6 +4896,7 @@ Rockland,Spring Valley Vg PD,1996,,1426,202,4,5,100,93,1224,209,914,101,Non-New 
 Orange,Orange County MTA,2012,12,3,0,0,0,0,0,3,0,1,2,Non-New York City
 Steuben,Steuben County State Police,2002,12,500,75,0,14,7,54,425,132,277,16,Non-New York City
 Rensselaer,North Greenbush Town PD,1994,,162,19,0,0,1,18,143,37,99,7,Non-New York City
+Seneca,County Total,2016,,643,67,0,27,1,39,576,95,469,12,Non-New York City
 Suffolk,Nissequogue Vg PD,1999,,4,0,0,0,0,0,4,1,3,0,Non-New York City
 Monroe,Monroe County Park PD,2014,12,10,0,0,0,0,0,10,0,10,0,Non-New York City
 Niagara,Lockport City PD,1997,,1340,249,0,3,33,213,1091,226,814,51,Non-New York City
@@ -4938,7 +4905,7 @@ Broome,Binghamton City PD,2003,12,2129,182,3,10,77,92,1947,213,1683,51,Non-New Y
 Yates,Yates County Sheriff,2001,,173,10,0,1,0,9,163,45,111,7,Non-New York City
 Cattaraugus,Cattaraugus County Park PD,2003,12,12,0,0,0,0,0,12,0,12,0,Non-New York City
 Orange,Goshen Town PD,2003,12,54,6,0,0,0,6,48,8,36,4,Non-New York City
-Dutchess,Millerton Vg PD,2017,8,7,0,0,0,0,0,7,3,4,0,Non-New York City
+Steuben,Steuben County Sheriff,2015,12,133,21,1,8,1,11,112,27,81,4,Non-New York City
 Chautauqua,Fredonia Vg PD,2011,12,291,8,0,1,0,7,283,29,248,6,Non-New York City
 Dutchess,Wappingers Falls Vg PD,2001,,124,12,0,0,3,9,112,8,103,1,Non-New York City
 Nassau,Floral Park Vg PD,1994,,199,20,1,1,11,7,179,34,116,29,Non-New York City
@@ -4994,7 +4961,6 @@ Oswego,Oswego County Sheriff,2009,12,511,47,0,10,4,33,464,125,317,22,Non-New Yor
 Cattaraugus,Portville Vg PD,2004,12,37,1,0,0,0,1,36,4,32,0,Non-New York City
 Niagara,Niagara Town PD,2002,12,366,19,0,1,4,14,347,57,272,18,Non-New York City
 Onondaga,Onondaga County State Police,2007,12,698,47,0,12,8,27,651,141,488,22,Non-New York City
-Broome,County Total,2016,,5422,641,5,128,143,365,4781,991,3601,189,Non-New York City
 Nassau,Glen Cove City PD,1992,,511,41,2,3,19,17,470,103,299,68,Non-New York City
 Niagara,Niagara Town PD,2007,12,350,16,0,0,4,12,334,53,258,23,Non-New York City
 Sullivan,Sullivan County Park PD,2013,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
@@ -5007,7 +4973,7 @@ Clinton,Clinton County State Police,2006,12,1042,97,1,19,2,75,945,304,622,19,Non
 Ontario,County Total,1999,,2308,129,1,12,26,90,2179,402,1694,83,Non-New York City
 Warren,Glens Falls City PD,2007,12,489,18,1,2,5,10,471,51,413,7,Non-New York City
 Onondaga,Onondaga County Park Rangers,1999,,21,0,0,0,0,0,21,4,17,0,Non-New York City
-Cattaraugus,County Total,2015,,1280,125,1,53,9,62,1155,214,907,34,Non-New York City
+Wyoming,County Total,2017,,346,71,0,25,5,41,275,58,203,14,Non-New York City
 Hamilton,Hamilton County Sheriff,1993,,27,2,0,1,0,1,25,9,15,1,Non-New York City
 Franklin,Tupper Lake Vg PD,2003,12,170,18,0,0,0,18,152,42,99,11,Non-New York City
 Chenango,County Total,2010,,983,54,0,16,4,34,929,191,722,16,Non-New York City
@@ -5017,6 +4983,7 @@ Rensselaer,North Greenbush Town PD,2012,12,215,11,0,1,1,9,204,30,171,3,Non-New Y
 Monroe,Monroe County (RR-CSX),2001,,3,0,0,0,0,0,3,0,3,0,Non-New York City
 Steuben,Steuben County State Police,2005,12,603,74,1,29,5,39,529,146,358,25,Non-New York City
 Albany,County Total,1991,,15464,1674,13,90,584,987,13790,3271,9768,751,Non-New York City
+Steuben,Cohocton Town PD,2017,12,6,1,0,0,0,1,5,0,5,0,Non-New York City
 Cayuga,Port Byron Vg PD,2003,12,5,0,0,0,0,0,5,0,5,0,Non-New York City
 Allegany,County Total,1990,,1280,146,0,7,3,136,1134,379,735,20,Non-New York City
 Steuben,Hammondsport Vg PD,1992,,100,2,0,0,0,2,98,1,96,1,Non-New York City
@@ -5026,6 +4993,7 @@ Nassau,Nassau County (RR-LI),1990,,98,29,1,1,19,8,69,9,60,0,Non-New York City
 Westchester,Ossining Vg PD,2003,12,442,102,0,6,32,64,340,41,255,44,Non-New York City
 Cayuga,Auburn City PD,2005,12,1121,76,1,20,21,34,1045,197,839,9,Non-New York City
 Seneca,Seneca County Sheriff,2012,12,128,12,0,0,0,12,116,31,83,2,Non-New York City
+Saratoga,County Total,2017,,2795,279,2,82,36,159,2516,346,2102,68,Non-New York City
 Oneida,County Total,2005,,6301,514,10,57,156,291,5787,1161,4424,202,Non-New York City
 Rensselaer,Rensselaer County State Police,2008,12,575,54,0,4,4,46,521,120,391,10,Non-New York City
 Rensselaer,Rensselaer City PD,1997,,290,14,0,2,5,7,276,64,196,16,Non-New York City
@@ -5036,7 +5004,6 @@ Seneca,Seneca County State Police,1999,,107,11,0,2,0,9,96,29,62,5,Non-New York C
 Suffolk,Riverhead Town PD,2010,12,1144,82,0,2,28,52,1062,155,879,28,Non-New York City
 Niagara,County Total,1992,,10088,1087,7,91,311,678,9001,2219,6146,636,Non-New York City
 Hamilton,County Total,2001,,100,3,0,0,0,3,97,38,56,3,Non-New York City
-Monroe,Rochester City PD,2017,12,9807,1872,27,141,707,997,7935,1337,5981,617,Non-New York City
 Broome,County Total,1996,,7483,424,6,43,118,257,7059,1226,5626,207,Non-New York City
 Erie,County Total,1998,,39325,4535,45,254,2013,2223,34790,7800,22965,4025,Non-New York City
 Suffolk,Shelter Island Town PD,2003,12,75,1,0,0,0,1,74,16,58,0,Non-New York City
@@ -5074,7 +5041,8 @@ Erie,Lancaster Town PD,1998,,264,9,0,1,3,5,255,21,208,26,Non-New York City
 Wayne,Wayne County State Police,1999,,488,22,0,4,3,15,466,147,296,23,Non-New York City
 Allegany,Cuba Town PD,2002,12,44,4,0,0,0,4,40,6,34,0,Non-New York City
 Suffolk,SUNY - Stony Brook,1995,,788,15,0,2,8,5,773,62,691,20,Non-New York City
-Wayne,Palmyra Vg PD,2017,10,9,2,0,0,0,2,7,0,7,0,Non-New York City
+Dutchess,County Total,2017,,3834,568,5,106,109,348,3266,405,2781,80,Non-New York City
+Oneida,New Hartford Town and Vg PD,2012,12,917,19,0,1,5,13,898,56,828,14,Non-New York City
 Essex,Ticonderoga Town PD,1993,,106,19,0,0,0,19,87,24,55,8,Non-New York City
 Genesee,Batavia City PD,2005,12,773,31,0,2,4,25,742,94,646,2,Non-New York City
 Broome,Endicott Vg PD,2006,12,535,47,2,6,14,25,488,83,399,6,Non-New York City
@@ -5084,17 +5052,16 @@ Jefferson,Watertown City PD,1998,,1023,98,1,32,19,46,925,194,715,16,Non-New York
 Westchester,Mount Pleasant Town PD,2008,12,263,15,0,0,4,11,248,39,202,7,Non-New York City
 Seneca,Seneca County Park PD,2001,,13,0,0,0,0,0,13,0,13,0,Non-New York City
 Oneida,Whitestown Town PD,2012,12,129,1,0,0,1,0,128,16,103,9,Non-New York City
-Oneida,County Total,2017,,4773,694,4,203,109,378,4079,666,3284,129,Non-New York City
+Chenango,Chenango County Sheriff,2017,10,239,15,2,4,2,7,224,44,176,4,Non-New York City
 Onondaga,Skaneateles Vg PD,2011,12,6,0,0,0,0,0,6,0,6,0,Non-New York City
 Westchester,Westchester County MTA,2008,12,92,10,0,0,6,4,82,1,79,2,Non-New York City
-Orange,Orange County Sheriff,2017,12,23,12,0,2,0,10,11,0,11,0,Non-New York City
 Westchester,Westchester County Park PD,2004,12,12,0,0,0,0,0,12,0,11,1,Non-New York City
 Ulster,Shawangunk Town PD,1996,,154,32,0,0,0,32,122,26,91,5,Non-New York City
-Tompkins,Tompkins County Sheriff,2016,12,151,12,0,8,0,4,139,41,95,3,Non-New York City
+Schenectady,County Total,2015,,4623,668,10,78,176,404,3955,623,3167,165,Non-New York City
 Saratoga,Corinth Vg PD,1996,,126,34,0,0,1,33,92,22,68,2,Non-New York City
 Rensselaer,Rensselaer City PD,1990,,383,37,0,4,2,31,346,59,261,26,Non-New York City
 Jefferson,Adams Vg PD,1999,,20,2,0,1,0,1,18,4,14,0,Non-New York City
-Dutchess,Poughkeepsie Town PD,2017,9,972,34,2,6,19,7,938,41,891,6,Non-New York City
+Erie,Tonawanda Town PD,2016,12,1240,133,1,9,37,86,1107,237,832,38,Non-New York City
 Nassau,Hempstead Vg PD,2004,12,1493,319,5,12,146,156,1174,199,636,339,Non-New York City
 Orange,Maybrook Vg PD,2003,12,27,3,0,0,2,1,24,2,22,0,Non-New York City
 Monroe,Monroe County Park PD,1996,,25,0,0,0,0,0,25,1,24,0,Non-New York City
@@ -5124,8 +5091,9 @@ Schoharie,Cobleskill Vg PD,2006,12,173,10,1,0,1,8,163,16,142,5,Non-New York City
 Essex,Essex County State Police,1990,,638,36,0,5,1,30,602,270,321,11,Non-New York City
 Columbia,Hudson City PD,1997,,615,215,1,1,23,190,400,93,295,12,Non-New York City
 Erie,County Total,2009,,32656,4915,66,212,1919,2718,27741,5993,19730,2018,Non-New York City
+Broome,Binghamton City PD,2016,12,2197,354,4,41,94,215,1843,435,1305,103,Non-New York City
 Albany,Altamont Vg PD,2001,,7,2,0,0,0,2,5,0,4,1,Non-New York City
-Schenectady,Schenectady City PD,2015,12,2635,596,10,68,155,363,2039,464,1447,128,Non-New York City
+Washington,Fort Edward Vg PD,2017,12,23,4,0,1,0,3,19,11,7,1,Non-New York City
 Cayuga,Cayuga County State Police,2011,12,280,30,0,8,0,22,250,48,194,8,Non-New York City
 Saratoga,Saratoga County State Police,1990,,954,55,0,7,7,41,899,264,607,28,Non-New York City
 Westchester,Rye City PD,1996,,273,5,0,0,2,3,268,27,220,21,Non-New York City
@@ -5134,7 +5102,7 @@ Cattaraugus,Salamanca City PD,2012,12,260,28,0,2,4,22,232,54,169,9,Non-New York 
 Westchester,New Rochelle City PD,1994,,2841,231,0,15,132,84,2610,476,1727,407,Non-New York City
 Oswego,Oswego County Park PD,2007,12,2,0,0,0,0,0,2,1,1,0,Non-New York City
 Putnam,Putnam County Sheriff,1991,,514,30,0,3,11,16,484,116,332,36,Non-New York City
-Essex,County Total,2017,,419,63,1,34,2,26,356,91,251,14,Non-New York City
+Delaware,County Total,2015,,741,80,0,46,6,28,661,154,493,14,Non-New York City
 Westchester,Croton-On-Hudson Vg PD,2000,,140,8,0,0,0,8,132,18,103,11,Non-New York City
 Greene,County Total,1997,,1269,337,1,6,4,326,932,312,590,30,Non-New York City
 Lewis,Lowville Vg PD,2013,12,60,2,0,0,0,2,58,7,47,4,Non-New York City
@@ -5142,7 +5110,7 @@ Oswego,Oswego County State Police,2012,12,906,62,0,10,3,49,844,282,519,43,Non-Ne
 Monroe,Monroe County State Police,1993,,444,15,0,3,1,11,429,32,385,12,Non-New York City
 Lewis,Lewis County Sheriff,1991,,151,7,0,0,0,7,144,62,69,13,Non-New York City
 Cayuga,Port Byron Vg PD,2007,12,3,2,0,0,0,2,1,0,1,0,Non-New York City
-Cayuga,Auburn City PD,2017,12,904,147,0,34,19,94,757,107,636,14,Non-New York City
+Broome,Binghamton City PD,2017,12,2340,361,4,41,90,226,1979,369,1554,56,Non-New York City
 Nassau,Glen Cove City PD,2002,12,275,18,1,0,13,4,257,35,197,25,Non-New York City
 Nassau,Old Westbury Vg PD,2014,12,46,2,0,0,2,0,44,13,28,3,Non-New York City
 Franklin,Malone Vg PD,2008,12,236,13,0,1,2,10,223,36,187,0,Non-New York City
@@ -5172,15 +5140,15 @@ Otsego,Otsego County Sheriff,2011,12,188,25,1,3,0,21,163,65,89,9,Non-New York Ci
 Rockland,Suffern Vg PD,1994,,216,13,0,1,5,7,203,35,163,5,Non-New York City
 Broome,Endicott Vg PD,2007,12,625,54,1,8,15,30,571,98,456,17,Non-New York City
 Orleans,County Total,2000,,689,57,1,1,6,49,632,102,518,12,Non-New York City
+Monroe,County Total,2017,,18945,2570,35,275,903,1357,16375,2341,13078,956,Non-New York City
 Oswego,Oswego County State Police,1998,,679,36,0,1,8,27,643,278,358,7,Non-New York City
 Oswego,County Total,1993,,3452,97,2,19,19,57,3355,801,2442,112,Non-New York City
 Westchester,Peekskill City PD,2005,12,246,48,0,1,26,21,198,45,148,5,Non-New York City
 Rensselaer,Rensselaer County State Police,2002,12,704,98,2,15,9,72,606,123,464,19,Non-New York City
 Onondaga,Onondaga County Sheriff,1990,,3769,179,0,30,47,102,3590,660,2747,183,Non-New York City
 Westchester,Croton-Kensico PCT (NYC-BWSP),1998,,46,0,0,0,0,0,46,0,46,0,Non-New York City
-Wayne,Wayne County Sheriff,2016,12,491,45,2,8,7,28,446,124,307,15,Non-New York City
-Warren,County Total,2017,,1079,107,3,44,10,50,972,131,818,23,Non-New York City
-Warren,County Total,2014,,1209,40,0,9,6,25,1169,156,998,15,Non-New York City
+Orleans,County Total,2017,,763,86,0,19,10,57,677,88,569,20,Non-New York City
+Steuben,County Total,2017,,1263,171,1,79,8,83,1092,209,850,33,Non-New York City
 Livingston,County Total,1996,,1719,123,0,11,6,106,1596,232,1313,51,Non-New York City
 Suffolk,Shelter Island Town PD,1996,,73,3,0,1,0,2,70,10,60,0,Non-New York City
 Genesee,Genesee County State Police,2010,12,93,13,0,1,1,11,80,11,68,1,Non-New York City
@@ -5195,6 +5163,7 @@ Albany,Albany County (RR-RC),1991,,48,0,0,0,0,0,48,6,42,0,Non-New York City
 Chenango,Bainbridge Vg PD,2001,,57,2,0,0,0,2,55,10,44,1,Non-New York City
 Tompkins,Cornell University Police,2001,,477,6,0,1,4,1,471,49,419,3,Non-New York City
 Tompkins,Tompkins County Sheriff,2006,12,505,30,0,18,2,10,475,93,360,22,Non-New York City
+Ontario,County Total,2017,,1622,135,2,58,16,59,1487,257,1194,36,Non-New York City
 Broome,Broome County Park PD,2001,,16,0,0,0,0,0,16,5,11,0,Non-New York City
 Genesee,Batavia City PD,2007,12,512,23,0,4,5,14,489,76,400,13,Non-New York City
 Dutchess,Fishkill Town PD,2002,12,275,16,0,2,2,12,259,33,213,13,Non-New York City
@@ -5220,13 +5189,14 @@ Westchester,New Rochelle City PD,2013,12,1568,176,0,6,81,89,1392,151,1172,69,Non
 Herkimer,County Total,2006,,1348,218,1,21,11,185,1130,244,859,27,Non-New York City
 Hamilton,Inlet Town PD,1991,,26,1,0,0,0,1,25,3,22,0,Non-New York City
 Broome,County Total,2000,,6043,420,1,44,103,272,5623,791,4695,137,Non-New York City
+Steuben,County Total,2015,,1585,189,1,79,12,97,1396,205,1160,31,Non-New York City
 Saratoga,Saratoga Springs City PD,2006,12,726,50,0,4,7,39,676,139,513,24,Non-New York City
 Columbia,Columbia County State Police,1994,,426,16,0,1,0,15,410,163,232,15,Non-New York City
 Nassau,Oyster Bay Cove Vg PD,2001,,7,3,0,0,1,2,4,1,3,0,Non-New York City
 Chautauqua,Ellicott Town PD,1999,,168,1,0,0,0,1,167,28,137,2,Non-New York City
 Erie,Lancaster Town PD,2000,,261,23,0,2,2,19,238,21,202,15,Non-New York City
 Suffolk,Westhampton Beach Vg PD,1998,,86,13,0,0,0,13,73,13,54,6,Non-New York City
-Steuben,Steuben County Sheriff,2014,12,152,12,0,3,0,9,140,43,94,3,Non-New York City
+Oneida,Utica City PD,2011,12,2891,385,4,18,104,259,2506,616,1815,75,Non-New York City
 Oswego,Phoenix Vg PD,2008,12,38,0,0,0,0,0,38,7,28,3,Non-New York City
 Fulton,County Total,2001,,1476,93,1,11,8,73,1383,235,1100,48,Non-New York City
 Dutchess,Poughkeepsie City PD,2008,12,1522,397,5,23,165,204,1125,261,787,77,Non-New York City
@@ -5263,13 +5233,12 @@ Chenango,New Berlin Vg PD,1992,,3,1,0,0,0,1,2,0,2,0,Non-New York City
 Orange,Goshen Vg PD,2012,12,81,3,0,0,0,3,78,8,69,1,Non-New York City
 Westchester,Rye Brook Vg PD,2011,12,93,2,0,0,0,2,91,11,78,2,Non-New York City
 Cayuga,Auburn City PD,2011,12,1047,130,2,21,17,90,917,177,722,18,Non-New York City
-Dutchess,Fishkill Vg PD,2017,12,30,2,0,0,1,1,28,3,24,1,Non-New York City
+Broome,Deposit Vg PD,2016,5,13,0,0,0,0,0,13,5,8,0,Non-New York City
 Oneida,Oneida County State Police,1991,,1479,59,1,5,5,48,1420,418,979,23,Non-New York City
 Westchester,Bronxville Vg PD,1991,,150,8,0,0,5,3,142,28,91,23,Non-New York City
 Greene,Hunter Town PD,2010,12,9,3,0,0,1,2,6,4,2,0,Non-New York City
 Washington,Whitehall Vg PD,2014,12,54,10,0,0,0,10,44,6,37,1,Non-New York City
 Orleans,Medina Vg PD,2000,,171,2,0,0,0,2,169,13,155,1,Non-New York City
-Tompkins,Ithaca City PD,2016,12,969,72,2,10,19,41,897,90,787,20,Non-New York City
 Cattaraugus,Olean City PD,1996,,712,35,1,14,19,1,677,117,556,4,Non-New York City
 Steuben,Cohocton Town PD,2010,11,15,3,0,0,0,3,12,0,12,0,Non-New York City
 Steuben,Canisteo Vg PD,2014,12,12,2,0,1,0,1,10,2,8,0,Non-New York City
@@ -5426,7 +5395,6 @@ Westchester,Elmsford Vg PD,2000,,108,11,0,0,3,8,97,19,75,3,Non-New York City
 Rockland,Rockland County State Police,2012,12,24,8,1,1,1,5,16,1,11,4,Non-New York City
 Delaware,Colchester Town PD,1992,,40,2,0,0,0,2,38,21,16,1,Non-New York City
 Oswego,Central Square Vg PD,1992,,6,1,0,0,0,1,5,0,5,0,Non-New York City
-Tioga,Tioga County Sheriff,2017,12,171,18,0,10,0,8,153,35,100,18,Non-New York City
 Jefferson,Jefferson County Sheriff,1990,,476,21,3,5,2,11,455,150,289,16,Non-New York City
 Ontario,County Total,2001,,2011,97,1,12,18,66,1914,275,1559,80,Non-New York City
 Jefferson,Cape Vincent Vg PD,1993,,1,0,0,0,0,0,1,0,1,0,Non-New York City
@@ -5445,7 +5413,6 @@ Niagara,Niagara County Sheriff,2005,12,1403,112,0,21,26,65,1291,318,906,67,Non-N
 Sullivan,Monticello Vg PD,2004,12,320,51,1,2,13,35,269,91,165,13,Non-New York City
 Tompkins,Tompkins County Park PD,2002,12,22,0,0,0,0,0,22,2,20,0,Non-New York City
 Orange,New Windsor Town PD,1998,,559,51,0,1,5,45,508,91,402,15,Non-New York City
-Essex,Ticonderoga Town PD,2017,12,51,10,1,4,0,5,41,11,28,2,Non-New York City
 St Lawrence,SUNY College At Canton,2000,,105,1,0,0,0,1,104,5,99,0,Non-New York City
 Steuben,Steuben County Sheriff,1990,,404,0,0,0,0,0,404,144,255,5,Non-New York City
 Onondaga,North Syracuse Vg PD,1999,,200,13,0,0,3,10,187,29,156,2,Non-New York City
@@ -5506,7 +5473,7 @@ Livingston,Mount Morris Vg PD,2011,12,67,5,0,0,1,4,62,6,54,2,Non-New York City
 Nassau,Oyster Bay Cove Vg PD,2000,,7,2,0,0,0,2,5,2,3,0,Non-New York City
 Steuben,Steuben County State Police,2014,12,551,39,0,15,1,23,512,102,380,30,Non-New York City
 Westchester,Mount Kisco Vg PD,2007,12,135,5,0,0,3,2,130,14,115,1,Non-New York City
-Suffolk,County Total,2016,,23090,1896,33,151,612,1100,21194,2132,17890,1172,Non-New York City
+Schenectady,County Total,2017,,4592,671,2,77,164,428,3921,525,3176,220,Non-New York City
 Erie,East Aurora-Town Of Aurora PD,2014,12,136,8,0,1,3,4,128,14,111,3,Non-New York City
 Westchester,Tarrytown Vg PD,2006,12,104,4,0,0,2,2,100,13,82,5,Non-New York City
 Suffolk,Southold Town PD,2011,12,467,20,0,2,2,16,447,108,333,6,Non-New York City
@@ -5624,7 +5591,7 @@ Ulster,SUNY College at New Paltz,2005,12,103,2,0,1,1,0,101,14,87,0,Non-New York 
 Schenectady,Rotterdam Town PD,1994,,1232,14,0,0,11,3,1218,197,955,66,Non-New York City
 Orleans,Albion Vg PD,1990,,277,44,1,1,6,36,233,30,199,4,Non-New York City
 Genesee,Batavia City PD,1996,,746,19,0,0,11,8,727,86,627,14,Non-New York City
-Cattaraugus,County Total,2017,,1158,131,2,48,12,69,1027,189,805,33,Non-New York City
+Delaware,SUNY College At Delhi,2000,,,,,,,,,,,,Non-New York City
 Franklin,County Total,2010,,943,57,0,16,1,40,886,246,613,27,Non-New York City
 Madison,Canastota Vg PD,1997,,75,0,0,0,0,0,75,4,69,2,Non-New York City
 Putnam,Kent Town PD,2001,,196,6,0,2,0,4,190,33,149,8,Non-New York City
@@ -5635,7 +5602,6 @@ Kings,County Total,2009,,55816,15803,201,253,6292,9057,40013,6262,30292,3459,New
 Schenectady,Niskayuna Town PD,2002,12,359,11,0,2,1,8,348,44,288,16,Non-New York City
 Erie,Brant Town PD,2007,12,9,0,0,0,0,0,9,3,6,0,Non-New York City
 Delaware,Hancock Vg PD,1991,,24,7,0,0,0,7,17,10,6,1,Non-New York City
-Albany,Guilderland Town PD,2017,12,713,27,0,9,6,12,686,34,648,4,Non-New York City
 Madison,Chittenango Vg PD,2003,12,126,7,0,0,1,6,119,18,99,2,Non-New York City
 Onondaga,Syracuse City PD,2006,12,8192,1515,12,66,534,903,6677,1904,4037,736,Non-New York City
 Westchester,Pelham Manor Vg PD,1999,,162,18,0,1,7,10,144,19,119,6,Non-New York City
@@ -5645,7 +5611,7 @@ Allegany,Andover Vg PD,1990,,11,3,0,0,0,3,8,2,6,0,Non-New York City
 Onondaga,North Syracuse Vg PD,1991,,269,9,0,3,2,4,260,57,200,3,Non-New York City
 Clinton,Clinton County Sheriff,2010,12,27,7,0,1,0,6,20,6,13,1,Non-New York City
 Schoharie,Schoharie Vg PD,1990,,32,1,0,0,0,1,31,1,30,0,Non-New York City
-Lewis,County Total,2017,,257,35,0,22,0,13,222,74,142,6,Non-New York City
+Ulster,Saugerties Town PD,2016,12,230,25,2,8,3,12,205,63,136,6,Non-New York City
 Orleans,Orleans County Park PD,2001,,3,0,0,0,0,0,3,0,3,0,Non-New York City
 Washington,Washington County State Police,1998,,229,70,0,10,1,59,159,76,78,5,Non-New York City
 Greene,Durham Town PD,2008,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
@@ -5659,6 +5625,7 @@ Nassau,Nassau County (RR-LI),1996,,70,16,0,0,13,3,54,7,47,0,Non-New York City
 Nassau,Garden City Vg PD,2009,12,379,13,1,0,6,6,366,25,335,6,Non-New York City
 Steuben,Steuben County State Police,1993,,696,52,1,5,1,45,644,227,393,24,Non-New York City
 Washington,Granville Vg PD,2002,12,89,4,0,2,0,2,85,19,65,1,Non-New York City
+Tompkins,Ithaca City PD,2017,10,971,64,1,10,23,30,907,81,808,18,Non-New York City
 Onondaga,DeWitt Town PD,2008,12,538,28,0,2,8,18,510,70,420,20,Non-New York City
 Onondaga,Skaneateles Vg PD,1998,,109,4,0,0,1,3,105,4,97,4,Non-New York City
 Dutchess,County Total,1993,,7908,888,11,37,255,585,7020,1555,5123,342,Non-New York City
@@ -5712,7 +5679,7 @@ Putnam,Putnam County Sheriff,1999,,393,34,0,6,3,25,359,106,235,18,Non-New York C
 Rockland,Suffern Vg PD,2011,12,69,5,0,2,0,3,64,11,50,3,Non-New York City
 Dutchess,East Fishkill Town PD,2004,12,398,84,0,1,3,80,314,30,263,21,Non-New York City
 Orange,Montgomery Vg PD,1992,,17,6,0,0,0,6,11,5,6,0,Non-New York City
-Steuben,County Total,2016,,1523,188,1,73,14,100,1335,229,1063,43,Non-New York City
+Warren,Warren County Sheriff,2014,12,578,15,0,4,3,8,563,86,473,4,Non-New York City
 Tompkins,Tompkins County State Police,2000,,230,29,0,1,0,28,201,56,137,8,Non-New York City
 Wayne,Wolcott Vg PD,2004,0,,,,,,,,,,,Non-New York City
 Schuyler,County Total,1992,,496,35,4,4,0,27,461,126,323,12,Non-New York City
@@ -5753,6 +5720,7 @@ Ulster,Shawangunk Town PD,2014,12,73,6,0,1,3,2,67,20,47,0,Non-New York City
 Suffolk,Ocean Beach Vg PD,2007,12,67,1,0,0,1,0,66,2,62,2,Non-New York City
 Wyoming,Perry Vg PD,1998,,156,6,0,2,0,4,150,28,118,4,Non-New York City
 Nassau,Cove Neck Vg PD,1991,,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Columbia,Greenport Town PD,2017,12,117,0,0,0,0,0,117,0,117,0,Non-New York City
 Erie,Tonawanda Town PD,1995,,1773,154,0,6,28,120,1619,192,1296,131,Non-New York City
 Yates,County Total,2001,,348,19,0,4,2,13,329,55,265,9,Non-New York City
 Oneida,County Total,1992,,9140,617,5,68,205,339,8523,1842,6290,391,Non-New York City
@@ -5804,6 +5772,7 @@ Cortland,Mcgraw Vg PD,2003,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
 Rensselaer,Hoosick Falls Vg PD,2001,,58,14,0,0,2,12,44,14,27,3,Non-New York City
 Cattaraugus,Cattaraugus Vg PD,1990,,11,2,0,0,0,2,9,4,4,1,Non-New York City
 Suffolk,East Hampton Town PD,1997,,461,9,0,3,0,6,452,145,300,7,Non-New York City
+Wayne,Wolcott Vg PD,2012,12,3,0,0,0,0,0,3,1,2,0,Non-New York City
 Madison,Chittenango Vg PD,1996,,97,4,0,0,1,3,93,16,72,5,Non-New York City
 Greene,Catskill Vg PD,1999,,254,30,0,2,2,26,224,26,188,10,Non-New York City
 Ulster,Lloyd Town PD,2008,12,142,10,0,3,1,6,132,21,109,2,Non-New York City
@@ -5931,6 +5900,7 @@ Cortland,Cortland County Sheriff,1999,,372,28,0,0,0,28,344,70,274,0,Non-New York
 Cattaraugus,Cattaraugus County State Police,2006,12,384,59,0,5,4,50,325,116,206,3,Non-New York City
 Schoharie,Schoharie County Sheriff,2003,12,115,4,0,0,1,3,111,33,75,3,Non-New York City
 Suffolk,Southold Town PD,1992,,417,1,0,0,1,0,416,120,292,4,Non-New York City
+Chautauqua,Chautauqua County Sheriff,2017,12,512,50,1,15,3,31,462,136,310,16,Non-New York City
 Ontario,Geneva City PD,2008,12,354,24,0,1,12,11,330,66,257,7,Non-New York City
 Ontario,Clifton Springs Vg PD,2003,12,37,3,0,1,0,2,34,4,30,0,Non-New York City
 Monroe,Gates Town PD,2002,12,1172,32,1,4,20,7,1140,112,920,108,Non-New York City
@@ -6045,6 +6015,7 @@ Onondaga,Baldwinsville Vg PD,1997,,215,13,0,0,2,11,202,30,164,8,Non-New York Cit
 Suffolk,Ocean Beach Vg PD,2014,12,24,0,0,0,0,0,24,3,21,0,Non-New York City
 Columbia,Stockport Town PD,2007,12,10,0,0,0,0,0,10,0,10,0,Non-New York City
 Tompkins,Cayuga Heights Vg PD,2002,12,68,0,0,0,0,0,68,9,58,1,Non-New York City
+Warren,Warren County Sheriff,2013,12,689,18,1,4,3,10,671,85,579,7,Non-New York City
 Oswego,Pulaski Vg PD,2000,,72,3,0,0,0,3,69,12,48,9,Non-New York City
 Herkimer,Mohawk Vg PD,2001,,24,0,0,0,0,0,24,7,17,0,Non-New York City
 Suffolk,Head-of-the-Harbor Vg PD,1997,,11,0,0,0,0,0,11,2,9,0,Non-New York City
@@ -6153,6 +6124,7 @@ Westchester,Sleepy Hollow Vg PD,1999,,72,27,0,0,2,25,45,13,23,9,Non-New York Cit
 Westchester,Mamaroneck Vg PD,2006,12,317,19,0,0,5,14,298,31,256,11,Non-New York City
 Broome,Broome County Sheriff,1998,,1018,46,0,6,4,36,972,222,689,61,Non-New York City
 Westchester,Mount Kisco Vg PD,2009,12,253,40,0,0,18,22,213,45,161,7,Non-New York City
+Ulster,County Total,2016,,2641,295,4,75,36,180,2346,396,1885,65,Non-New York City
 Oswego,Oswego County Park PD,1996,,4,0,0,0,0,0,4,0,4,0,Non-New York City
 Cayuga,Port Byron Vg PD,2014,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
 Allegany,Belmont Vg PD,2009,12,6,5,0,0,0,5,1,1,0,0,Non-New York City
@@ -6168,6 +6140,7 @@ Lewis,Lewis County Sheriff,1993,,171,18,0,1,1,16,153,95,49,9,Non-New York City
 Onondaga,Liverpool Vg PD,1993,,57,1,0,0,0,1,56,16,38,2,Non-New York City
 Broome,SUNY - Binghamton,1999,,323,8,0,2,1,5,315,109,205,1,Non-New York City
 Oswego,SUNY College At Oswego,1998,,182,4,0,3,1,0,178,20,155,3,Non-New York City
+Oneida,County Total,2015,,5456,585,8,141,110,326,4871,883,3817,171,Non-New York City
 Essex,Ticonderoga Town PD,2007,12,72,11,0,2,0,9,61,10,45,6,Non-New York City
 Oswego,Oswego County State Police,2008,12,866,57,2,12,3,40,809,256,533,20,Non-New York City
 Otsego,Otsego County Sheriff,2010,12,174,16,0,2,0,14,158,81,71,6,Non-New York City
@@ -6205,6 +6178,7 @@ Dutchess,Dutchess County State Police,2008,12,939,126,0,15,14,97,813,183,602,28,
 Columbia,Stockport Town PD,1996,,2,0,0,0,0,0,2,0,2,0,Non-New York City
 Suffolk,Suffolk County Park Police,2011,12,42,2,0,0,0,2,40,1,39,0,Non-New York City
 Oneida,New Hartford Town and Vg PD,2009,12,899,5,0,2,1,2,894,34,856,4,Non-New York City
+Albany,Watervliet City PD,2017,12,248,42,0,6,10,26,206,49,145,12,Non-New York City
 Erie,East Aurora-Town Of Aurora PD,1999,,193,5,0,1,3,1,188,24,161,3,Non-New York City
 Erie,Lancaster Vg PD,2005,0,,,,,,,,,,,Non-New York City
 Westchester,Elmsford Vg PD,1996,,156,8,0,0,2,6,148,15,125,8,Non-New York City
@@ -6229,10 +6203,12 @@ Orange,Wallkill Town PD,2011,12,827,23,0,5,8,10,804,83,701,20,Non-New York City
 Chenango,Oxford Vg PD,2011,12,8,0,0,0,0,0,8,3,5,0,Non-New York City
 Genesee,Genesee County (RR-RC),1994,,4,0,0,0,0,0,4,1,3,0,Non-New York City
 Westchester,Ardsley Vg PD,1991,,99,16,0,1,4,11,83,13,66,4,Non-New York City
+Cayuga,Moravia Vg PD,2017,12,7,0,0,0,0,0,7,0,7,0,Non-New York City
 Cortland,Cortland County State Police,2013,12,127,4,0,0,2,2,123,28,89,6,Non-New York City
 Nassau,Rockville Centre Vg PD,1994,,506,35,0,1,15,19,471,54,395,22,Non-New York City
 Ulster,Ellenville Vg PD,1992,,133,12,0,1,2,9,121,26,86,9,Non-New York City
 Westchester,Irvington Vg PD,1991,,80,3,0,0,1,2,77,21,46,10,Non-New York City
+Dutchess,Millerton Vg PD,2017,8,7,0,0,0,0,0,7,3,4,0,Non-New York City
 Madison,Canastota Vg PD,1993,,64,0,0,0,0,0,64,8,48,8,Non-New York City
 Ulster,Rosendale Town PD,2014,12,43,2,0,0,0,2,41,7,33,1,Non-New York City
 Erie,Amherst Town PD,1998,,2111,91,2,2,43,44,2020,183,1717,120,Non-New York City
@@ -6268,16 +6244,20 @@ Erie,Erie County Sheriff,2013,12,1002,104,2,1,8,93,898,180,695,23,Non-New York C
 Allegany,Angelica Vg PD,2013,12,2,0,0,0,0,0,2,1,1,0,Non-New York City
 Oneida,Camden Vg PD,2013,12,51,5,0,0,0,5,46,4,42,0,Non-New York City
 Albany,Albany County Sheriff,2006,12,145,32,0,1,2,29,113,25,86,2,Non-New York City
+Broome,County Total,2016,,5422,641,5,128,143,365,4781,991,3601,189,Non-New York City
 Washington,Washington County Sheriff,1990,,402,53,0,1,0,52,349,82,253,14,Non-New York City
 Wayne,Wayne County (RR-CSX),2008,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
 Niagara,Lockport City PD,2011,12,802,68,1,12,15,40,734,133,588,13,Non-New York City
 Madison,Madison County (RR-RC),1990,,4,0,0,0,0,0,4,0,4,0,Non-New York City
 Oneida,Whitesboro Vg PD,1999,,71,7,0,0,0,7,64,11,51,2,Non-New York City
 Albany,Albany City PD,2008,12,5490,1061,10,48,372,631,4429,1034,3170,225,Non-New York City
+Cattaraugus,County Total,2015,,1280,125,1,53,9,62,1155,214,907,34,Non-New York City
 Cortland,Homer Vg PD,2008,12,63,1,0,0,0,1,62,14,48,0,Non-New York City
 Westchester,Tarrytown Vg PD,1994,,315,21,1,0,7,13,294,41,219,34,Non-New York City
 Ulster,Kingston City PD,2013,12,761,74,1,4,25,44,687,112,565,10,Non-New York City
 Greene,Hunter Town PD,2004,8,18,7,0,0,3,4,11,2,9,0,Non-New York City
+Monroe,Rochester City PD,2017,12,9807,1872,27,141,707,997,7935,1337,5981,617,Non-New York City
+Wayne,Palmyra Vg PD,2017,10,9,2,0,0,0,2,7,0,7,0,Non-New York City
 Bronx,County Total,1996,,63772,20615,248,530,10023,9814,43157,11374,22006,9777,New York City
 Genesee,Genesee County Park PD,2010,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
 St Lawrence,Ogdensburg City PD,2013,12,420,23,0,1,5,17,397,72,321,4,Non-New York City
@@ -6286,6 +6266,7 @@ Westchester,Westchester County (RR-MN),1992,,191,21,0,0,13,8,170,18,151,1,Non-Ne
 Onondaga,Geddes Town PD,1999,,190,4,0,0,3,1,186,41,133,12,Non-New York City
 Chenango,Greene Vg PD,2000,,7,0,0,0,0,0,7,2,5,0,Non-New York City
 Livingston,SUNY College At Geneseo,1999,,105,0,0,0,0,0,105,6,99,0,Non-New York City
+Oneida,County Total,2017,,4773,694,4,203,109,378,4079,666,3284,129,Non-New York City
 Ulster,Lloyd Town PD,2013,12,124,6,0,0,0,6,118,20,95,3,Non-New York City
 Ontario,County Total,1996,,2463,84,0,14,15,55,2379,373,1921,85,Non-New York City
 Westchester,Ossining Vg PD,1997,,685,98,1,6,35,56,587,155,384,48,Non-New York City
@@ -6299,6 +6280,7 @@ Orange,Cornwall Town PD,2007,12,136,6,0,0,0,6,130,24,101,5,Non-New York City
 Westchester,Pelham Manor Vg PD,2011,12,154,6,0,0,3,3,148,12,130,6,Non-New York City
 Suffolk,Shelter Island Town PD,1998,,53,1,1,0,0,0,52,9,42,1,Non-New York City
 Nassau,Kings Point Vg PD,2001,,10,3,0,0,1,2,7,1,6,0,Non-New York City
+Orange,Orange County Sheriff,2017,12,23,12,0,2,0,10,11,0,11,0,Non-New York City
 Montgomery,St Johnsville Vg PD,1998,,59,1,0,0,0,1,58,10,46,2,Non-New York City
 Westchester,New Castle Town PD,1993,,180,1,1,0,0,0,179,38,128,13,Non-New York City
 Albany,Coeymans Town PD,2000,,49,4,0,0,0,4,45,4,39,2,Non-New York City
@@ -6340,7 +6322,9 @@ Niagara,Youngstown Vg PD,2010,12,6,1,0,1,0,0,5,1,4,0,Non-New York City
 Niagara,Middleport Vg PD,2000,,43,3,0,0,0,3,40,4,35,1,Non-New York City
 Allegany,Cuba Town PD,1998,,75,6,0,1,0,5,69,13,54,2,Non-New York City
 Steuben,Wayland Vg PD,2001,,50,3,0,0,0,3,47,5,42,0,Non-New York City
+Tompkins,Tompkins County Sheriff,2016,12,151,12,0,8,0,4,139,41,95,3,Non-New York City
 Cayuga,Weedsport Vg PD,2010,12,28,0,0,0,0,0,28,2,26,0,Non-New York City
+Dutchess,Poughkeepsie Town PD,2017,9,972,34,2,6,19,7,938,41,891,6,Non-New York City
 Lewis,County Total,2005,,366,28,0,7,1,20,338,164,160,14,Non-New York City
 Rensselaer,Rensselaer City PD,1992,,464,27,0,1,3,23,437,95,315,27,Non-New York City
 Yates,Penn Yan Vg PD,1997,,218,6,0,3,1,2,212,15,194,3,Non-New York City
@@ -6353,7 +6337,9 @@ Onondaga,SUNY - Upstate Medical Center,2007,12,148,2,0,0,0,2,146,0,146,0,Non-New
 Allegany,Angelica Vg PD,1997,,14,4,0,0,0,4,10,6,4,0,Non-New York City
 Cayuga,Moravia Vg PD,2002,12,5,1,0,0,0,1,4,0,3,1,Non-New York City
 Erie,Evans Town PD,2002,12,286,27,0,3,3,21,259,69,178,12,Non-New York City
+Schenectady,Schenectady City PD,2015,12,2635,596,10,68,155,363,2039,464,1447,128,Non-New York City
 Westchester,Tuckahoe Vg PD,2004,12,33,3,0,0,0,3,30,2,22,6,Non-New York City
+Essex,County Total,2017,,419,63,1,34,2,26,356,91,251,14,Non-New York City
 Herkimer,Frankfort Town PD,2007,12,29,4,1,0,0,3,25,11,14,0,Non-New York City
 Onondaga,Solvay Vg PD,2014,12,162,19,0,0,6,13,143,26,109,8,Non-New York City
 Ontario,Ontario County State Police,1990,,494,17,0,4,4,9,477,82,388,7,Non-New York City
@@ -6368,6 +6354,8 @@ Broome,Johnson City Vg PD,2012,12,1092,89,1,7,22,59,1003,139,854,10,Non-New York
 Broome,Broome County State Police,2005,12,716,52,2,13,7,30,664,135,515,14,Non-New York City
 Cortland,Cortland County Sheriff,1993,,417,44,1,1,1,41,373,110,256,7,Non-New York City
 Hamilton,Inlet Town PD,2007,12,6,0,0,0,0,0,6,1,5,0,Non-New York City
+Cayuga,Auburn City PD,2017,12,904,147,0,34,19,94,757,107,636,14,Non-New York City
+Wayne,Wayne County Sheriff,2016,12,491,45,2,8,7,28,446,124,307,15,Non-New York City
 Suffolk,Asharoken Vg PD,2010,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
 Columbia,Stockport Town PD,2012,12,10,1,0,0,1,0,9,7,2,0,Non-New York City
 Tioga,Tioga County (RR-RC) ,1995,,1,0,0,0,0,0,1,0,1,0,Non-New York City
@@ -6415,10 +6403,13 @@ Otsego,Cooperstown Vg PD,2007,11,31,2,0,0,0,2,29,1,28,0,Non-New York City
 Sullivan,Fallsburg Town PD,2004,12,131,57,0,0,8,49,74,46,21,7,Non-New York City
 Montgomery,Montgomery County State Police,2010,12,103,6,0,1,2,3,97,14,81,2,Non-New York City
 Oswego,Pulaski Vg PD,1991,,79,4,0,0,0,4,75,7,67,1,Non-New York City
+Warren,County Total,2017,,1079,107,3,44,10,50,972,131,818,23,Non-New York City
+Warren,County Total,2014,,1209,40,0,9,6,25,1169,156,998,15,Non-New York City
 Monroe,Rochester City PD,2001,,16114,1642,40,87,905,610,14472,2442,9716,2314,Non-New York City
 Franklin,Tupper Lake Vg PD,1992,,99,0,0,0,0,0,99,17,80,2,Non-New York City
 Chautauqua,Dunkirk City PD,2008,12,314,40,1,3,9,27,274,84,180,10,Non-New York City
 Westchester,Pelham Vg PD,1999,,150,7,0,0,7,0,143,13,122,8,Non-New York City
+Steuben,Steuben County Sheriff,2014,12,152,12,0,3,0,9,140,43,94,3,Non-New York City
 Greene,Windham Town PD,1994,,23,0,0,0,0,0,23,6,17,0,Non-New York City
 Albany,Ravena Vg PD,2003,12,19,1,0,0,1,0,18,4,14,0,Non-New York City
 Westchester,Eastchester Town PD,2014,12,146,6,0,0,2,4,140,25,112,3,Non-New York City
@@ -6433,6 +6424,7 @@ Oneida,Rome City PD,1995,,1009,55,2,6,31,16,954,185,724,45,Non-New York City
 Orange,Newburgh Town PD,2003,12,1120,35,0,0,22,13,1085,109,926,50,Non-New York City
 Allegany,Wellsville Vg PD,2011,12,205,19,0,0,1,18,186,18,166,2,Non-New York City
 Erie,Lackawanna City PD,2001,,590,67,0,7,14,46,523,87,345,91,Non-New York City
+Dutchess,Fishkill Vg PD,2017,12,30,2,0,0,1,1,28,3,24,1,Non-New York City
 Montgomery,Fort Plain Vg PD,2009,11,27,0,0,0,0,0,27,3,22,2,Non-New York City
 Franklin,County Total,2003,,1003,193,2,12,9,170,810,242,536,32,Non-New York City
 Steuben,Bath Vg PD,2007,12,161,19,0,2,4,13,142,19,120,3,Non-New York City
@@ -6550,6 +6542,7 @@ Saratoga,Saratoga Springs City PD,2011,12,628,20,0,2,3,15,608,78,524,6,Non-New Y
 Dutchess,Northeast T and Millerton V PD,1997,,8,0,0,0,0,0,8,1,7,0,Non-New York City
 Oneida,Rome City PD,2009,12,730,30,0,3,14,13,700,157,516,27,Non-New York City
 Onondaga,Cicero Town PD,2000,,481,30,0,0,3,27,451,91,344,16,Non-New York City
+Tompkins,Ithaca City PD,2016,12,969,72,2,10,19,41,897,90,787,20,Non-New York City
 Rensselaer,Hoosick Falls Vg PD,1997,,99,11,3,2,0,6,88,19,64,5,Non-New York City
 Ulster,Ulster County Park PD,1991,,3,0,0,0,0,0,3,1,2,0,Non-New York City
 Erie,Akron Vg PD,1995,,10,2,0,0,0,2,8,3,5,0,Non-New York City
@@ -6613,6 +6606,7 @@ Westchester,Tuckahoe Vg PD,1994,,113,15,0,3,1,11,98,5,79,14,Non-New York City
 Erie,Brant Town PD,1991,,22,2,0,0,0,2,20,9,9,2,Non-New York City
 Franklin,Tupper Lake Vg PD,2008,12,198,12,0,1,0,11,186,27,159,0,Non-New York City
 Chautauqua,Chautauqua County (RR-NS),1992,,11,0,0,0,0,0,11,0,11,0,Non-New York City
+Tioga,Tioga County Sheriff,2017,12,171,18,0,10,0,8,153,35,100,18,Non-New York City
 Orange,Orange County Park PD,1995,,25,2,0,0,1,1,23,9,13,1,Non-New York City
 Suffolk,Huntington Bay Vg PD,2008,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
 Niagara,County Total,2004,,7860,895,8,65,250,572,6965,1545,4879,541,Non-New York City
@@ -6651,6 +6645,9 @@ Dutchess,Dutchess County State Police,1990,,1177,201,1,10,16,174,976,369,544,63,
 Nassau,Freeport Vg PD,1997,,1667,254,2,18,146,88,1413,223,993,197,Non-New York City
 Oswego,Oswego County Sheriff,2004,12,319,8,0,1,3,4,311,100,190,21,Non-New York City
 Putnam,Carmel Town PD,2001,,338,18,0,0,4,14,320,63,245,12,Non-New York City
+Essex,Ticonderoga Town PD,2017,12,51,10,1,4,0,5,41,11,28,2,Non-New York City
+Suffolk,County Total,2016,,23090,1896,33,151,612,1100,21194,2132,17890,1172,Non-New York City
+Cattaraugus,County Total,2017,,1158,131,2,48,12,69,1027,189,805,33,Non-New York City
 Clinton,Rouses Point Vg PD,2005,12,20,5,0,0,0,5,15,3,12,0,Non-New York City
 Erie,Kenmore Vg PD,1994,,435,39,0,1,15,23,396,90,267,39,Non-New York City
 Orange,Chester Town PD,2001,,23,4,0,0,0,4,19,5,12,2,Non-New York City
@@ -6697,7 +6694,9 @@ Rensselaer,Schodack Town PD,2013,12,101,4,0,0,1,3,97,25,70,2,Non-New York City
 Erie,Akron Vg PD,2012,12,28,3,0,0,1,2,25,4,20,1,Non-New York City
 Tompkins,Dryden Vg PD,1994,,130,7,0,0,0,7,123,29,94,0,Non-New York City
 Yates,Yates County Sheriff,1992,,358,55,0,1,0,54,303,97,190,16,Non-New York City
+Albany,Guilderland Town PD,2017,12,713,27,0,9,6,12,686,34,648,4,Non-New York City
 St Lawrence,Massena Vg PD,1995,,138,20,1,1,4,14,118,23,90,5,Non-New York City
+Lewis,County Total,2017,,257,35,0,22,0,13,222,74,142,6,Non-New York City
 Dutchess,County Total,2002,,5968,696,6,47,198,445,5272,881,4122,269,Non-New York City
 Madison,Canastota Vg PD,1994,,91,0,0,0,0,0,91,19,71,1,Non-New York City
 Rockland,County Total,1990,,8508,709,5,40,178,486,7799,1429,5790,580,Non-New York City
@@ -6749,6 +6748,7 @@ Chenango,Norwich City PD,2003,12,397,21,0,10,0,11,376,42,330,4,Non-New York City
 Wayne,Macedon Town and Vg PD,1998,,99,6,0,0,1,5,93,17,72,4,Non-New York City
 Nassau,Sands Point Vg PD,2003,9,10,0,0,0,0,0,10,2,8,0,Non-New York City
 Greene,Cairo Town PD,1991,,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Steuben,County Total,2016,,1523,188,1,73,14,100,1335,229,1063,43,Non-New York City
 Westchester,Dobbs Ferry Vg PD,1999,,141,17,1,0,4,12,124,15,92,17,Non-New York City
 Westchester,County Total,2008,,16723,2414,27,75,1093,1219,14309,2370,11096,843,Non-New York City
 Chautauqua,Westfield Vg PD,2003,12,21,1,0,0,0,1,20,3,17,0,Non-New York City
