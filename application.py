@@ -2,8 +2,8 @@ import psycopg2
 import csv
 import pandas
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
-from database import GetCrimeRateOfYear, GetCrimeRateALL
-from printResults import printCrimeRate
+from database import GetCrimeRateOfYear, GetCrimeRateALL, GetUnemploymentRateALL, GetUnemploymentRateOfYear
+from printResults import printCrimeRate, printUnemploymentRate
 
 def main():
     while True:
@@ -35,7 +35,7 @@ def main():
                 if user_input2 == '1':
                     #crime rate
                     while True:
-                        year = input("Select a year from 1990 to 2018, or enter \"all\" to view data of all years, " + 
+                        year = input("Select a year from 1990 to 2017, or enter \"all\" to view data of all years, " +
                         "or \"quit\" to exit: ")
                         # remove tailing and leading spaces
                         year = year.strip()
@@ -61,16 +61,41 @@ def main():
                                 #user has selected a single county, specified year & data type (crime rate), find and print the row
                                 result = GetCrimeRateOfYear(county, year_val)
                                 printCrimeRate(result)
-                                break
                             except ValueError:
                                 print("Invalid input.\n")
                             
                 elif user_input2 == '2':
                     #crime count
                     break
+
                 elif user_input2 == '3':
-                    #unemployment rate
-                    break
+                    while True:
+                        year = input("Select a year from 1990 to 2019, or enter \"all\" to view data of all years, " +
+                                     "or \"quit\" to exit: ")
+                        year = year.strip()
+                        if year == 'all':
+                            while True:
+                                sort_selection = input("Select a sorting option (enter the corresponding number):\n" +
+                                                       "\t1: Sort by year (descending)\n" +
+                                                       "\t2: Sort by unemployment rate (descending)\n")
+
+                                if sort_selection != '1' and sort_selection != '2':
+                                    print("Invalid input.\n")
+                                else:
+                                    result = GetUnemploymentRateALL(county, sort_selection)
+                                    printUnemploymentRate(result)
+                                    break
+                        elif year == 'quit':
+                            break
+                        else:
+                            try:
+                                year_val = int(year)
+                                result = GetUnemploymentRateOfYear(county, year_val)
+                                printUnemploymentRate(result)
+                            except ValueError:
+                                print("Invalid input.\n")
+
+
                 elif user_input2 == '4':
                     #population
                     break
