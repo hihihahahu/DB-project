@@ -15,7 +15,7 @@ def main():
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(open("SQL.sql", "r").read())
+    cur.execute(open("create_schema.sql", "r").read())
 
     unemployment_stat = pandas.read_csv('Local_Area_Unemployment_Statistics__Beginning_1976.csv')
     unemployment_stat.shape
