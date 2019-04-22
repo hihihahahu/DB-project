@@ -50,7 +50,7 @@ def main():
                                 if sort_selection != '1' and sort_selection != '2':
                                     print("Invalid input.\n")
                                 else:
-                                    result = GetCrimeRateALL(county, sort_selection)
+                                    result = GetCrimeRateAll(county, sort_selection)
                                     printCrimeRate(result)
                                     break
                                     
@@ -68,7 +68,45 @@ def main():
                             
                 elif user_input2 == '2':
                     #crime count
-                    break
+                    while True:
+                        category = input("Select a crime category (enter the corresponding number:)\n" + 
+                        "\t1: Violent\n" + 
+                        "\t2: Property\n" +
+                        "\t3: All\n" +
+                        "\t4: Go back\n")
+                        
+
+
+
+                        year = input("Select a year from 1990 to 2018, or enter \"all\" to view data of all years, " + 
+                        "or \"quit\" to exit: ")
+                        # remove tailing and leading spaces
+                        year = year.strip()
+                        # explore all years from 1990 to 2018
+                        if year == 'all':
+                            while True:
+                                sort_selection = input("Select a sorting option (enter the corresponding number):\n" +
+                                "\t1: Sort by year (descending)\n" +
+                                "\t2: Sort by crime count (descending)\n")
+
+                                if sort_selection != '1' and sort_selection != '2':
+                                    print("Invalid input.\n")
+                                else:
+                                    result = GetCrimeCountAll(county, sort_selection)
+                                    printCrimeCount(result)
+                                    break
+                                    
+                        elif year == 'quit':
+                            break
+                        else:
+                            try:
+                                year_val = int(year)
+                                #user has selected a single county, specified year & data type (crime rate), find and print the row
+                                result = GetCrimeRateOfYear(county, year_val)
+                                printCrimeRate(result)
+                                break
+                            except ValueError:
+                                print("Invalid input.\n")
                 elif user_input2 == '3':
                     #unemployment rate
                     break
