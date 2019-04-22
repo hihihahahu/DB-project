@@ -30,7 +30,7 @@ def GetCrimeRateOfAllCounties(year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY unemploymentrate DESC;").format(sql.Identifier('CrimeRate'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY IndexRate DESC;").format(sql.Identifier('CrimeRate'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
     result = cur.fetchall()
     return result
 
@@ -61,7 +61,7 @@ def GetCrimeCountOfAllCounties(year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY unemploymentrate DESC;").format(sql.Identifier('CrimeTotal'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY IndexTotal DESC;").format(sql.Identifier('CrimeTotal'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
     result = cur.fetchall()
     return result
 
@@ -124,7 +124,7 @@ def GetComparisonOfAllCounties(year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY unemploymentrate DESC;").format(sql.Identifier('Comparison'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY IndexRate DESC;").format(sql.Identifier('Comparison'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
     result = cur.fetchall()
     return result
 
@@ -152,7 +152,7 @@ def GetPoulaionOfAllCounties(year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY unemploymentrate DESC;").format(sql.Identifier('Population'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY Population DESC;").format(sql.Identifier('Population'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
     result = cur.fetchall()
     return result
 
