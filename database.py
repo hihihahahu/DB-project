@@ -95,5 +95,7 @@ def GetComparisonOfYear(county, year):
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
     cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) = %s AND {} = %s;").format(sql.Identifier('comparison'), sql.Identifier('county'), sql.Identifier('year')), (county, year, ))
+    result = cur.fetchall()
+    return result
 
 
