@@ -2,11 +2,11 @@ import psycopg2
 import csv
 import pandas
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
-from database import GetCrimeRateOfYear, GetCrimeRateAll
-from database import GetCrimeCountOfYear, GetCrimeCountAll
+from database import GetCrimeRateOfYear, GetCrimeRateAll, GetCrimeRateOfAllCounties
+from database import GetCrimeCountOfYear, GetCrimeCountAll, GetCrimeCountOfAllCounties
 from database import GetUnemploymentRateAll, GetUnemploymentRateOfYear, GetUnemploymentRateOfAllCounties
-from database import GetComparisonAll, GetComparisonOfYear
-from database import GetPopulationALL, GetPopulationOfYear
+from database import GetComparisonAll, GetComparisonOfYear, GetComparisonOfAllCounties
+from database import GetPopulationALL, GetPopulationOfYear, GetPopulationOfAllCounties
 from printResults import printCrimeRate, printUnemploymentRate, printCrimeCount, printComparison, printPopulation
 
 def main():
