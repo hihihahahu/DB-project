@@ -113,7 +113,7 @@ def GetPopulationOfYear(county, year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) = %s AND {} = %s;").format(sql.Identifier('Population'), sql.Identifier('county'), sql.Identifier('year')), (county, year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE {} = %s AND {} = %s;").format(sql.Identifier('Population'), sql.Identifier('County'), sql.Identifier('Year')), (county, year, ))
     result = cur.fetchall()
     return result
 
