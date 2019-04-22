@@ -81,7 +81,7 @@ def main():
                                             "or \"quit\" to exit: ")
                         try:
                             year_val = int(year)
-                            print("results will be sorted by crime rate vs. unemployment rate, in descending order")
+                            print("results will be sorted by index crime rate, in descending order")
                             # user has selected a single county, specified year & data type (crime rate), find and print the row
                             result = GetComparisonOfAllCounties(year_val)
                             printComparison(result)
