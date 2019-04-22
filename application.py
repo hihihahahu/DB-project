@@ -115,7 +115,7 @@ def main():
                                     print("Invalid input.\n")
                                 else:
                                     result = GetCrimeCountAll(county, sort_selection)
-                                    #printCrimeCount(result)
+                                    printCrimeCount(result)
                                     break
                         elif year == 'quit':
                             break
