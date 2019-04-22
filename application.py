@@ -158,6 +158,31 @@ def main():
 
 
                 elif user_input2 == '4':
+                    while True:
+                        year = input("Select a year from 1990 to 2019, or enter \"all\" to view data of all years, " +
+                                     "or \"quit\" to exit: ")
+                        year = year.strip()
+                        if year == 'all':
+                            while True:
+                                sort_selection = input("Select a sorting option (enter the corresponding number):\n" +
+                                                       "\t1: Sort by year (descending)\n" +
+                                                       "\t2: Sort by population (descending)\n")
+
+                                if sort_selection != '1' and sort_selection != '2':
+                                    print("Invalid input.\n")
+                                else:
+                                    result = GetPopulationALL(county, sort_selection)
+                                    printPopulation(result)
+                                    break
+                        elif year == 'quit':
+                            break
+                        else:
+                            try:
+                                year_val = int(year)
+                                result = GetPopulationOYear(county, year_val)
+                                printUnemploymentRate(result)
+                            except ValueError:
+                                print("Invalid input.\n")                   
                     #population
                     break
                 elif user_input2 == '5':
