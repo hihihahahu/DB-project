@@ -4,6 +4,7 @@ import pandas
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 from database import GetCrimeRateOfYear, GetCrimeRateALL, GetUnemploymentRateALL, GetUnemploymentRateOfYear
 from printResults import printCrimeRate, printUnemploymentRate
+from pprint import pprint
 
 def main():
     while True:
