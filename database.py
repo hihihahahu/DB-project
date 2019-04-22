@@ -57,3 +57,12 @@ def GetUnemploymentRateOfYear(county, year):
     cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) = %s AND {} = %s;").format(sql.Identifier('unemploymenttable'), sql.Identifier('county'), sql.Identifier('year')), (county, year, ))
     result = cur.fetchall()
     return result
+
+def GetUnemploymentRateOfAllCounties(year):
+    conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
+    conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
+    cur = conn.cursor()
+    #cur.execute("SELECT * FROM unemploymenttable WHERE LOWER(county) LIKE %s AND year = %s ORDER BY unemploymentrate DESC", ('%' + ' County',year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY unemploymentrate DESC;").format(sql.Identifier('unemploymenttable'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
+    result = cur.fetchall()
+    return result
