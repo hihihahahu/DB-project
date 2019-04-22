@@ -148,7 +148,7 @@ def GetPopulationOfYear(county, year):
     result = cur.fetchall()
     return result
 
-def GetPoulaionOfAllCounties(year):
+def GetPopulationOfAllCounties(year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
