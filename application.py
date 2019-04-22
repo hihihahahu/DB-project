@@ -2,9 +2,10 @@ import psycopg2
 import csv
 import pandas
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
-from database import GetCrimeRateOfYear, GetCrimeRateAll, GetUnemploymentRateALL, GetUnemploymentRateOfYear, GetCrimeCountAll, GetUnemploymentRateOfAllCounties
-from printResults import printCrimeRate, printUnemploymentRate
-from pprint import pprint
+from database import GetCrimeRateOfYear, GetCrimeRateAll
+from database import GetCrimeCountOfYear, GetCrimeCountAll
+from database import GetUnemploymentRateAll, GetUnemploymentRateOfYear, GetUnemploymentRateOfAllCounties
+from printResults import printCrimeRate, printUnemploymentRate, printCrimeCount
 
 def main():
     while True:
@@ -98,15 +99,6 @@ def main():
                 elif user_input2 == '2':
                     #crime count
                     while True:
-                        category = input("Select a crime category (enter the corresponding number:)\n" + 
-                        "\t1: Violent\n" + 
-                        "\t2: Property\n" +
-                        "\t3: All\n" +
-                        "\t4: Go back\n")
-                        
-
-
-
                         year = input("Select a year from 1990 to 2018, or enter \"all\" to view data of all years, " + 
                         "or \"quit\" to exit: ")
                         # remove tailing and leading spaces
@@ -124,19 +116,17 @@ def main():
                                     result = GetCrimeCountAll(county, sort_selection)
                                     #printCrimeCount(result)
                                     break
-                                    
                         elif year == 'quit':
                             break
                         else:
                             try:
                                 year_val = int(year)
                                 #user has selected a single county, specified year & data type (crime rate), find and print the row
-                                result = GetCrimeRateOfYear(county, year_val)
-                                printCrimeRate(result)
+                                result = GetCrimeCountOfYear(county, year_val)
+                                printCrimeCount(result)
                                 break
                             except ValueError:
                                 print("Invalid input.\n")
-                    break
 
                 elif user_input2 == '3':
                     while True:
@@ -152,7 +142,7 @@ def main():
                                 if sort_selection != '1' and sort_selection != '2':
                                     print("Invalid input.\n")
                                 else:
-                                    result = GetUnemploymentRateALL(county, sort_selection)
+                                    result = GetUnemploymentRateAll(county, sort_selection)
                                     printUnemploymentRate(result)
                                     break
                         elif year == 'quit':

@@ -26,18 +26,28 @@ def GetCrimeRateAll(county, sort_selection):
     result = cur.fetchall()
     return result
 
+def GetCrimeCountOfYear(county, year):
+    conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
+    conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
+    cur = conn.cursor()
+    #sprint("year: " + year)
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) = %s AND {} = %s;").format(sql.Identifier('crimetotal'), sql.Identifier('county'), sql.Identifier('year')), (county, year, ))
+    result = cur.fetchall()
+    #print(result)
+    return result
+
 def GetCrimeCountAll(county, sort_selection):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
     if sort_selection == '1':
-        cur.execute("SELECT * FROM CrimeRate WHERE LOWER(County) = %s ORDER BY Year DESC", [county])
+        cur.execute("SELECT * FROM CrimeTotal WHERE LOWER(County) = %s ORDER BY Year DESC", [county])
     else:
-        cur.execute("SELECT * FROM CrimeRate WHERE LOWER(County) = %s ORDER BY IndexRate DESC", [county])
+        cur.execute("SELECT * FROM CrimeTotal WHERE LOWER(County) = %s ORDER BY IndexTotal DESC", [county])
     result = cur.fetchall()
     return result
 
-def GetUnemploymentRateALL(county, sort_selection):
+def GetUnemploymentRateAll(county, sort_selection):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
