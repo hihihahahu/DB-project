@@ -6,7 +6,16 @@ def printCrimeRate(result):
     # content
     for entry in result:
         for item in entry:
-            print("{:25s}".format(str(item) + " "), end="")
-        print("")
-    # footer line
+            print("{:25s}".format(str(item) + " "), end='')
+        print("\n")
+    print("\n")
+    print("-" * 125)
+    
+def printUnemploymentRate(result):
+    print("{:25s}{:25s}{:25s}".format('county', 'year', 'unemployment rate'))
+    for entry in result:
+        for item in entry:
+            print("{:25s}".format(str(item) + " "), end='')
+        print("\n")
+    print("\n")
     print("-" * 125)
