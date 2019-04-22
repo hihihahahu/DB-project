@@ -6,7 +6,8 @@ from database import GetCrimeRateOfYear, GetCrimeRateAll
 from database import GetCrimeCountOfYear, GetCrimeCountAll
 from database import GetUnemploymentRateAll, GetUnemploymentRateOfYear, GetUnemploymentRateOfAllCounties
 from database import GetComparisonAll, GetComparisonOfYear
-from printResults import printCrimeRate, printUnemploymentRate, printCrimeCount, printComparison
+from database import GetPopulationALL, GetPopulationOfYear
+from printResults import printCrimeRate, printUnemploymentRate, printCrimeCount, printComparison, printPopulation
 
 def main():
     while True:
