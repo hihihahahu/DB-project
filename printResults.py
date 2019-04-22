@@ -55,3 +55,13 @@ def printPopulation(result):
             print("{:25s}".format(str(item) + " "), end='')
         print("")
     print("-" * 75)
+
+def printPopulation(result):
+    print("-" * 75)
+    print("{:25s}{:25s}{:25s}".format('County', 'Year', 'Population'))
+    print("-" * 75)
+    for entry in result:
+        for item in entry:
+            print("{:25s}".format(str(item) + " "), end='')
+        print("")
+    print("-" * 75)
