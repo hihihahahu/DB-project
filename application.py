@@ -31,9 +31,11 @@ def main():
                     while True:
                         year = input("Select a year from 1990 to 2017, " +
                                             "or \"quit\" to exit: ")
+                        if year == 'quit':
+                            break
                         try:
                             year_val = int(year)
-                            print("results will be sorted by crime rate, in descending order")
+                            print("results will be sorted by index crime rate, in descending order")
                             result = GetCrimeRateOfAllCounties(year_val)
                             printCrimeRate(result)
                         except ValueError:
@@ -42,9 +44,11 @@ def main():
                     while True:
                         year = input("Select a year from 1990 to 2017, " +
                                             "or \"quit\" to exit: ")
+                        if year == 'quit':
+                            break
                         try:
                             year_val = int(year)
-                            print("results will be sorted by crime count, in descending order")
+                            print("results will be sorted by index crime count, in descending order")
                             # user has selected a single county, specified year & data type (crime rate), find and print the row
                             result = GetCrimeCountOfAllCounties(year_val)
                             printCrimeCount(result)
@@ -54,6 +58,8 @@ def main():
                     while True:
                         year = input("Select a year from 1990 to 2017, " +
                                             "or \"quit\" to exit: ")
+                        if year == 'quit':
+                            break
                         try:
                             year_val = int(year)
                             print("results will be sorted by unemployment rate, in descending order")
@@ -67,6 +73,8 @@ def main():
                      while True:
                         year = input("Select a year from 1990 to 2017, " +
                                             "or \"quit\" to exit: ")
+                        if year == 'quit':
+                            break
                         try:
                             year_val = int(year)
                             print("results will be sorted by population, in descending order")
@@ -79,6 +87,8 @@ def main():
                     while True:
                         year = input("Select a year from 1990 to 2017, " +
                                             "or \"quit\" to exit: ")
+                        if year == 'quit':
+                            break
                         try:
                             year_val = int(year)
                             print("results will be sorted by index crime rate, in descending order")
@@ -89,7 +99,6 @@ def main():
                             print("Invalid input.\n")
                 elif user_input2 == '6':
                     break
-            break
         else:
             while True:
                 #1. crime rate stats

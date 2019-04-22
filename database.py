@@ -30,7 +30,7 @@ def GetCrimeRateOfAllCounties(year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY IndexRate DESC;").format(sql.Identifier('CrimeRate'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE {} = %s ORDER BY IndexRate DESC;").format(sql.Identifier('crimerate'), sql.Identifier('year')), (year, ))
     result = cur.fetchall()
     return result
 
@@ -41,7 +41,7 @@ def GetCrimeCountOfYear(county, year):
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
     #sprint("year: " + year)
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) = %s AND {} = %s;").format(sql.Identifier('crimetotal'), sql.Identifier('county'), sql.Identifier('year')), (county, year, ))
+    cur.execute(sql.SQL("SELECT county, year, sum(violenttotal), sum(propertytotal), sum(indextotal) FROM {} WHERE LOWER({}) = %s AND {} = %s GROUP BY county, year;").format(sql.Identifier('crimetotal'), sql.Identifier('county'), sql.Identifier('year')), (county, year, ))
     result = cur.fetchall()
     #print(result)
     return result
@@ -51,9 +51,9 @@ def GetCrimeCountAll(county, sort_selection):
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
     if sort_selection == '1':
-        cur.execute("SELECT * FROM CrimeTotal WHERE LOWER(County) = %s ORDER BY Year DESC", [county])
+        cur.execute("SELECT county, year, sum(violenttotal), sum(propertytotal), sum(indextotal) FROM CrimeTotal WHERE LOWER(County) = %s GROUP BY county, year ORDER BY Year DESC", [county])
     else:
-        cur.execute("SELECT * FROM CrimeTotal WHERE LOWER(County) = %s ORDER BY IndexTotal DESC", [county])
+        cur.execute("SELECT county, year, sum(violenttotal), sum(propertytotal), sum(indextotal) AS indextotal2 FROM CrimeTotal WHERE LOWER(County) = %s GROUP BY county, year ORDER BY indextotal2 DESC", [county])
     result = cur.fetchall()
     return result
 
@@ -61,7 +61,7 @@ def GetCrimeCountOfAllCounties(year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY IndexTotal DESC;").format(sql.Identifier('CrimeTotal'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
+    cur.execute(sql.SQL("SELECT county, year, sum(violenttotal), sum(propertytotal), sum(indextotal) AS indextotal2 FROM {} WHERE {} = %s GROUP BY county, year ORDER BY indextotal2 DESC;").format(sql.Identifier('crimetotal'), sql.Identifier('year')), (year, ))
     result = cur.fetchall()
     return result
 
@@ -124,7 +124,7 @@ def GetComparisonOfAllCounties(year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY IndexRate DESC;").format(sql.Identifier('Comparison'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE {} = %s ORDER BY IndexRate DESC;").format(sql.Identifier('comparison'), sql.Identifier('year')), (year, ))
     result = cur.fetchall()
     return result
 
@@ -152,7 +152,7 @@ def GetPopulationOfAllCounties(year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) LIKE %s AND {} = %s ORDER BY Population DESC;").format(sql.Identifier('Population'), sql.Identifier('county'), sql.Identifier('year')), ('% county', year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE {} = %s ORDER BY Population DESC;").format(sql.Identifier('population'), sql.Identifier('year')), (year, ))
     result = cur.fetchall()
     return result
 
