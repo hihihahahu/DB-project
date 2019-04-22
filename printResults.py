@@ -13,7 +13,7 @@ def printCrimeRate(result):
 def printCrimeCount(result):
     # header
     print("-" * 144)
-print("{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}".format('County', 'Year', 'Murder', 'Rape' , 'Robbery', 'Aggravated', 'Violent', 'Bulglary', 'Larceny', 'Motor', 'Property', 'Index'))
+    print("{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}".format('County', 'Year', 'Murder', 'Rape' , 'Robbery', 'Aggravated', 'Violent', 'Bulglary', 'Larceny', 'Motor', 'Property', 'Index'))
     print("{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}".format(''      , ''    , 'Count' , 'Count', 'Count'  , 'Assualt'   , 'Crime'  , 'Count'   , 'Count'  , 'Theft', 'Crime'   , 'Crime'))
     print("{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}{:12s}".format(''      , ''    , ''      , ''     , ''       , 'Count'     , 'Count'  , ''        , ''       , 'Count', 'Count'   , 'Count'))
     print("-" * 144)

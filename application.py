@@ -97,7 +97,7 @@ def main():
                             printComparison(result)
                         except ValueError:
                             print("Invalid input.\n")
-                elif user_input2 == '6':
+                elif user_input2 == '6' or user_input2 == 'quit' or user_input2 == 'q':
                     break
         else:
             while True:
@@ -207,6 +207,7 @@ def main():
 
 
                 elif user_input2 == '4':
+                    #population
                     while True:
                         year = input("Select a year from 1990 to 2019, or enter \"all\" to view data of all years, " +
                                      "or \"quit\" to exit: ")
@@ -232,8 +233,7 @@ def main():
                                 printPopulation(result)
                             except ValueError:
                                 print("Invalid input.\n")                   
-                    #population
-                    break
+                    
                 elif user_input2 == '5':
                     #crime rate vs. unemployment rate
                     while True:
@@ -262,7 +262,7 @@ def main():
                                 printComparison(result)
                             except ValueError:
                                 print("Invalid input.\n")
-                elif user_input2 == '6':
+                elif user_input2 == '6' or user_input2 == 'quit' or user_input2 == 'q':
                     break
                 else:
                     print("Invalid input.\n")
