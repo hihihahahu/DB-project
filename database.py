@@ -103,9 +103,9 @@ def GetPopulationALL(county, sort_selection):
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
     if sort_selection == '1':
-        cur.execute("SELECT * FROM Population WHERE County = %s ORDER BY Year DESC", [county])
+        cur.execute("SELECT * FROM Population WHERE LOWER(County) = %s ORDER BY Year DESC", [county])
     else:
-        cur.execute("SELECT * FROM Population WHERE County = %s ORDER BY Population DESC", [county])
+        cur.execute("SELECT * FROM Population WHERE LOWER(County) = %s ORDER BY Population DESC", [county])
     result = cur.fetchall()
     return result
 
@@ -113,7 +113,7 @@ def GetPopulationOfYear(county, year):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     cur = conn.cursor()
-    cur.execute(sql.SQL("SELECT * FROM {} WHERE {} = %s AND {} = %s;").format(sql.Identifier('Population'), sql.Identifier('County'), sql.Identifier('Year')), (county, year, ))
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) = %s AND {} = %s;").format(sql.Identifier('Population'), sql.Identifier('County'), sql.Identifier('Year')), (county, year, ))
     result = cur.fetchall()
     return result
 
