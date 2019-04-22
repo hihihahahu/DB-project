@@ -24,10 +24,22 @@ def printCrimeCount(result):
 
 def printUnemploymentRate(result):
     print("-" * 75)
-    print("{:25s}{:25s}{:25s}".format('county', 'year', 'unemployment rate'))
+    print("{:25s}{:25s}{:25s}".format('County', 'Year', 'Unemployment Rate'))
     print("-" * 75)
     for entry in result:
         for item in entry:
             print("{:25s}".format(str(item) + " "), end='')
         print("")
     print("-" * 75)
+
+def printComparison(result):
+    # header
+    print("-" * 150)
+    print("{:25s}{:25s}{:25s}{:25s}{:25s}{:25s}".format('County', 'Year', 'Violent Crime Rate', 'Property Crime Rate', 'Index Crime Rate', 'Unemployment Rate'))
+    print("-" * 150)
+    # content
+    for entry in result:
+        for item in entry:
+            print("{:25s}".format(str(item) + " "), end='')
+        print("")
+    print("-" * 150)

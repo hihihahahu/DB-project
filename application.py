@@ -5,7 +5,8 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 from database import GetCrimeRateOfYear, GetCrimeRateAll
 from database import GetCrimeCountOfYear, GetCrimeCountAll
 from database import GetUnemploymentRateAll, GetUnemploymentRateOfYear
-from printResults import printCrimeRate, printUnemploymentRate, printCrimeCount
+from database import GetComparisonAll, GetComparisonOfYear
+from printResults import printCrimeRate, printUnemploymentRate, printCrimeCount, printComparison
 
 def main():
     while True:
@@ -131,7 +132,32 @@ def main():
                     break
                 elif user_input2 == '5':
                     #crime rate vs. unemployment rate
-                    break
+                    while True:
+                        year = input("Select a year from 1990 to 2019, or enter \"all\" to view data of all years, " +
+                                     "or \"quit\" to exit: ")
+                        year = year.strip()
+                        if year == 'all':
+                            while True:
+                                sort_selection = input("Select a sorting option (enter the corresponding number):\n" +
+                                                       "\t1: Sort by year (descending)\n" +
+                                                       "\t2: Sort by unemployment rate (descending)\n"
+                                                       "\t3: Sort by index crime rate (descending)\n")
+
+                                if sort_selection != '1' and sort_selection != '2' and sort_selection != '3':
+                                    print("Invalid input.\n")
+                                else:
+                                    result = GetComparisonAll(county, sort_selection)
+                                    printComparison(result)
+                                    break
+                        elif year == 'quit':
+                            break
+                        else:
+                            try:
+                                year_val = int(year)
+                                result = GetComparisonOfYear(county, year_val)
+                                printComparison(result)
+                            except ValueError:
+                                print("Invalid input.\n")
                 elif user_input2 == '6':
                     break
                 else:

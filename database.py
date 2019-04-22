@@ -67,3 +67,24 @@ def GetUnemploymentRateOfYear(county, year):
     cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) = %s AND {} = %s;").format(sql.Identifier('unemploymenttable'), sql.Identifier('county'), sql.Identifier('year')), (county, year, ))
     result = cur.fetchall()
     return result
+
+def GetComparisonAll(county, sort_selection):
+    conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
+    conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
+    cur = conn.cursor()
+    if sort_selection == '1': # sort by year
+        cur.execute("SELECT * FROM Comparison WHERE LOWER(County) = %s ORDER BY Year DESC", [county])
+    elif sort_selection == '2': # sort by unemployment rate (descending)
+        cur.execute("SELECT * FROM Comparison WHERE LOWER(County) = %s ORDER BY UnemploymentRate DESC", [county])
+    else: # Sort by index crime rate (descending)
+        cur.execute("SELECT * FROM Comparison WHERE LOWER(County) = %s ORDER BY IndexRate DESC", [county])
+    result = cur.fetchall()
+    return result
+
+def GetComparisonOfYear(county, year):
+    conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
+    conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
+    cur = conn.cursor()
+    cur.execute(sql.SQL("SELECT * FROM {} WHERE LOWER({}) = %s AND {} = %s;").format(sql.Identifier('comparison'), sql.Identifier('county'), sql.Identifier('year')), (county, year, ))
+    result = cur.fetchall()
+    return result
