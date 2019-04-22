@@ -4,7 +4,7 @@ import pandas
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 from database import GetCrimeRateOfYear, GetCrimeRateAll
 from database import GetCrimeCountOfYear, GetCrimeCountAll
-from database import GetUnemploymentRateAll, GetUnemploymentRateOfYear
+from database import GetUnemploymentRateAll, GetUnemploymentRateOfYear, GetUnemploymentRateOfAllCounties
 from database import GetComparisonAll, GetComparisonOfYear
 from printResults import printCrimeRate, printUnemploymentRate, printCrimeCount, printComparison
 
@@ -18,7 +18,37 @@ def main():
         if county == 'exit':
             break
         if county == 'all':
-            #to be implemented
+            while True:
+                user_input2 = input("Select an option from below (enter the corresponding number):\n" +
+                                    "\t1: Explore crime rate statistics\n" +
+                                    "\t2: Explore crime count statistics\n" +
+                                    "\t3: Explore unemployment rate statistics\n" +
+                                    "\t4: Explore population statistics\n" +
+                                    "\t5: Explore crime rate vs. unemployment rate\n" +
+                                    "\t6: quit\n")
+                if user_input2 == '1':
+                    break
+                elif user_input2 == '2':
+                    break
+                elif user_input2 == '3':
+                    while True:
+                        year = input("Select a year from 1990 to 2017, " +
+                                            "or \"quit\" to exit: ")
+                        try:
+                            year_val = int(year)
+                            print("results will be sorted by unemployment rate, in descending order")
+                            # user has selected a single county, specified year & data type (crime rate), find and print the row
+                            result = GetUnemploymentRateOfAllCounties(year_val)
+                            printUnemploymentRate(result)
+                        except ValueError:
+                            print("Invalid input.\n")
+
+                elif user_input2 == '4':
+                    break
+                elif user_input2 == '5':
+                    break
+                elif user_input2 == '6':
+                    break
             break
         else:
             while True:
@@ -47,7 +77,7 @@ def main():
                             while True:
                                 sort_selection = input("Select a sorting option (enter the corresponding number):\n" +
                                 "\t1: Sort by year (descending)\n" +
-                                "\t2: Sort by crime rate (descending)\n")
+                                "\t2: Sort by index crime rate (descending)\n")
 
                                 if sort_selection != '1' and sort_selection != '2':
                                     print("Invalid input.\n")
@@ -79,13 +109,13 @@ def main():
                             while True:
                                 sort_selection = input("Select a sorting option (enter the corresponding number):\n" +
                                 "\t1: Sort by year (descending)\n" +
-                                "\t2: Sort by crime count (descending)\n")
+                                "\t2: Sort by index crime count (descending)\n")
 
                                 if sort_selection != '1' and sort_selection != '2':
                                     print("Invalid input.\n")
                                 else:
                                     result = GetCrimeCountAll(county, sort_selection)
-                                    printCrimeCount(result)
+                                    #printCrimeCount(result)
                                     break
                         elif year == 'quit':
                             break
