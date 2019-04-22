@@ -180,7 +180,7 @@ def main():
                             try:
                                 year_val = int(year)
                                 result = GetPopulationOYear(county, year_val)
-                                printUnemploymentRate(result)
+                                printPopulation(result)
                             except ValueError:
                                 print("Invalid input.\n")                   
                     #population
