@@ -18,3 +18,14 @@ def GetCrimeRateOfYear(county, year):
 def GetCrimeRate(county):
     conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
     conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
+
+def GetCrimeRateALL(county, sort_selection):
+    conn = psycopg2.connect(host='localhost', dbname='project_db', user='db_project', password='db_project')
+    conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
+    cur = conn.cursor()
+    if sort_selection == '1':
+        cur.execute("SELECT * FROM CrimeRate WHERE LOWER(County) = %s ORDER BY Year DESC", [county])
+    else:
+        cur.execute("SELECT * FROM CrimeRate WHERE LOWER(County) = %s ORDER BY IndexRate DESC", [county])
+    result = cur.fetchall()
+    return result
