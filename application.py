@@ -179,7 +179,7 @@ def main():
                         else:
                             try:
                                 year_val = int(year)
-                                result = GetPopulationOYear(county, year_val)
+                                result = GetPopulationOfYear(county, year_val)
                                 printPopulation(result)
                             except ValueError:
                                 print("Invalid input.\n")                   
